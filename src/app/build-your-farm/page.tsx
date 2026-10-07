@@ -19,11 +19,11 @@ export default function BuildYourFarmPage() {
             <span>Interactive Agronomy Estimator</span>
           </div>
           <h1 className="font-serif text-4xl sm:text-6xl font-bold text-[#102115]">
-            Build Your Family&rsquo;s Farm
+            Build Your Family&rsquo;s Farm Plan
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
-            Configure your family kitchen size, hand-select your vegetables, and see the exact plot
-            allocation, harvest yield, and monthly plan recommended for your household.
+            Configure your household scale, select your preferred vegetables, and calculate the exact
+            PureVegies farming allocation and subscription plan. PureVegies provides the land and farmers — no land purchase required.
           </p>
         </div>
 
@@ -36,8 +36,8 @@ export default function BuildYourFarmPage() {
             <Scale className="w-5 h-5 text-[#2D5A3C]" />
             <h4 className="font-serif text-lg font-bold text-[#102115]">Balanced Bed Ecology</h4>
             <p className="text-xs text-zinc-600 leading-relaxed">
-              We rotate legumes (beans, peas) alongside heavy feeders (tomatoes, cabbage) so your plot
-              soil stays naturally replenished with organic nitrogen.
+              We rotate legumes (beans, peas) alongside heavy feeders (tomatoes, cabbage) so the allocated
+              soil beds stay naturally replenished with organic nitrogen.
             </p>
           </div>
 

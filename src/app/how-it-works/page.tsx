@@ -32,14 +32,14 @@ export default function HowItWorksPage() {
         {/* Page Hero */}
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <span className="text-xs font-bold uppercase tracking-widest text-[#628A6F]">
-            The Agronomy Protocol
+            The Managed Farming Protocol
           </span>
           <h1 className="font-serif text-4xl sm:text-6xl font-bold text-[#102115] leading-tight">
-            How Farm-to-Family Operates
+            How PureVegies Operates
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
-            We bridge the gap between rural agricultural mastery and your family dining table.
-            Here is the science, care, and logistics powering your subscription.
+            PureVegies provides the agricultural land, water infrastructure, farmers, and daily cultivation.
+            You choose what your family wants us to grow — no land purchase, lease, or farming labor required.
           </p>
         </div>
 
@@ -56,7 +56,7 @@ export default function HowItWorksPage() {
                 num: '01',
                 title: 'Choose Your Plan',
                 desc: "Select between My Family's Farm (Everyday essentials), My Dedicated Farm (Custom plot), or My Private Farm (HNI Estate) depending on your household scale.",
-                action: 'Online subscription setup with zero long-term land lock-in.',
+                action: 'Online subscription setup with zero long-term land liabilities.',
               },
               {
                 num: '02',
@@ -67,8 +67,8 @@ export default function HowItWorksPage() {
               {
                 num: '03',
                 title: 'We Allocate Your Farm Space',
-                desc: 'A physical numbered plot or sector is earmarked exclusively for your family at our nearest partner agro-estate with verified water and soil health.',
-                action: 'Full plot telemetry (sq.ft, sunlight hours, soil pH) logged in your portal.',
+                desc: 'Based on your plan and crop requirements, PureVegies allocates appropriate farming space within our managed farms. You do not buy or provide land; your subscription gives you access to produce grown in our managed farming network.',
+                action: 'Allocated space details and soil telemetry logged in your portal.',
               },
               {
                 num: '04',

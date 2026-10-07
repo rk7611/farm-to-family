@@ -24,6 +24,7 @@ export default function Navbar() {
   const navLinks = [
     { label: 'Home', href: '/' },
     { label: 'How It Works', href: '/how-it-works' },
+    { label: 'Our Business Model', href: '/business-model' },
     { label: 'Plans', href: '/plans' },
     { label: 'Build Your Farm', href: '/build-your-farm' },
     { label: 'Our Farms', href: '/farms' },
@@ -40,12 +41,12 @@ export default function Navbar() {
       <div className="bg-[#102115] text-[#E3EDE6] text-xs py-2 px-4 border-b border-[#20412b]">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2 text-center sm:text-left">
           <div className="flex items-center gap-2">
-            <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-[#20412b] text-[#9EC9AB] text-[11px] font-medium tracking-wide">
+            <span className="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-full bg-[#20412b] text-[#9EC9AB] text-[11px] font-bold tracking-wide">
               <ShieldCheck className="w-3.5 h-3.5 text-[#9EC9AB]" />
-              VERIFIED PRACTICES
+              NO LAND REQUIRED
             </span>
             <span className="text-zinc-300">
-              Managed farming • Transparent cultivation • Farm-to-family delivery
+              PureVegies provides farmland, farmers & infrastructure • You choose what we grow
             </span>
           </div>
 
@@ -81,10 +82,10 @@ export default function Navbar() {
               </div>
               <div className="flex flex-col">
                 <span className="font-serif tracking-wider font-bold text-xl text-[#102115] leading-none">
-                  FARM-TO-FAMILY
+                  PUREVEGIES
                 </span>
-                <span className="text-[10px] tracking-[0.2em] uppercase font-semibold text-[#628A6F] mt-1">
-                  Private Managed Farming
+                <span className="text-[10px] tracking-[0.15em] uppercase font-semibold text-[#628A6F] mt-1">
+                  Managed Farming Without Owning Land
                 </span>
               </div>
             </Link>
@@ -127,7 +128,7 @@ export default function Navbar() {
                 href="/build-your-farm"
                 className="inline-flex items-center gap-2 px-5 py-2.5 text-xs font-semibold uppercase tracking-wider text-white bg-[#172F1F] hover:bg-[#20412B] rounded-full transition shadow-sm group"
               >
-                <span>Build My Farm</span>
+                <span>Build My Farm Plan</span>
                 <ArrowRight className="w-3.5 h-3.5 transition-transform group-hover:translate-x-0.5" />
               </Link>
             </div>
@@ -179,7 +180,7 @@ export default function Navbar() {
                   onClick={() => setMobileMenuOpen(false)}
                   className="w-full text-center py-3 bg-[#172F1F] text-white text-sm font-semibold rounded-full shadow-sm"
                 >
-                  Build My Farm
+                  Build My Farm Plan
                 </Link>
                 <Link
                   href="/admin"

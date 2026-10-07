@@ -118,10 +118,10 @@ export default function BuildFarmWizard() {
         planName: 'My Private Farm',
         priceLabel: '₹7,00,000 / year',
         monthlyNote: 'Approx. ₹58,333/month',
-        sqFt: '10,000 – 20,000 sq.ft (Private Estate Parcel)',
+        sqFt: '10,000 – 20,000 sq.ft (PureVegies Managed Estate Parcel)',
         estHarvest: '65 – 80 kg fresh produce monthly',
         frequency: 'Twice-weekly personalized morning deliveries in timber crates',
-        idealFor: 'Large households, joint families & estates requiring end-to-end bespoke farming.',
+        idealFor: 'Large households requiring bespoke crop planning on PureVegies managed farmland.',
       };
     } else if (familySize === '3–4' || familySize === '5–6') {
       return {
@@ -129,10 +129,10 @@ export default function BuildFarmWizard() {
         planName: 'My Dedicated Farm',
         priceLabel: '₹20,000 / month',
         monthlyNote: 'Most popular family choice',
-        sqFt: '2,000 – 2,800 sq.ft (Exclusively Numbered Plot)',
+        sqFt: '2,000 – 2,800 sq.ft (Dedicated Farming Area within PureVegies Network)',
         estHarvest: '35 – 45 kg fresh produce monthly',
         frequency: 'Weekly or bi-weekly priority doorstep deliveries in climate-protected crates',
-        idealFor: '3 to 6 member families desiring tailored crops and their own numbered plot.',
+        idealFor: '3 to 6 member families desiring tailored crops and a dedicated farming area without owning land.',
       };
     } else {
       return {
@@ -140,10 +140,10 @@ export default function BuildFarmWizard() {
         planName: "My Family's Farm",
         priceLabel: '₹10,000 / month',
         monthlyNote: 'Accessible managed farming',
-        sqFt: '1,200 – 1,600 sq.ft (Managed Sector Allocation)',
+        sqFt: '1,200 – 1,600 sq.ft (PureVegies Managed Farming Allocation)',
         estHarvest: '22 – 28 kg seasonal produce monthly',
         frequency: 'Weekly doorstep harvest delivery',
-        idealFor: 'Couples and nuclear families seeking pure everyday traceable vegetables.',
+        idealFor: 'Couples and nuclear families seeking everyday traceable vegetables grown on PureVegies farmland.',
       };
     }
   };
@@ -164,11 +164,10 @@ export default function BuildFarmWizard() {
               <span className="text-zinc-400 text-xs">Step {step} of 4</span>
             </div>
             <h3 className="font-serif text-2xl sm:text-3xl font-bold tracking-tight text-white mt-1">
-              Design Your Family&rsquo;s Farm
+              Design Your Family&rsquo;s Farm Plan
             </h3>
             <p className="text-xs text-zinc-300 mt-1 max-w-xl">
-              Tell us your family profile and culinary preferences. We will calculate the exact plot
-              size, crop matrix, and subscription plan required.
+              Tell us your family profile and culinary preferences. PureVegies provides the land and farmers. We calculate the exact farming space, crop matrix, and subscription plan required.
             </p>
           </div>
 
@@ -206,7 +205,7 @@ export default function BuildFarmWizard() {
                 How many people are in your family?
               </h4>
               <p className="text-sm text-zinc-600 mt-1">
-                We balance your plot acreage and harvest cycles to match your weekly kitchen consumption.
+                We balance your allocated farm area and harvest cycles to match your weekly kitchen consumption.
               </p>
             </div>
 
@@ -271,7 +270,7 @@ export default function BuildFarmWizard() {
               </h4>
               <p className="text-sm text-zinc-600 mt-1">
                 Select your preferred vegetables. Our agronomists will configure the exact seedbed
-                rotation across your plot.
+                rotation across your allocated farming beds.
               </p>
             </div>
 

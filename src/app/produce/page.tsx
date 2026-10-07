@@ -40,7 +40,7 @@ export default function ProducePage() {
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
             Every crop is selected for genuine flavor, tender cellular structure, and clean mineral
-            content. Here are the vegetables cultivated across our managed plots.
+            content. Here are the vegetables cultivated across our managed farms.
           </p>
         </div>
 

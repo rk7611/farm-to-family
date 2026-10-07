@@ -144,8 +144,8 @@ export default function LeadModal({
           </h3>
           <p className="text-xs text-zinc-300 mt-1 max-w-md">
             {isVisitBooking
-              ? 'Walk through the plots, inspect our drip irrigation and meet our senior agronomists.'
-              : 'Our farm advisor will customize your plot requirement, crop schedule, and delivery rhythm.'}
+              ? 'Walk through the estate, inspect our drip irrigation and meet our senior agronomists.'
+              : 'Our farm advisor will customize your farming plan, crop schedule, and delivery rhythm.'}
           </p>
         </div>
 

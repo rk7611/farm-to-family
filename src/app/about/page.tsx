@@ -85,7 +85,7 @@ export default function AboutPage() {
                 name: 'Kavita Deshmukh',
                 role: 'Head of Agronomy, Western Ghats',
                 credentials: 'M.Sc. Organic Agriculture, MPKV Rahuri (19 Yrs Experience)',
-                bio: 'Specialist in drip fertigation using botanical extracts and precision natural pest shielding across Sahyadri plots.',
+                bio: 'Specialist in drip fertigation using botanical extracts and precision natural pest shielding across Sahyadri farms.',
                 image:
                   'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=600&q=80',
               },

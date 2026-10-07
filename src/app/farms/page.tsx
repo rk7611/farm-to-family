@@ -43,7 +43,7 @@ export default function FarmsPage() {
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
             Every Farm-to-Family parcel is located in ecologically isolated rural belts with verified
-            unpolluted aquifers, rich topsoil, and strict zero-chemical perimeters.
+            unpolluted aquifers, rich topsoil, and responsible cultivation protocols.
           </p>
         </div>
 

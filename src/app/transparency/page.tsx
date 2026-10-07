@@ -86,22 +86,22 @@ export default function TransparencyPage() {
               <li className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-[#A1D1AF] shrink-0 mt-0.5" />
                 <span>
-                  <strong>Traceable to the Exact Plot:</strong> Every delivery crate is mapped to a
-                  numbered plot ID (e.g. Plot B-14) that you can personally visit.
+                  <strong>Traceable to the Cultivation Sector:</strong> Every delivery crate is mapped to a
+                  numbered farm allocation ID that you can personally visit.
                 </span>
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-[#A1D1AF] shrink-0 mt-0.5" />
                 <span>
-                  <strong>Published Lab Assays:</strong> Periodic water TDS and heavy metal tests from
-                  NABL-accredited third-party labs available directly on your portal.
+                  <strong>Published Lab Assays:</strong> Periodic water TDS and quality tests from
+                  accredited third-party labs available directly on your portal.
                 </span>
               </li>
               <li className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-[#A1D1AF] shrink-0 mt-0.5" />
                 <span>
-                  <strong>Zero Synthetic Systemic Sprays:</strong> We rely strictly on fermented
-                  botanicals (neem cake, jeevamrutha, bio-char, Trichoderma inoculants).
+                  <strong>Responsible, Transparent Cultivation:</strong> We prioritize biological pest defense,
+                  fermented botanical inoculants, and transparent farm practices with full traceability.
                 </span>
               </li>
             </ul>
@@ -138,7 +138,7 @@ export default function TransparencyPage() {
               },
               {
                 title: 'Open Gate Policy',
-                desc: 'No secret closed compounds. Any subscribed family can book a weekend visit to walk their plot and inspect our practices.',
+                desc: 'No secret closed compounds. Any subscribed family can book a weekend visit to tour the farm and inspect our practices.',
                 stat: '100% Verifiable',
               },
             ].map((p, idx) => (

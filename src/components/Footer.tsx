@@ -30,33 +30,33 @@ export default function Footer() {
               </div>
               <div>
                 <span className="font-serif tracking-wider font-bold text-2xl text-white block">
-                  FARM-TO-FAMILY
+                  PUREVEGIES
                 </span>
-                <span className="text-[10px] tracking-[0.25em] uppercase font-semibold text-[#8EB79C]">
-                  Private Managed Farming
+                <span className="text-[10px] tracking-[0.2em] uppercase font-semibold text-[#8EB79C]">
+                  Managed Farming Without Owning Land
                 </span>
               </div>
             </div>
 
             <p className="font-serif italic text-xl text-[#F2F7F4] font-light max-w-md">
-              &ldquo;Your Family&rsquo;s Farm. We Grow It. You Enjoy It.&rdquo;
+              &ldquo;Your Farm. Without Owning Land.&rdquo;
             </p>
 
             <p className="text-sm text-zinc-400 leading-relaxed max-w-md">
-              Farm-to-Family is a technology-enabled managed farming service. We manage the land,
-              agronomists, irrigation, cultivation, and doorstep delivery—so your family enjoys
-              traceable, seasonal, and carefully grown produce without ever having to manage a farm.
+              PureVegies provides the agricultural land, expert farmers, irrigation infrastructure,
+              and doorstep harvest delivery. You simply choose what your family eats—we take care of
+              the farming. No land purchase, lease, or farming labor required.
             </p>
 
             <div className="p-4 rounded-xl bg-[#172F1F]/70 border border-[#234531] text-xs space-y-2">
               <div className="flex items-center gap-2 text-[#A1D1AF] font-semibold">
                 <ShieldCheck className="w-4 h-4" />
-                <span>Our Trust & Integrity Commitment</span>
+                <span>Our Managed Farming Commitment</span>
               </div>
               <p className="text-zinc-300 leading-normal">
-                We believe in verifiable reality. We do not make untested chemical-free or organic
-                claims without third-party lab verification. We provide batch-level traceability, soil
-                lab reports, and open farm gates.
+                PureVegies develops and manages the agricultural land specifically for your family.
+                Customers do not need to buy or provide land. We practice responsible farming, verified
+                soil testing, and full harvest traceability.
               </p>
             </div>
           </div>
@@ -67,6 +67,12 @@ export default function Footer() {
               Navigation
             </h4>
             <ul className="space-y-2.5 text-sm">
+              <li>
+                <Link href="/business-model" className="text-[#A1D1AF] hover:text-white font-medium transition flex items-center gap-1">
+                  <span>Our Business Model</span>
+                  <span className="text-[10px] bg-[#1F3D2A] px-1.5 py-0.2 rounded font-mono">NEW</span>
+                </Link>
+              </li>
               <li>
                 <Link href="/plans" className="text-zinc-300 hover:text-white transition">
                   Farming Plans
@@ -79,7 +85,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/build-your-farm" className="text-zinc-300 hover:text-white transition">
-                  Build Your Farm
+                  Build My Farm Plan
                 </Link>
               </li>
               <li>

@@ -95,7 +95,7 @@ export default function CustomerDashboardPage() {
               Good morning, {currentCustomer.fullName.split(' ')[0]}.
             </h1>
             <p className="text-xs sm:text-sm text-zinc-600">
-              Your farm plot at{' '}
+              Your allocated farm space at{' '}
               <strong className="text-zinc-900">{currentFarm.name}</strong> is in prime vegetative
               balance today.
             </p>
@@ -212,7 +212,7 @@ export default function CustomerDashboardPage() {
                     Current Crops in Soil
                   </h3>
                   <p className="text-xs text-zinc-600">
-                    Live growth metrics from your assigned plot beds.
+                    Live growth metrics from your assigned farming beds.
                   </p>
                 </div>
                 <span className="text-xs font-semibold text-[#2D5A3C]">

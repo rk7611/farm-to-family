@@ -72,47 +72,43 @@ export default function HomePage() {
   const faqs = [
     {
       q: 'Do I need to own land?',
-      a: 'No, absolutely not. Farm-to-Family operates long-term leased and managed agro-estates with tested soil and water infrastructure. When you subscribe, a specific plot area or dedicated section is allocated to your family.',
+      a: 'No. You do not need to own, purchase or provide agricultural land. PureVegies provides and manages the farmland used for your subscription.',
     },
     {
-      q: 'How does the subscription work?',
-      a: 'You select a plan based on your household size and preferences. We allocate your plot, plan your crop cycle, manage daily irrigation, agronomy, and bio-protection. As crops ripen, our team harvests, conducts quality inspections, and delivers directly to your home on scheduled weekly cycles.',
+      q: 'Do I have to manage the farm?',
+      a: 'No. PureVegies manages the complete farming operation including land preparation, crop planning, cultivation, irrigation, monitoring, harvesting and packing.',
     },
     {
-      q: 'Can I choose my vegetables?',
-      a: 'Yes. In both "My Dedicated Farm" and "My Private Farm" plans, you hand-select your desired vegetables and culinary herbs from our seasonal agronomy matrix. In "My Family’s Farm", our lead agronomists curate a high-variety seasonal harvest basket for your family.',
+      q: 'Do I own the farm?',
+      a: 'No. The PureVegies service is primarily a managed farming subscription. You are paying for the farming service and produce, not purchasing agricultural land.',
+    },
+    {
+      q: 'Can I choose what vegetables are grown?',
+      a: 'Yes. Depending on your plan, you can select from available vegetables and seasonal crops. Our farm team will also help create a practical crop plan.',
+    },
+    {
+      q: 'Where is my farm?',
+      a: 'Your produce is grown on PureVegies-managed farmland. Customers will be able to see their assigned farm/plot information and farming updates through their dashboard, subject to the plan.',
     },
     {
       q: 'Can I visit the farm?',
-      a: 'Yes! Transparency is the foundation of our service. Subscribed families can book guided weekend farm visits. You can walk through your assigned plot, meet the agronomists, inspect our drip irrigation system, and even harvest with your children.',
-    },
-    {
-      q: 'How do I track my crops?',
-      a: 'You receive access to your private Customer Dashboard. There, you can view your Plot ID, sowing dates, current crop lifecycle stage, days until expected harvest, weekly photo/video updates from the field, and even live farm camera feeds on private plans.',
+      a: 'Farm visits may be available depending on the farm location and your plan. Contact our farm advisor to arrange a visit.',
     },
     {
       q: 'How often will I receive produce?',
-      a: 'Depending on your plan and household needs, deliveries are made once or twice a week. Harvests are carried out at pre-dawn (5:30 AM – 8:30 AM), pre-chilled to prevent moisture loss, and delivered to your doorstep within hours.',
+      a: 'Depending on your plan and household needs, deliveries are made once or twice a week. Harvests are carried out at pre-dawn (5:30 AM – 8:30 AM), pre-chilled to preserve nutrition, and delivered to your doorstep within hours.',
     },
     {
       q: 'What happens if a crop fails?',
-      a: 'Farming is subject to natural micro-climates. To ensure your kitchen supply is never interrupted, our estates maintain buffer cultivation beds managed under identical zero-synthetic protocols. If an unseasonal weather event damages a specific crop, your delivery basket is fulfilled from our monitored reserve beds.',
-    },
-    {
-      q: 'Can I upgrade my plan?',
-      a: 'Yes. You can upgrade or transition your plan tier as your household produce needs evolve directly through your customer portal or by consulting with your dedicated farm manager.',
+      a: 'Farming is subject to natural micro-climates. To ensure your kitchen supply is never interrupted, our managed farms maintain buffer cultivation beds managed under identical responsible protocols. If an unseasonal weather event affects a specific crop, your delivery basket is fulfilled from our monitored reserve beds.',
     },
     {
       q: 'What is included in the ₹7 lakh private farm plan?',
-      a: 'The "My Private Farm" tier is designed for High-Net-Worth households seeking an exclusive private estate experience. It includes up to 1/2 acre of allocated land, bespoke heirloom crop planning, a dedicated senior farm manager, live PTZ camera feeds, custom chef requests, artisan wooden crate packaging, and private weekend farm retreats.',
+      a: 'The "My Private Farm" tier is designed for High-Net-Worth households seeking an exclusive private estate experience. PureVegies provides a premium dedicated farming area within our managed farmland, bespoke heirloom crop planning, a dedicated senior farm manager, live camera feeds where available, custom chef requests, artisan packaging, and private weekend farm visits.',
     },
     {
       q: 'Is the produce certified organic?',
-      a: 'We adhere to a strict policy of transparency: we do not make unsupported claims such as "100% organic" or "zero pesticides" unless backed by accredited laboratory certifications. Instead, we practice verified bio-dynamic methods: zero synthetic systemic chemicals, certified neem and microbial inoculants, dual-filtered water, and regular third-party heavy metal/nitrate residue testing reports which are openly visible on your dashboard.',
-    },
-    {
-      q: 'Where are the farms located?',
-      a: 'Our participating agro-estates are strategically situated in pristine rural green-belts within 45 to 90 minutes of major urban centers: Anekal Foothills (South Bengaluru), Baramati Ridge (Pune / Western Maharashtra), and Sohna Rural Corridor (Delhi NCR / Gurugram).',
+      a: 'We adhere to a strict policy of transparency: we do not make unsupported claims such as "100% organic" or "zero pesticides" unless backed by accredited laboratory certifications. Instead, we practice verified responsible farming methods: zero synthetic systemic chemicals, certified bio-inputs, dual-filtered water, and regular third-party laboratory residue testing reports which are openly visible on your dashboard.',
     },
   ];
 
@@ -123,9 +119,9 @@ export default function HomePage() {
       <main className="flex-1">
         {/* =========================================================================
             SECTION 1 — HERO
-            Large cinematic farm background, elegant headline, clear CTAs, trust statement
+            New Core Positioning: "Your Farm. Without Owning Land."
            ========================================================================= */}
-        <section className="relative min-h-[90vh] flex items-center justify-center bg-[#0D1B11] text-white overflow-hidden py-24 px-4 sm:px-6 lg:px-8">
+        <section className="relative min-h-[92vh] flex items-center justify-center bg-[#0D1B11] text-white overflow-hidden py-24 px-4 sm:px-6 lg:px-8">
           {/* Cinematic Background with Dark Luxury Overlay */}
           <div
             className="absolute inset-0 bg-cover bg-center transition-transform duration-1000 scale-105 opacity-40 mix-blend-luminosity"
@@ -141,19 +137,20 @@ export default function HomePage() {
             {/* Pill Tag */}
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#1A3824]/90 border border-[#3E7952]/40 text-[#A1D1AF] text-xs font-semibold uppercase tracking-widest backdrop-blur-md">
               <Sprout className="w-4 h-4 text-[#A1D1AF]" />
-              <span>Private Managed Agriculture For Modern Families</span>
+              <span>YOUR FARM. WITHOUT OWNING LAND.</span>
             </div>
 
             {/* Headline */}
             <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-[#FAF8F5] leading-[1.12]">
-              Your Family’s Farm.{' '}
+              You Don&rsquo;t Need to Own a Farm.{' '}
               <br className="hidden sm:inline" />
-              <span className="text-[#9EC9AB] italic font-normal">We Grow It.</span> You Enjoy It.
+              <span className="text-[#9EC9AB] italic font-normal">We&rsquo;ll Grow Your Food for You.</span>
             </h1>
 
             {/* Subheading */}
             <p className="text-lg sm:text-2xl text-zinc-300 font-light max-w-3xl mx-auto leading-relaxed">
-              Premium managed farming for families who want to know where their food comes from.
+              PureVegies provides the farmland, farming infrastructure and expert farm management.
+              You choose what your family wants us to grow — we take care of the rest.
             </p>
 
             {/* CTAs */}
@@ -162,36 +159,286 @@ export default function HomePage() {
                 href="/build-your-farm"
                 className="w-full sm:w-auto px-8 py-4 bg-[#FAF8F5] hover:bg-white text-[#102115] font-semibold text-sm uppercase tracking-wider rounded-full shadow-lg transition-all transform hover:-translate-y-0.5 flex items-center justify-center gap-2 group"
               >
-                <span>Build My Farm</span>
+                <span>Build My Farm Plan</span>
                 <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
               </Link>
 
-              <a
-                href="#plans"
-                className="w-full sm:w-auto px-8 py-4 bg-transparent hover:bg-white/10 text-white font-semibold text-sm uppercase tracking-wider rounded-full border border-white/30 backdrop-blur-md transition-all flex items-center justify-center"
+              <Link
+                href="/business-model"
+                className="w-full sm:w-auto px-8 py-4 bg-transparent hover:bg-white/10 text-white font-semibold text-sm uppercase tracking-wider rounded-full border border-white/30 backdrop-blur-md transition-all flex items-center justify-center gap-2"
               >
-                <span>Explore Plans</span>
-              </a>
+                <span>How It Works</span>
+              </Link>
             </div>
 
-            {/* Trust Statement */}
-            <div className="pt-6 border-t border-white/10 max-w-xl mx-auto">
-              <p className="text-xs sm:text-sm text-zinc-300 font-medium tracking-wide flex items-center justify-center gap-2 flex-wrap">
-                <span className="flex items-center gap-1.5 text-[#9EC9AB]">
-                  <CheckCircle2 className="w-4 h-4" />
-                  Managed farming
-                </span>
-                <span className="text-zinc-600">•</span>
-                <span className="flex items-center gap-1.5 text-[#9EC9AB]">
-                  <CheckCircle2 className="w-4 h-4" />
-                  Transparent cultivation
-                </span>
-                <span className="text-zinc-600">•</span>
-                <span className="flex items-center gap-1.5 text-[#9EC9AB]">
-                  <CheckCircle2 className="w-4 h-4" />
-                  Farm-to-family delivery
-                </span>
+            {/* Highly Visible Trust Statement */}
+            <div className="pt-6 border-t border-white/10 max-w-2xl mx-auto space-y-2">
+              <div className="inline-block px-3.5 py-1 rounded-full bg-emerald-500/20 border border-emerald-400/30 text-[#A1D1AF] font-mono text-xs font-bold tracking-widest uppercase">
+                NO LAND REQUIRED
+              </div>
+              <p className="text-xs sm:text-sm text-zinc-300 font-medium tracking-wide">
+                Land • Farmers • Irrigation • Farming • Harvesting • Delivery — We Manage It.
               </p>
+            </div>
+          </div>
+        </section>
+
+        {/* =========================================================================
+            SECTION: HOW DOES PUREVEGIES WORK? (DIRECTLY BELOW HERO)
+            Clear side-by-side comparison: You Don't Need To vs PureVegies Provides
+           ========================================================================= */}
+        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white border-b border-[#E5E0D8]">
+          <div className="max-w-6xl mx-auto space-y-12">
+            <div className="text-center max-w-3xl mx-auto space-y-3">
+              <span className="text-xs font-bold uppercase tracking-widest text-[#628A6F]">
+                The Clear Distinction
+              </span>
+              <h2 className="font-serif text-3xl sm:text-5xl font-bold text-[#102115]">
+                How Does PureVegies Work?
+              </h2>
+              <p className="text-base sm:text-lg text-zinc-600">
+                You never need to buy, lease, or manage agricultural land. We handle the heavy lifting of farming.
+              </p>
+            </div>
+
+            {/* Visual Comparison Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 items-stretch">
+              {/* Left Side: You Don't Need To */}
+              <div className="bg-[#FAF8F5] rounded-3xl p-8 border border-red-200/60 shadow-xs flex flex-col justify-between">
+                <div>
+                  <div className="flex items-center gap-2 text-red-700 font-semibold text-xs uppercase tracking-wider mb-2">
+                    <span className="w-2 h-2 rounded-full bg-red-500" />
+                    <span>Customer Peace of Mind</span>
+                  </div>
+                  <h3 className="font-serif text-2xl font-bold text-[#102115]">
+                    YOU DON&rsquo;T NEED TO:
+                  </h3>
+
+                  <ul className="mt-6 space-y-3 text-sm text-zinc-700">
+                    {[
+                      'Buy land',
+                      'Lease land',
+                      'Find farmers',
+                      'Manage workers',
+                      'Install irrigation',
+                      'Buy farming equipment',
+                      'Monitor crops',
+                      'Arrange harvesting',
+                      'Arrange packing',
+                      'Manage delivery',
+                    ].map((item, idx) => (
+                      <li key={idx} className="flex items-center gap-3">
+                        <span className="w-6 h-6 rounded-full bg-red-100 text-red-600 font-bold flex items-center justify-center shrink-0 text-xs">
+                          ✕
+                        </span>
+                        <span className="font-medium text-zinc-800">{item}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                <div className="mt-8 pt-4 border-t border-zinc-200 text-xs text-zinc-500 italic">
+                  Zero capital overhead. Zero rural labor complications.
+                </div>
+              </div>
+
+              {/* Right Side: PureVegies Provides */}
+              <div className="bg-[#172F1F] text-white rounded-3xl p-8 shadow-xl flex flex-col justify-between">
+                <div>
+                  <div className="flex items-center gap-2 text-[#9EC9AB] font-semibold text-xs uppercase tracking-wider mb-2">
+                    <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                    <span>Our Managed Service</span>
+                  </div>
+                  <h3 className="font-serif text-2xl font-bold text-white">
+                    PUREVEGIES PROVIDES:
+                  </h3>
+
+                  <ul className="mt-6 space-y-3 text-sm text-zinc-200">
+                    {[
+                      'Farming land (held & managed by PureVegies)',
+                      'Agricultural infrastructure & fencing',
+                      'Farmers & full-time farm managers',
+                      'Seeds & custom crop planning',
+                      'Irrigation & water systems',
+                      'Daily crop management & care',
+                      'Farm monitoring & digital updates',
+                      'Harvesting at peak maturity',
+                      'Quality checking & lab safety tests',
+                      'Insulated eco-friendly packing',
+                      'Doorstep cold-chain delivery',
+                    ].map((item, idx) => (
+                      <li key={idx} className="flex items-center gap-3">
+                        <span className="w-6 h-6 rounded-full bg-emerald-500/20 text-[#A1D1AF] font-bold flex items-center justify-center shrink-0 text-xs border border-emerald-400/30">
+                          ✓
+                        </span>
+                        <span className="font-medium text-white">{item}</span>
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                <div className="mt-8 pt-4 border-t border-[#234531] text-xs text-[#A1D1AF]">
+                  ★ Full agricultural operation executed by professional agronomists
+                </div>
+              </div>
+            </div>
+
+            {/* Bottom Statement & Link */}
+            <div className="p-6 bg-[#FAF8F5] border border-[#E5E0D8] rounded-3xl text-center space-y-4">
+              <p className="font-serif italic text-xl sm:text-2xl text-[#102115]">
+                &ldquo;You simply choose your plan and tell us what you want your family to eat.&rdquo;
+              </p>
+              <div className="flex flex-wrap items-center justify-center gap-4">
+                <Link
+                  href="/business-model"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-[#172F1F] hover:bg-[#20412B] text-white text-xs font-semibold uppercase tracking-wider rounded-full shadow-sm transition"
+                >
+                  <span>Explore Our Complete Business Model</span>
+                  <ArrowRight className="w-4 h-4" />
+                </Link>
+                <Link
+                  href="/build-your-farm"
+                  className="inline-flex items-center gap-2 px-6 py-3 bg-white hover:bg-zinc-50 border border-[#D8D1C5] text-[#172F1F] text-xs font-semibold uppercase tracking-wider rounded-full transition"
+                >
+                  <span>Build My Farm Plan</span>
+                </Link>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* =========================================================================
+            SECTION: WHAT YOU ARE ACTUALLY BUYING
+            5 Pillars: LAND, FARMING, TRANSPARENCY, HARVEST, DELIVERY
+           ========================================================================= */}
+        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-[#F4EFE7] border-b border-[#E5E0D8]">
+          <div className="max-w-6xl mx-auto space-y-12">
+            <div className="text-center max-w-3xl mx-auto space-y-3">
+              <span className="text-xs font-bold uppercase tracking-widest text-[#628A6F]">
+                Total Clarity
+              </span>
+              <h2 className="font-serif text-3xl sm:text-4xl font-bold text-[#102115]">
+                You&rsquo;re Not Buying Land.
+                <br />
+                You&rsquo;re Buying a Managed Farming Service.
+              </h2>
+              <p className="text-sm sm:text-base text-zinc-600 leading-relaxed">
+                When you subscribe to PureVegies, you are not purchasing agricultural land. You are purchasing
+                access to a managed farming service where our land, infrastructure and farming team work
+                together to grow produce for your family.
+              </p>
+            </div>
+
+            {/* Five Pillars Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+              {[
+                {
+                  title: 'LAND',
+                  desc: 'Provided and managed by PureVegies. No land purchase, lease, or registration required.',
+                  icon: '🏞️',
+                },
+                {
+                  title: 'FARMING',
+                  desc: 'Managed by our agricultural team. Sowing, watering, bio-protection, and daily supervision.',
+                  icon: '🧑‍🌾',
+                },
+                {
+                  title: 'TRANSPARENCY',
+                  desc: 'See what is growing and how your farm is progressing through weekly photos and dashboard notes.',
+                  icon: '📱',
+                },
+                {
+                  title: 'HARVEST',
+                  desc: 'We manage pre-dawn harvesting, laboratory safety testing, sorting, and careful packing.',
+                  icon: '🧺',
+                },
+                {
+                  title: 'DELIVERY',
+                  desc: 'We bring fresh produce directly to your home in temperature-protected eco crates.',
+                  icon: '🚚',
+                },
+              ].map((p, idx) => (
+                <div
+                  key={idx}
+                  className="bg-white p-6 rounded-2xl border border-[#D8D1C5] text-center space-y-2 shadow-xs hover:border-[#172F1F] transition"
+                >
+                  <div className="text-3xl mb-1">{p.icon}</div>
+                  <h3 className="font-serif font-bold text-lg text-[#102115]">{p.title}</h3>
+                  <p className="text-xs text-zinc-600 leading-relaxed">{p.desc}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* =========================================================================
+            SECTION: INTERACTIVE PROCESS DIAGRAM (YOU CHOOSE vs WE DO THE FARMING)
+           ========================================================================= */}
+        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-white border-b border-[#E5E0D8]">
+          <div className="max-w-5xl mx-auto space-y-10">
+            <div className="text-center max-w-2xl mx-auto space-y-2">
+              <span className="text-xs font-bold uppercase tracking-widest text-[#628A6F]">
+                Visual Process Diagram
+              </span>
+              <h2 className="font-serif text-3xl sm:text-4xl font-bold text-[#102115]">
+                From Your Kitchen Request to Your Dining Table
+              </h2>
+            </div>
+
+            {/* Diagram Flow */}
+            <div className="space-y-6">
+              {/* Customer Row */}
+              <div className="p-6 bg-[#FAF8F5] border-2 border-[#172F1F] rounded-3xl space-y-4">
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-mono font-bold uppercase tracking-wider text-[#172F1F] px-3 py-1 bg-white border border-[#D8D1C5] rounded-full">
+                    YOU CHOOSE
+                  </span>
+                  <span className="text-xs text-zinc-500">Customer Decisions</span>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-center">
+                  <div className="p-4 bg-white rounded-xl border border-zinc-200">
+                    <p className="font-bold text-sm text-[#102115]">1. Choose Your Plan</p>
+                    <p className="text-xs text-zinc-500">Family, Dedicated, or Private tier</p>
+                  </div>
+                  <div className="p-4 bg-white rounded-xl border border-zinc-200">
+                    <p className="font-bold text-sm text-[#102115]">2. Choose Your Crops</p>
+                    <p className="text-xs text-zinc-500">Select veggies your family loves</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Arrow Connector */}
+              <div className="flex justify-center">
+                <div className="w-8 h-8 rounded-full bg-[#172F1F] text-white flex items-center justify-center font-bold text-xs">
+                  ↓
+                </div>
+              </div>
+
+              {/* PureVegies Row */}
+              <div className="p-6 bg-[#172F1F] text-white rounded-3xl space-y-4 shadow-xl">
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-mono font-bold uppercase tracking-wider text-[#9EC9AB] px-3 py-1 bg-[#102115] border border-[#234531] rounded-full">
+                    WE DO THE FARMING
+                  </span>
+                  <span className="text-xs text-zinc-400">PureVegies Agricultural Execution</span>
+                </div>
+                <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-7 gap-3 text-center">
+                  {[
+                    { step: 'Allocate Space', sub: 'From our farms' },
+                    { step: 'Cultivate & Grow', sub: 'Expert agronomy' },
+                    { step: 'Crop Monitoring', sub: 'Weekly updates' },
+                    { step: 'Dawn Harvest', sub: 'Peak nutrition' },
+                    { step: 'Quality Check', sub: 'Lab safety test' },
+                    { step: 'Eco-Packing', sub: 'Insulated crates' },
+                    { step: 'Home Delivery', sub: 'Doorstep arrival' },
+                  ].map((s, idx) => (
+                    <div key={idx} className="p-3 bg-[#102115] rounded-xl border border-[#234531]">
+                      <span className="text-xs font-bold text-white block">{s.step}</span>
+                      <span className="text-[10px] text-zinc-400 block mt-0.5">{s.sub}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -491,13 +738,13 @@ export default function HomePage() {
                 <div className="space-y-6">
                   <div>
                     <span className="text-xs font-bold uppercase tracking-wider text-[#628A6F]">
-                      Everyday Kitchen
+                      Family Farming Allocation
                     </span>
                     <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                       My Family&rsquo;s Farm
                     </h3>
                     <p className="text-xs text-zinc-600 mt-2">
-                      Premium managed farming for your family&rsquo;s everyday produce.
+                      PureVegies provides the land and manages the farming. You choose your family&rsquo;s preferred produce and receive farm-grown vegetables according to your subscription.
                     </p>
                   </div>
 
@@ -507,7 +754,7 @@ export default function HomePage() {
                       <span className="font-serif text-4xl font-bold text-[#102115]">₹10,000</span>
                       <span className="text-sm font-medium text-zinc-500">/ month</span>
                     </div>
-                    <p className="text-[11px] text-zinc-400 mt-0.5">Billed monthly • Dedicated farm cultivation</p>
+                    <p className="text-[11px] text-zinc-500 mt-0.5">Managed family farm plan • PureVegies farmland</p>
                   </div>
 
                   {/* Feature Checklist */}
@@ -517,14 +764,14 @@ export default function HomePage() {
                     </p>
                     <ul className="space-y-2.5 text-xs text-zinc-600">
                       {[
-                        'Family-focused vegetable production (approx. 25-30 kg/month)',
-                        'Seasonal crop selection curated by lead agronomist',
-                        'Regular fresh produce doorstep delivery',
-                        'Farm photos and video updates every week',
-                        'Crop progress updates via customer portal',
-                        'Rigorous quality checking before dispatch',
-                        'WhatsApp advisor support',
-                        'Flexible subscription management',
+                        'PureVegies-managed farmland',
+                        'Family-oriented crop planning',
+                        'Seasonal vegetable selection',
+                        'Regular produce delivery',
+                        'Farm updates',
+                        'Photos/videos',
+                        'Quality checking',
+                        'WhatsApp support',
                       ].map((feat, idx) => (
                         <li key={idx} className="flex items-start gap-2.5">
                           <CheckCircle2 className="w-4 h-4 text-[#2D5A3C] shrink-0 mt-0.5" />
@@ -538,10 +785,10 @@ export default function HomePage() {
                 <div className="mt-8 pt-6 border-t border-zinc-100">
                   <button
                     type="button"
-                    onClick={() => openPlanModal('family', "Start My Family's Farm")}
+                    onClick={() => openPlanModal('family', "Start My Family's Farm Plan")}
                     className="w-full py-3.5 px-6 rounded-full bg-[#172F1F] hover:bg-[#20412B] text-white font-semibold text-xs uppercase tracking-wider transition shadow-sm text-center"
                   >
-                    Start My Farm
+                    Start My Farm Plan
                   </button>
                 </div>
               </div>
@@ -556,13 +803,16 @@ export default function HomePage() {
                 <div className="space-y-6">
                   <div>
                     <span className="text-xs font-bold uppercase tracking-wider text-[#B2763D]">
-                      Dedicated Plot & Selection
+                      Dedicated Farming Area
                     </span>
                     <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                       My Dedicated Farm
                     </h3>
                     <p className="text-xs text-zinc-600 mt-2">
-                      Your dedicated farming space with customised crop planning.
+                      A dedicated farming area within our managed farm network, planned around your family&rsquo;s preferences.
+                    </p>
+                    <p className="text-[11px] text-emerald-800 font-medium mt-1 bg-emerald-50 px-2 py-0.5 rounded">
+                      You don&rsquo;t need to own or provide land. PureVegies provides and manages the farming space.
                     </p>
                   </div>
 
@@ -573,25 +823,25 @@ export default function HomePage() {
                       <span className="text-sm font-medium text-zinc-500">/ month</span>
                     </div>
                     <p className="text-[11px] text-[#2D5A3C] font-semibold mt-0.5">
-                      Dedicated numbered plot allocation
+                      Dedicated farming area within our network
                     </p>
                   </div>
 
                   {/* Feature Checklist */}
                   <div className="space-y-3 pt-2">
                     <p className="text-xs font-bold uppercase tracking-wider text-zinc-700">
-                      Everything in Family, plus:
+                      Included with this plan:
                     </p>
                     <ul className="space-y-2.5 text-xs text-zinc-600">
                       {[
-                        'Dedicated plot exclusively allocated to your household',
-                        'Customer-selected crops (choose your vegetables)',
-                        'Custom crop planning with lead agronomist',
-                        'Regular farm video updates and photos',
-                        'Harvest tracking with countdowns',
-                        'Priority temperature-controlled delivery',
-                        'Dedicated customer support concierge',
-                        'Farm visit option (visit your growing plot)',
+                        'Dedicated farming area within PureVegies farm',
+                        'Custom crop planning',
+                        'Customer-selected crops',
+                        'Farm updates',
+                        'Photos/videos',
+                        'Harvest tracking',
+                        'Priority delivery',
+                        'Farm visit option',
                       ].map((feat, idx) => (
                         <li key={idx} className="flex items-start gap-2.5">
                           <CheckCircle2 className="w-4 h-4 text-[#2D5A3C] shrink-0 mt-0.5" />
@@ -605,10 +855,10 @@ export default function HomePage() {
                 <div className="mt-8 pt-6 border-t border-zinc-100">
                   <button
                     type="button"
-                    onClick={() => openPlanModal('dedicated', 'Create My Dedicated Farm')}
+                    onClick={() => openPlanModal('dedicated', 'Create My Dedicated Farm Plan')}
                     className="w-full py-3.5 px-6 rounded-full bg-[#172F1F] hover:bg-[#20412B] text-white font-semibold text-xs uppercase tracking-wider transition shadow-md text-center"
                   >
-                    Create My Dedicated Farm
+                    Create My Dedicated Farm Plan
                   </button>
                 </div>
               </div>
@@ -621,7 +871,7 @@ export default function HomePage() {
                 <div className="space-y-6 relative z-10">
                   <div className="flex items-center justify-between">
                     <span className="text-xs font-bold uppercase tracking-wider text-[#C48248]">
-                      Private Estate • HNI Tier
+                      Private Managed Estate • HNI Tier
                     </span>
                     <span className="text-[10px] uppercase font-mono px-2 py-0.5 rounded-full bg-[#C48248]/20 text-[#edd2bd] border border-[#C48248]/30">
                       Bespoke
@@ -633,7 +883,10 @@ export default function HomePage() {
                       My Private Farm
                     </h3>
                     <p className="text-xs text-zinc-300 mt-2">
-                      A fully managed private farming experience for your family.
+                      A premium privately managed farming experience using PureVegies-managed farmland and infrastructure.
+                    </p>
+                    <p className="text-[11px] text-[#A1D1AF] font-medium mt-1 bg-[#1A3824] px-2 py-0.5 rounded">
+                      PureVegies manages the land, farming team and complete agricultural operation. No land ownership required.
                     </p>
                   </div>
 
@@ -654,21 +907,22 @@ export default function HomePage() {
                   {/* Feature Checklist */}
                   <div className="space-y-3 pt-2">
                     <p className="text-xs font-bold uppercase tracking-wider text-zinc-300">
-                      Bespoke Private Estate Privileges:
+                      Private Managed Farm Privileges:
                     </p>
                     <ul className="space-y-2.5 text-xs text-zinc-300">
                       {[
-                        'Private / dedicated farm area (up to 1/2 acre allocated)',
-                        'Complete estate management by senior agronomists',
-                        'Custom crop planning for private household chefs',
-                        'Premium vegetable & rare heirloom production',
-                        'Live Farm Monitoring camera stream (24/7 access)',
-                        'Detailed soil, water & residue lab reports',
-                        'Harvest planning tailored to family menus',
-                        'Signature wooden crate packaging & direct delivery',
-                        'Dedicated personal Farm Manager',
-                        'Private farm visits with family picnic privileges',
-                        'Custom cultivation trials & special requests',
+                        'Premium dedicated farm area within PureVegies estate',
+                        'Custom crop planning',
+                        'Complete farm management',
+                        'Premium produce',
+                        'Farm monitoring',
+                        'Detailed farming reports',
+                        'Harvest planning',
+                        'Premium packaging',
+                        'Home delivery',
+                        'Dedicated farm manager',
+                        'Farm visits',
+                        'Custom requirements',
                       ].map((feat, idx) => (
                         <li key={idx} className="flex items-start gap-2.5">
                           <CheckCircle2 className="w-4 h-4 text-[#A1D1AF] shrink-0 mt-0.5" />
@@ -682,10 +936,10 @@ export default function HomePage() {
                 <div className="mt-8 pt-6 border-t border-white/10 relative z-10">
                   <button
                     type="button"
-                    onClick={() => openPlanModal('private', 'Talk to a Private Farm Manager')}
-                    className="w-full py-3.5 px-6 rounded-full bg-[#FAF8F5] hover:bg-white text-[#102115] font-semibold text-xs uppercase tracking-wider transition shadow-md text-center"
+                    onClick={() => openPlanModal('private', 'Talk to a Farm Advisor (My Private Farm)')}
+                    className="w-full py-3.5 px-6 rounded-full bg-[#FAF8F5] hover:bg-white text-[#102115] font-semibold text-xs uppercase tracking-wider transition shadow-sm text-center"
                   >
-                    Talk to a Farm Manager
+                    Talk to a Farm Advisor
                   </button>
                 </div>
               </div>
@@ -1071,14 +1325,14 @@ export default function HomePage() {
                   title: 'Traceable',
                   desc: 'Follow your produce from farm to home.',
                   detail:
-                    'Every crate is stamped with your Plot ID, harvest time, and quality inspector name.',
+                    'Every crate is stamped with your Farm Allocation ID, harvest time, and quality inspector name.',
                 },
                 {
                   num: '05',
                   title: 'Convenient',
                   desc: 'No land, farming or farm management required.',
                   detail:
-                    'Enjoy the health and lifestyle privileges of owning a private farm without any of the headache.',
+                    'Enjoy the health and lifestyle privileges of fresh farm food without any of the headache of land ownership or management.',
                 },
               ].map((item) => (
                 <div
@@ -1121,10 +1375,10 @@ export default function HomePage() {
 
             <h2 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold text-[#FAF8F5] leading-tight">
               Don&rsquo;t Just Trust Us.{' '}
-              <span className="italic text-[#9EC9AB] font-normal">Visit Your Farm.</span>
+              <span className="italic text-[#9EC9AB] font-normal">Visit The Farm.</span>
             </h2>
 
-            <p className="text-base sm:text-xl text-zinc-300 max-w-2xl mx-auto font-light leading-relaxed">
+            <p className="text-base sm:xl text-zinc-300 max-w-2xl mx-auto font-light leading-relaxed">
               We never ask for blind trust. As a subscriber, our estate gates are open to your family
               every weekend. Walk the soil, show your children where carrots grow, and pick fresh
               produce with your own hands.
@@ -1133,7 +1387,7 @@ export default function HomePage() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto text-left pt-4">
               <div className="bg-[#0D1B11]/80 backdrop-blur-md p-5 rounded-2xl border border-white/10 space-y-1">
                 <span className="text-xs font-bold uppercase tracking-wider text-[#A1D1AF]">
-                  01. Inspect Your Plot
+                  01. Inspect Your Farm Allocation
                 </span>
                 <p className="text-xs text-zinc-300">
                   Walk your assigned numbered beds and check irrigation lines up close.
