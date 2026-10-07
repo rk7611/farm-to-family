@@ -1,0 +1,79 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad-99" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#121714" />
+      <stop offset="100%" stop-color="#1A211D" />
+    </linearGradient>
+    <filter id="shadow-99" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1080" fill="url(#grad-99)"/>
+
+  <!-- Subtle corner radial glow -->
+  <circle cx="1080" cy="0" r="450" fill="#D4AF37" opacity="0.08"/>
+  <circle cx="0" cy="1080" r="350" fill="#D4AF37" opacity="0.05"/>
+
+  <!-- Outer Framing -->
+  <rect x="44" y="44" width="992" height="992" rx="36" fill="none" stroke="#8C7438" stroke-width="2.5"/>
+  <rect x="56" y="56" width="968" height="968" rx="28" fill="none" stroke="#8C7438" stroke-width="1" opacity="0.4"/>
+
+  <!-- Brand Header -->
+  <g transform="translate(540, 120)">
+    <circle cx="-160" cy="-6" r="14" fill="#D4AF37" opacity="0.9"/>
+    <text x="0" y="0" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="24" font-weight="800" fill="#FAF8F5" text-anchor="middle" letter-spacing="7">FARM-TO-FAMILY</text>
+    <text x="0" y="26" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="600" fill="#E6CA65" text-anchor="middle" letter-spacing="4">PRIVATE MANAGED FARMING</text>
+  </g>
+
+  <!-- Badge Pill -->
+  <g transform="translate(540, 215)">
+    <rect x="-190" y="-18" width="380" height="36" rx="18" fill="#242B24" stroke="#8C7438" stroke-width="1.5"/>
+    <text x="0" y="6" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="800" fill="#E6CA65" text-anchor="middle" letter-spacing="2.5">FAMILY ETHOS</text>
+  </g>
+
+  <!-- Main Card Container -->
+  <rect x="90" y="275" width="900" height="580" rx="32" fill="#1A211D" stroke="#8C7438" stroke-width="1.5" filter="url(#shadow-99)"/>
+
+  <!-- Content Inside Card -->
+  <!-- Headline Line 1 -->
+  <text x="540" y="385" font-family="'Playfair Display', Georgia, serif" font-size="52" font-weight="bold" fill="#FAF8F5" text-anchor="middle">Your Dinner Table Deserves</text>
+  
+  <!-- Subtitle Line 2 -->
+  <text x="540" y="455" font-family="'Playfair Display', Georgia, serif" font-size="42" font-style="italic" fill="#D4AF37" text-anchor="middle">Uncompromised Truth.</text>
+
+  <!-- Divider Line -->
+  <line x1="440" y1="500" x2="640" y2="500" stroke="#D4AF37" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Explanatory Copy (Wrapped) -->
+  <text x="540" y="565" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="24" font-weight="400" fill="#D8D4C8" text-anchor="middle" width="760">
+    Join the families who decided that where food comes from matters more than convenience store discounts.
+  </text>
+
+  <!-- Key Stat / Feature Highlight Box -->
+  <g transform="translate(540, 690)">
+    <rect x="-370" y="-36" width="740" height="72" rx="20" fill="#121714" stroke="#8C7438" stroke-width="1.5"/>
+    <text x="0" y="8" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="19" font-weight="700" fill="#FAF8F5" text-anchor="middle" letter-spacing="1">
+      The Trusted Family Farming Service
+    </text>
+  </g>
+
+  <!-- Social Series Tag & Index -->
+  <text x="540" y="810" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="13" font-weight="700" fill="#E6CA65" text-anchor="middle" letter-spacing="3">
+    OFFICIAL CAMPAIGN • POST #099 OF 100
+  </text>
+
+  <!-- Bottom CTA Pill -->
+  <g transform="translate(540, 930)">
+    <rect x="-310" y="-32" width="620" height="64" rx="32" fill="#D4AF37" filter="url(#shadow-99)"/>
+    <text x="0" y="8" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="18" font-weight="800" fill="#121714" text-anchor="middle" letter-spacing="1.5">
+      Begin Your Farm • purevegies.in
+    </text>
+  </g>
+
+  <!-- Bottom Brand Watermark -->
+  <text x="540" y="1025" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="12" font-weight="600" fill="#D8D4C8" opacity="0.7" text-anchor="middle" letter-spacing="2">
+    FARM-TO-FAMILY BY PUREVEGIES • WWW.PUREVEGIES.IN • WWW.PUREVEGIES.COM
+  </text>
+</svg>

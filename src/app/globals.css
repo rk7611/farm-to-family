@@ -1,0 +1,90 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif), Georgia, Cambria, "Times New Roman", Times, serif;
+
+  --color-forest-950: #0a140d;
+  --color-forest-900: #102115;
+  --color-forest-800: #172f1f;
+  --color-forest-700: #20412b;
+  --color-forest-600: #2d5a3c;
+  --color-forest-500: #3e7952;
+
+  --color-sage-600: #44644e;
+  --color-sage-500: #587f65;
+  --color-sage-400: #749b80;
+  --color-sage-200: #c2d6c9;
+  --color-sage-100: #e3ede6;
+  --color-sage-50: #f2f7f4;
+
+  --color-earth-800: #5f3d1e;
+  --color-earth-700: #7a4f27;
+  --color-earth-600: #9e6734;
+  --color-earth-500: #c48248;
+  --color-earth-200: #edd2bd;
+  --color-earth-100: #f7ebe1;
+
+  --color-sand-200: #e8e2d8;
+  --color-sand-100: #f4efe7;
+  --color-sand-50: #faf8f5;
+
+  --color-charcoal-900: #141715;
+  --color-charcoal-800: #202521;
+  --color-charcoal-600: #424d45;
+  --color-charcoal-400: #718175;
+}
+
+:root {
+  --background: #faf8f5;
+  --foreground: #1c211d;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif);
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f0ebe3;
+}
+::-webkit-scrollbar-thumb {
+  background: #c7beaf;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9d9282;
+}
+
+/* Glassmorphism & premium card accents */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(229, 224, 216, 0.8);
+}
+
+.glass-panel-dark {
+  background: rgba(16, 33, 21, 0.88);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.subtle-ring {
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.04), 0 4px 20px -2px rgba(23, 47, 31, 0.08);
+}
+
+.subtle-ring-dark {
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.08), 0 8px 32px -4px rgba(0, 0, 0, 0.35);
+}
