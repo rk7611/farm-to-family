@@ -220,3 +220,32 @@ export interface SystemConfig {
     image: string;
   }[];
 }
+
+export type FarmStayExperienceType =
+  | 'weekend'
+  | 'family'
+  | 'couples'
+  | 'retirement'
+  | 'extended'
+  | 'private';
+
+export interface FarmStayEnquiry {
+  id: string;
+  fullName: string;
+  email: string;
+  phone: string;
+  whatsapp?: string;
+  country: string;
+  city: string;
+  preferredExperience: FarmStayExperienceType;
+  travellingWith: 'Alone' | 'Partner' | 'Family with children' | 'Parents' | 'Friends' | 'Other';
+  duration: 'One night' | 'Two nights' | 'Three nights' | 'Seven nights' | 'Fourteen nights' | 'Longer stay';
+  budgetRange: string;
+  preferredDistance: 'Within 2 hours of my city' | 'Within 4 hours' | 'Within 6 hours' | 'Open to travelling farther';
+  priorityInterest?: string;
+  notes?: string;
+  createdAt: string;
+  status: 'new' | 'contacted' | 'waitlisted' | 'closed';
+  feedbackNotes?: string;
+}
+

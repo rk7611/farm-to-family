@@ -32,6 +32,7 @@ import {
   BarChart3,
   Globe,
   Compass,
+  Download,
 } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -50,11 +51,13 @@ export default function AdminDashboardPage() {
     leads,
     visits,
     config,
+    farmStays,
     updateCropStage,
     updateDeliveryStatus,
     createCustomerSubscription,
     addFarmUpdate,
     updateConfig,
+    updateFarmStayStatus,
   } = useFarmStore();
 
   const appConfig = getAppConfig();
@@ -79,8 +82,71 @@ export default function AdminDashboardPage() {
   }, []);
 
   const [activeTab, setActiveTab] = useState<
-    'overview' | 'analytics' | 'customers' | 'farms' | 'plots' | 'crops' | 'deliveries' | 'leads' | 'settings'
+    | 'overview'
+    | 'analytics'
+    | 'customers'
+    | 'farms'
+    | 'plots'
+    | 'crops'
+    | 'deliveries'
+    | 'leads'
+    | 'farm-stays'
+    | 'settings'
   >('overview');
+
+  // Farm Stays filters & feedback editing state
+  const [farmStayExperienceFilter, setFarmStayExperienceFilter] = useState('all');
+  const [farmStayCityFilter, setFarmStayCityFilter] = useState('');
+  const [farmStayStatusFilter, setFarmStayStatusFilter] = useState('all');
+
+  const exportFarmStaysToCSV = () => {
+    const headers = [
+      'ID',
+      'Full Name',
+      'Email',
+      'Phone',
+      'Country',
+      'City',
+      'Preferred Experience',
+      'Travelling With',
+      'Duration',
+      'Budget Range',
+      'Preferred Distance',
+      'Priority Interest',
+      'Status',
+      'Feedback Notes',
+      'Created At',
+    ];
+    const rows = farmStays.map((s) => [
+      s.id,
+      `"${s.fullName.replace(/"/g, '""')}"`,
+      s.email,
+      s.phone,
+      s.country,
+      s.city,
+      s.preferredExperience,
+      s.travellingWith,
+      s.duration,
+      s.budgetRange,
+      s.preferredDistance,
+      s.priorityInterest || '',
+      s.status,
+      `"${(s.feedbackNotes || '').replace(/"/g, '""')}"`,
+      s.createdAt,
+    ]);
+    const csvContent = [headers.join(','), ...rows.map((r) => r.join(','))].join('\n');
+    const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.setAttribute('href', url);
+    link.setAttribute(
+      'download',
+      `purevegies-farm-stay-enquiries-${new Date().toISOString().split('T')[0]}.csv`
+    );
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+  };
 
   // Customer modal / creation state
   const [showAddCustomerModal, setShowAddCustomerModal] = useState(false);
@@ -222,6 +288,7 @@ export default function AdminDashboardPage() {
             { id: 'crops', label: `Crops (${crops.length})` },
             { id: 'deliveries', label: `Deliveries (${deliveries.length})` },
             { id: 'leads', label: `Inbound Leads (${leads.length + visits.length})` },
+            { id: 'farm-stays', label: `🏡 Farm Stays Interest (${farmStays.length})` },
             { id: 'settings', label: 'Pricing & WhatsApp Settings' },
           ].map((tab) => (
             <button
@@ -1084,6 +1151,294 @@ export default function AdminDashboardPage() {
                   ))}
                 </tbody>
               </table>
+            </div>
+          </div>
+        )}
+
+        {/* TAB 8: FARM STAYS INTEREST */}
+        {activeTab === 'farm-stays' && (
+          <div className="space-y-8 animate-in fade-in duration-200">
+            {/* Header with Export */}
+            <div className="bg-white rounded-3xl p-6 sm:p-8 border border-[#D8D1C5] shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <div>
+                <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-[#E2ECE5] text-[#20412B] text-xs font-bold uppercase tracking-wider mb-2">
+                  <span>New Vertical Inquiries</span>
+                </div>
+                <h3 className="font-serif text-2xl font-bold text-[#102115]">
+                  Farm Stays Interest & Guest Registrations
+                </h3>
+                <p className="text-xs text-zinc-500 mt-1">
+                  Prospective guests registered for preview retreats across retirement, weekend, and family experiences.
+                </p>
+              </div>
+
+              <div className="flex items-center gap-3">
+                <button
+                  type="button"
+                  onClick={exportFarmStaysToCSV}
+                  className="px-5 py-2.5 bg-[#172F1F] hover:bg-[#20412B] text-white text-xs font-semibold rounded-full transition shadow-xs flex items-center gap-2"
+                >
+                  <Download className="w-4 h-4" />
+                  <span>Export Inquiries to CSV</span>
+                </button>
+              </div>
+            </div>
+
+            {/* Metrics KPI Cards */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
+              <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+                  Total Registrations
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">{farmStays.length}</p>
+                <span className="text-[10px] text-zinc-400">All categories</span>
+              </div>
+
+              <div className="bg-white p-5 rounded-2xl border-2 border-[#C48248]/40 shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-[#C48248]">
+                  Retirement Escapes
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">
+                  {farmStays.filter((s) => s.preferredExperience === 'retirement').length}
+                </p>
+                <span className="text-[10px] text-zinc-400">Priority milestone campaign</span>
+              </div>
+
+              <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+                  Weekend Escapes
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">
+                  {farmStays.filter((s) => s.preferredExperience === 'weekend').length}
+                </p>
+                <span className="text-[10px] text-zinc-400">1–2 night getaways</span>
+              </div>
+
+              <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+                  Family Vacations
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">
+                  {farmStays.filter((s) => s.preferredExperience === 'family').length}
+                </p>
+                <span className="text-[10px] text-zinc-400">Parents & children</span>
+              </div>
+
+              <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+                  Couples Retreats
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">
+                  {farmStays.filter((s) => s.preferredExperience === 'couples').length}
+                </p>
+                <span className="text-[10px] text-zinc-400">Anniversaries & romance</span>
+              </div>
+
+              <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs space-y-1">
+                <span className="text-[11px] font-bold uppercase tracking-wider text-zinc-500">
+                  Extended & Slow
+                </span>
+                <p className="font-serif text-3xl font-bold text-[#102115]">
+                  {farmStays.filter((s) => s.preferredExperience === 'extended' || s.preferredExperience === 'private').length}
+                </p>
+                <span className="text-[10px] text-zinc-400">7–14+ nights / private</span>
+              </div>
+            </div>
+
+            {/* Telemetry from Analytics */}
+            {analyticsData && (
+              <div className="bg-[#172F1F] text-white rounded-2xl p-4 sm:p-5 flex flex-wrap items-center justify-between gap-4 text-xs">
+                <div className="flex items-center gap-2">
+                  <Activity className="w-4 h-4 text-[#A1D1AF]" />
+                  <span className="font-semibold">Live Traffic Analytics:</span>
+                </div>
+                <div className="flex flex-wrap items-center gap-4 text-zinc-300 font-mono">
+                  <span>Page Views: {analyticsData.metrics?.eventCounts?.farm_stay_page_view || 0}</span>
+                  <span>Form Starts: {analyticsData.metrics?.eventCounts?.farm_stay_form_start || 0}</span>
+                  <span>Retirement Clicks: {analyticsData.metrics?.eventCounts?.retirement_stay_interest || 0}</span>
+                  <span>Weekend Clicks: {analyticsData.metrics?.eventCounts?.weekend_stay_interest || 0}</span>
+                  <span>Family Clicks: {analyticsData.metrics?.eventCounts?.family_vacation_interest || 0}</span>
+                </div>
+              </div>
+            )}
+
+            {/* Filter Toolbar */}
+            <div className="bg-white p-5 rounded-2xl border border-[#D8D1C5] shadow-xs flex flex-wrap items-center justify-between gap-4">
+              <div className="flex flex-wrap items-center gap-3">
+                <div>
+                  <label className="text-[10px] uppercase font-bold text-zinc-400 block mb-1">
+                    Experience Filter
+                  </label>
+                  <select
+                    value={farmStayExperienceFilter}
+                    onChange={(e) => setFarmStayExperienceFilter(e.target.value)}
+                    className="px-3 py-1.5 rounded-xl border border-[#D8D1C5] text-xs bg-white focus:outline-hidden"
+                  >
+                    <option value="all">All Experiences</option>
+                    <option value="retirement">Retirement Escape</option>
+                    <option value="weekend">Weekend Farm Stay</option>
+                    <option value="family">Family Farm Vacation</option>
+                    <option value="couples">Couples Retreat</option>
+                    <option value="extended">Extended Farm Stay</option>
+                    <option value="private">Private Estate</option>
+                  </select>
+                </div>
+
+                <div>
+                  <label className="text-[10px] uppercase font-bold text-zinc-400 block mb-1">
+                    Status Filter
+                  </label>
+                  <select
+                    value={farmStayStatusFilter}
+                    onChange={(e) => setFarmStayStatusFilter(e.target.value)}
+                    className="px-3 py-1.5 rounded-xl border border-[#D8D1C5] text-xs bg-white focus:outline-hidden"
+                  >
+                    <option value="all">All Statuses</option>
+                    <option value="new">New</option>
+                    <option value="contacted">Contacted</option>
+                    <option value="waitlisted">Waitlisted</option>
+                    <option value="closed">Closed</option>
+                  </select>
+                </div>
+              </div>
+
+              <div>
+                <label className="text-[10px] uppercase font-bold text-zinc-400 block mb-1">
+                  Search by City or Name
+                </label>
+                <div className="relative w-56">
+                  <Search className="w-3.5 h-3.5 absolute left-3 top-1/2 -translate-y-1/2 text-zinc-400" />
+                  <input
+                    type="text"
+                    value={farmStayCityFilter}
+                    onChange={(e) => setFarmStayCityFilter(e.target.value)}
+                    placeholder="Filter by city..."
+                    className="w-full pl-8 pr-3 py-1.5 rounded-xl border border-[#D8D1C5] text-xs focus:outline-hidden"
+                  />
+                </div>
+              </div>
+            </div>
+
+            {/* Inquiries Table */}
+            <div className="bg-white rounded-3xl border border-[#D8D1C5] shadow-xs overflow-hidden">
+              <div className="overflow-x-auto">
+                <table className="w-full text-left text-xs">
+                  <thead className="bg-[#FAF8F5] border-b border-[#E5E0D8] text-zinc-500 font-semibold uppercase tracking-wider text-[10px]">
+                    <tr>
+                      <th className="p-4">Guest & Contact</th>
+                      <th className="p-4">Experience & Party</th>
+                      <th className="p-4">Duration & Budget</th>
+                      <th className="p-4">Distance & Priority</th>
+                      <th className="p-4">Notes & Feedback</th>
+                      <th className="p-4">Status & Action</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-zinc-100">
+                    {farmStays
+                      .filter((s) => {
+                        const matchExp =
+                          farmStayExperienceFilter === 'all' ||
+                          s.preferredExperience === farmStayExperienceFilter;
+                        const matchStatus =
+                          farmStayStatusFilter === 'all' || s.status === farmStayStatusFilter;
+                        const matchCity =
+                          !farmStayCityFilter.trim() ||
+                          s.city.toLowerCase().includes(farmStayCityFilter.toLowerCase()) ||
+                          s.fullName.toLowerCase().includes(farmStayCityFilter.toLowerCase());
+                        return matchExp && matchStatus && matchCity;
+                      })
+                      .map((s) => (
+                        <tr key={s.id} className="hover:bg-zinc-50/60 transition">
+                          <td className="p-4 space-y-1">
+                            <span className="font-semibold text-zinc-900 block">{s.fullName}</span>
+                            <span className="text-[11px] text-zinc-500 block">{s.email}</span>
+                            <span className="text-[11px] font-mono text-zinc-500 block">
+                              {s.phone} • {s.city}, {s.country}
+                            </span>
+                            <span className="text-[10px] text-zinc-400 block">
+                              {new Date(s.createdAt).toLocaleDateString()}
+                            </span>
+                          </td>
+
+                          <td className="p-4 space-y-1">
+                            <span className="inline-block px-2 py-0.5 rounded-full text-[10px] font-bold uppercase tracking-wider bg-emerald-50 text-emerald-800">
+                              {s.preferredExperience}
+                            </span>
+                            <span className="text-[11px] text-zinc-600 block">
+                              With: {s.travellingWith}
+                            </span>
+                          </td>
+
+                          <td className="p-4 space-y-1">
+                            <span className="font-medium text-zinc-800 block">{s.duration}</span>
+                            <span className="text-[11px] font-mono text-[#2D5A3C] block">
+                              Budget: {s.budgetRange}
+                            </span>
+                          </td>
+
+                          <td className="p-4 space-y-1">
+                            <span className="text-[11px] text-zinc-600 block">
+                              {s.preferredDistance}
+                            </span>
+                            {s.priorityInterest && (
+                              <span className="text-[10px] font-medium text-amber-800 bg-amber-50 px-2 py-0.5 rounded inline-block">
+                                {s.priorityInterest}
+                              </span>
+                            )}
+                          </td>
+
+                          <td className="p-4 space-y-2 max-w-xs">
+                            {s.notes && (
+                              <p className="text-[11px] text-zinc-600 italic bg-zinc-50 p-2 rounded-lg">
+                                &ldquo;{s.notes}&rdquo;
+                              </p>
+                            )}
+                            <input
+                              type="text"
+                              defaultValue={s.feedbackNotes || ''}
+                              onBlur={(e) =>
+                                updateFarmStayStatus(s.id, s.status, e.target.value)
+                              }
+                              placeholder="Add follow-up notes..."
+                              className="w-full px-2.5 py-1 text-[11px] border border-zinc-200 rounded-lg focus:outline-hidden focus:border-[#172F1F]"
+                            />
+                          </td>
+
+                          <td className="p-4 space-y-2">
+                            <select
+                              value={s.status}
+                              onChange={(e) =>
+                                updateFarmStayStatus(
+                                  s.id,
+                                  e.target.value as any,
+                                  s.feedbackNotes
+                                )
+                              }
+                              className="w-full px-2 py-1 rounded-lg border border-zinc-200 text-[11px] font-semibold bg-white focus:outline-hidden"
+                            >
+                              <option value="new">New</option>
+                              <option value="contacted">Contacted</option>
+                              <option value="waitlisted">Waitlisted</option>
+                              <option value="closed">Closed</option>
+                            </select>
+
+                            <a
+                              href={`https://wa.me/${s.phone.replace(/[^0-9]/g, '')}?text=${encodeURIComponent(
+                                `Hi ${s.fullName}, this is PureVegies regarding your inquiry about our upcoming Farm Stay retreats.`
+                              )}`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="inline-flex items-center gap-1 w-full justify-center px-2.5 py-1 bg-[#25D366] text-white rounded-lg text-[11px] font-semibold hover:bg-[#20ba59] transition"
+                            >
+                              <MessageCircle className="w-3 h-3" />
+                              <span>WhatsApp</span>
+                            </a>
+                          </td>
+                        </tr>
+                      ))}
+                  </tbody>
+                </table>
+              </div>
             </div>
           </div>
         )}

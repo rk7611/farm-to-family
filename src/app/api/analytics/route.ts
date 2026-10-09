@@ -100,6 +100,14 @@ export async function GET() {
     whatsapp_click: 0,
     advisor_enquiry: 0,
     visit_enquiry: 0,
+    farm_stay_page_view: 0,
+    weekend_stay_interest: 0,
+    family_vacation_interest: 0,
+    retirement_stay_interest: 0,
+    couples_retreat_interest: 0,
+    extended_stay_interest: 0,
+    farm_stay_form_start: 0,
+    farm_stay_lead_submitted: 0,
   };
 
   eventsLog.forEach((e) => {
@@ -109,6 +117,8 @@ export async function GET() {
     }
     if (eventCounts[e.event] !== undefined) {
       eventCounts[e.event] += 1;
+    } else {
+      eventCounts[e.event] = 1;
     }
   });
 

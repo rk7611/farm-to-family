@@ -11,7 +11,15 @@ export type AnalyticsEventName =
   | 'lead_submission'
   | 'whatsapp_click'
   | 'advisor_enquiry'
-  | 'visit_enquiry';
+  | 'visit_enquiry'
+  | 'farm_stay_page_view'
+  | 'weekend_stay_interest'
+  | 'family_vacation_interest'
+  | 'retirement_stay_interest'
+  | 'couples_retreat_interest'
+  | 'extended_stay_interest'
+  | 'farm_stay_form_start'
+  | 'farm_stay_lead_submitted';
 
 export interface AnalyticsPayload {
   event: AnalyticsEventName;

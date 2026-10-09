@@ -22,6 +22,7 @@ import {
   HeartHandshake,
   Check,
   ChevronDown,
+  ChevronRight,
   Info,
   Clock,
   Droplet,
@@ -1691,6 +1692,126 @@ export default function HomePage() {
                   </div>
                 </div>
               ))}
+            </div>
+          </div>
+        </section>
+
+        {/* =========================================================================
+            SECTION: NEW BUSINESS VERTICAL — PUREVEGIES FARM STAYS
+            Tagline: "Grow Closer to Nature. Stay Closer to What Matters."
+            Upcoming experience banner & 5 experiences preview
+           ========================================================================= */}
+        <section id="farm-stays-preview" className="py-24 px-4 sm:px-6 lg:px-8 bg-[#172F1F] text-white relative overflow-hidden">
+          {/* Subtle gold glow */}
+          <div className="absolute top-0 right-0 w-96 h-96 bg-[#C48248]/15 rounded-full blur-3xl pointer-events-none" />
+
+          <div className="max-w-7xl mx-auto space-y-12 relative z-10">
+            <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
+              <div className="space-y-4 max-w-3xl">
+                <div className="inline-flex items-center gap-2 px-3.5 py-1 rounded-full bg-[#20412B] text-[#A1D1AF] text-xs font-bold uppercase tracking-wider">
+                  <Sparkles className="w-4 h-4 text-[#C48248]" />
+                  <span>New Vertical • PureVegies Farm Stays</span>
+                </div>
+                <h2 className="font-serif text-3xl sm:text-5xl font-bold text-white leading-tight">
+                  Grow Closer to Nature.
+                  <br />
+                  Stay Closer to What Matters.
+                </h2>
+                <p className="text-sm sm:text-base text-zinc-300 leading-relaxed max-w-2xl">
+                  We are expanding beyond doorstep deliveries to countryside hospitality. PureVegies Farm Stays
+                  are being developed for families, couples, and retirees looking for peaceful getaways,
+                  living soil, and a slower pace of life.
+                </p>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-4 shrink-0">
+                <Link
+                  href="/farm-stays"
+                  className="px-6 py-3.5 rounded-full bg-[#C48248] hover:bg-[#b0733d] text-white font-semibold text-xs uppercase tracking-wider transition shadow-md flex items-center gap-2"
+                >
+                  <span>Explore Farm Stays</span>
+                  <ArrowRight className="w-4 h-4" />
+                </Link>
+                <Link
+                  href="/blog/retirement-deserves-a-farm-vacation"
+                  className="px-6 py-3.5 rounded-full bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold text-xs uppercase tracking-wider transition"
+                >
+                  <span>Retirement Story</span>
+                </Link>
+              </div>
+            </div>
+
+            {/* Status Indicator */}
+            <div className="p-4 rounded-2xl bg-white/5 border border-white/10 flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs text-zinc-300">
+              <div className="flex items-center gap-2">
+                <span className="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-pulse" />
+                <span className="font-semibold text-white">Upcoming Experience:</span>
+                <span>Country retreats currently in planning. Register interest for preview access.</span>
+              </div>
+              <span className="text-[11px] text-[#A1D1AF] font-mono">No land required • Zero bookings accepted until operational</span>
+            </div>
+
+            {/* 3 Featured Experience Cards */}
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {/* Weekend */}
+              <div className="bg-white/5 rounded-3xl p-6 sm:p-8 border border-white/10 space-y-4 hover:border-[#A1D1AF]/40 transition">
+                <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-[#A1D1AF]">
+                  <Sun className="w-5 h-5" />
+                </div>
+                <h3 className="font-serif text-xl font-bold text-white">Weekend Farm Escape</h3>
+                <p className="text-xs text-zinc-300 leading-relaxed">
+                  &ldquo;Your weekend deserves more than another hotel.&rdquo; 1–2 night countryside breaks
+                  with fresh morning walks, starlit nights, and farm-to-table meals.
+                </p>
+                <Link
+                  href="/farm-stays"
+                  className="text-xs font-semibold text-[#A1D1AF] hover:underline inline-flex items-center gap-1 pt-2"
+                >
+                  <span>Learn more</span>
+                  <ChevronRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
+
+              {/* Retirement Spotlight */}
+              <div className="bg-[#20412B]/90 rounded-3xl p-6 sm:p-8 border-2 border-[#C48248]/50 space-y-4 shadow-lg relative">
+                <span className="absolute -top-3 right-6 bg-[#C48248] text-white text-[10px] font-bold uppercase tracking-widest px-3 py-0.5 rounded-full">
+                  Priority Milestone
+                </span>
+                <div className="w-10 h-10 rounded-full bg-[#C48248]/20 flex items-center justify-center text-[#C48248]">
+                  <Sparkles className="w-5 h-5" />
+                </div>
+                <h3 className="font-serif text-xl font-bold text-white">The Retirement Escape</h3>
+                <p className="text-xs text-zinc-300 leading-relaxed">
+                  &ldquo;Why should honeymoon be the only once-in-a-lifetime escape?&rdquo; Celebrate decades of
+                  hard work with 3-night or 7-night countryside freedom.
+                </p>
+                <Link
+                  href="/farm-stays"
+                  className="text-xs font-semibold text-[#C48248] hover:underline inline-flex items-center gap-1 pt-2"
+                >
+                  <span>Explore Retirement Retreats</span>
+                  <ChevronRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
+
+              {/* Family */}
+              <div className="bg-white/5 rounded-3xl p-6 sm:p-8 border border-white/10 space-y-4 hover:border-[#A1D1AF]/40 transition">
+                <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center text-[#A1D1AF]">
+                  <Users className="w-5 h-5" />
+                </div>
+                <h3 className="font-serif text-xl font-bold text-white">Family Farm Vacation</h3>
+                <p className="text-xs text-zinc-300 leading-relaxed">
+                  Give your children holidays beyond screens. Harvesting root crops, learning seed biology,
+                  and enjoying tactile outdoor play together.
+                </p>
+                <Link
+                  href="/farm-stays"
+                  className="text-xs font-semibold text-[#A1D1AF] hover:underline inline-flex items-center gap-1 pt-2"
+                >
+                  <span>Learn more</span>
+                  <ChevronRight className="w-3.5 h-3.5" />
+                </Link>
+              </div>
             </div>
           </div>
         </section>

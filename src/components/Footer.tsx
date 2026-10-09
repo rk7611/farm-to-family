@@ -39,24 +39,24 @@ export default function Footer() {
             </div>
 
             <p className="font-serif italic text-xl text-[#F2F7F4] font-light max-w-md">
-              &ldquo;Your Family&rsquo;s Farm. Our Natural Farming. Fresh Food at Your Door.&rdquo;
+              &ldquo;Grow Closer to Nature. Stay Closer to What Matters.&rdquo;
             </p>
 
             <p className="text-sm text-zinc-400 leading-relaxed max-w-md">
               PureVegies provides the land, farming infrastructure and agricultural team. We follow
               natural farming practices focused on soil health, biodiversity and responsible
-              cultivation, while keeping you connected to how your family&rsquo;s food is grown.
+              cultivation, while offering peaceful countryside stays and fresh food delivery.
             </p>
 
             <div className="p-4 rounded-xl bg-[#172F1F]/70 border border-[#234531] text-xs space-y-2">
               <div className="flex items-center gap-2 text-[#A1D1AF] font-semibold">
                 <ShieldCheck className="w-4 h-4" />
-                <span>Our Natural Farming Commitment</span>
+                <span>Our Natural Farming & Farm Stay Commitment</span>
               </div>
               <p className="text-zinc-300 leading-normal">
                 PureVegies develops and manages agricultural land specifically for this service.
-                Customers do not need to purchase, lease or manage land. We cultivate using natural
-                farming practices focused on living soil and transparent tracking.
+                Customers do not need to purchase, lease or manage land. Farm stays and retreats are
+                planned countryside experiences currently under development.
               </p>
             </div>
           </div>
@@ -68,9 +68,19 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2.5 text-sm">
               <li>
-                <Link href="/business-model" className="text-[#A1D1AF] hover:text-white font-medium transition flex items-center gap-1">
-                  <span>Our Business Model</span>
-                  <span className="text-[10px] bg-[#1F3D2A] px-1.5 py-0.2 rounded font-mono">NEW</span>
+                <Link href="/farm-stays" className="text-[#A1D1AF] hover:text-white font-medium transition flex items-center gap-1">
+                  <span>Farm Stays (New)</span>
+                  <span className="text-[10px] bg-[#1F3D2A] px-1.5 py-0.2 rounded font-mono">UPCOMING</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog" className="text-[#A1D1AF] hover:text-white font-medium transition flex items-center gap-1">
+                  <span>Journal & Stories</span>
+                </Link>
+              </li>
+              <li>
+                <Link href="/business-model" className="text-zinc-300 hover:text-white transition">
+                  Our Business Model
                 </Link>
               </li>
               <li>

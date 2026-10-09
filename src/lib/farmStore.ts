@@ -14,6 +14,7 @@ import {
   CropStage,
   DeliveryStatus,
   PlanTier,
+  FarmStayEnquiry,
 } from './types';
 import {
   INITIAL_CUSTOMERS,
@@ -24,6 +25,7 @@ import {
   INITIAL_UPDATES,
   INITIAL_LEADS,
   SYSTEM_CONFIG,
+  INITIAL_FARM_STAYS,
 } from './mockData';
 
 const STORAGE_KEYS = {
@@ -37,6 +39,7 @@ const STORAGE_KEYS = {
   LEADS: 'ftf_leads_v1',
   VISITS: 'ftf_visits_v1',
   CONFIG: 'ftf_config_v1',
+  FARM_STAYS: 'ftf_farm_stays_v1',
 };
 
 // Simple global event bus for reactive state across components
@@ -57,6 +60,7 @@ let inMemoryUpdates: FarmUpdate[] = INITIAL_UPDATES;
 let inMemoryLeads: Lead[] = INITIAL_LEADS;
 let inMemoryVisits: FarmVisitBooking[] = [];
 let inMemoryConfig: SystemConfig = SYSTEM_CONFIG;
+let inMemoryFarmStays: FarmStayEnquiry[] = INITIAL_FARM_STAYS;
 let inMemoryCurrentUserId: string = 'cust-rahul-01'; // Default demo user
 
 function initFromStorage() {
@@ -89,6 +93,9 @@ function initFromStorage() {
     const storedVisits = localStorage.getItem(STORAGE_KEYS.VISITS);
     if (storedVisits) inMemoryVisits = JSON.parse(storedVisits);
 
+    const storedStays = localStorage.getItem(STORAGE_KEYS.FARM_STAYS);
+    if (storedStays) inMemoryFarmStays = JSON.parse(storedStays);
+
     const storedCfg = localStorage.getItem(STORAGE_KEYS.CONFIG);
     if (storedCfg) inMemoryConfig = JSON.parse(storedCfg);
   } catch (e) {
@@ -109,6 +116,7 @@ function persistAll() {
     localStorage.setItem(STORAGE_KEYS.LEADS, JSON.stringify(inMemoryLeads));
     localStorage.setItem(STORAGE_KEYS.VISITS, JSON.stringify(inMemoryVisits));
     localStorage.setItem(STORAGE_KEYS.CONFIG, JSON.stringify(inMemoryConfig));
+    localStorage.setItem(STORAGE_KEYS.FARM_STAYS, JSON.stringify(inMemoryFarmStays));
   } catch (e) {
     console.warn('Failed to save to local storage', e);
   }
@@ -154,6 +162,7 @@ export function useFarmStore() {
     leads: inMemoryLeads,
     visits: inMemoryVisits,
     config: inMemoryConfig,
+    farmStays: inMemoryFarmStays,
 
     // Actions
     setCurrentUser: (userId: string) => {
@@ -271,6 +280,38 @@ export function useFarmStore() {
       persistAll();
       notify();
       return newUpdate;
+    },
+
+    addFarmStayEnquiry: (data: Omit<FarmStayEnquiry, 'id' | 'createdAt' | 'status'>) => {
+      const newStay: FarmStayEnquiry = {
+        ...data,
+        id: `stay-${Date.now()}`,
+        createdAt: new Date().toISOString(),
+        status: 'new',
+      };
+      inMemoryFarmStays = [newStay, ...inMemoryFarmStays];
+      persistAll();
+      notify();
+      return newStay;
+    },
+
+    updateFarmStayStatus: (
+      id: string,
+      status: FarmStayEnquiry['status'],
+      feedbackNotes?: string
+    ) => {
+      inMemoryFarmStays = inMemoryFarmStays.map((s) => {
+        if (s.id === id) {
+          return {
+            ...s,
+            status,
+            feedbackNotes: feedbackNotes !== undefined ? feedbackNotes : s.feedbackNotes,
+          };
+        }
+        return s;
+      });
+      persistAll();
+      notify();
     },
   };
 }

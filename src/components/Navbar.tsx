@@ -26,6 +26,8 @@ export default function Navbar() {
     { label: 'How It Works', href: '/how-it-works' },
     { label: 'Our Business Model', href: '/business-model' },
     { label: 'Plans', href: '/plans' },
+    { label: 'Farm Stays (New)', href: '/farm-stays' },
+    { label: 'Journal', href: '/blog' },
     { label: 'Build Your Farm', href: '/build-your-farm' },
     { label: 'Our Farms', href: '/farms' },
     { label: 'Produce', href: '/produce' },
