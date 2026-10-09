@@ -46,7 +46,7 @@ export default function Navbar() {
               NO LAND REQUIRED
             </span>
             <span className="text-zinc-300">
-              PureVegies provides farmland, farmers & infrastructure • You choose what we grow
+              Your Family’s Farm. Our Natural Farming. Fresh Food at Your Door.
             </span>
           </div>
 
@@ -84,8 +84,8 @@ export default function Navbar() {
                 <span className="font-serif tracking-wider font-bold text-xl text-[#102115] leading-none">
                   PUREVEGIES
                 </span>
-                <span className="text-[10px] tracking-[0.15em] uppercase font-semibold text-[#628A6F] mt-1">
-                  Managed Farming Without Owning Land
+                <span className="text-[10px] tracking-[0.12em] uppercase font-semibold text-[#628A6F] mt-1">
+                  Naturally Grown • Thoughtfully Delivered
                 </span>
               </div>
             </Link>

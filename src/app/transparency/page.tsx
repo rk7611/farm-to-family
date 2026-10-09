@@ -75,7 +75,7 @@ export default function TransparencyPage() {
 
           <div className="bg-[#172F1F] text-white p-8 sm:p-10 rounded-3xl border border-[#234531] shadow-xl space-y-6">
             <div className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-[#A1D1AF] bg-[#20412B] px-3 py-1 rounded-full">
-              <span>The Farm-to-Family Standard</span>
+              <span>The PureVegies Natural Farming Standard</span>
             </div>
 
             <h3 className="font-serif text-2xl font-bold text-white">

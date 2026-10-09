@@ -33,30 +33,30 @@ export default function Footer() {
                   PUREVEGIES
                 </span>
                 <span className="text-[10px] tracking-[0.2em] uppercase font-semibold text-[#8EB79C]">
-                  Managed Farming Without Owning Land
+                  Naturally Grown • Thoughtfully Delivered
                 </span>
               </div>
             </div>
 
             <p className="font-serif italic text-xl text-[#F2F7F4] font-light max-w-md">
-              &ldquo;Your Farm. Without Owning Land.&rdquo;
+              &ldquo;Your Family&rsquo;s Farm. Our Natural Farming. Fresh Food at Your Door.&rdquo;
             </p>
 
             <p className="text-sm text-zinc-400 leading-relaxed max-w-md">
-              PureVegies provides the agricultural land, expert farmers, irrigation infrastructure,
-              and doorstep harvest delivery. You simply choose what your family eats—we take care of
-              the farming. No land purchase, lease, or farming labor required.
+              PureVegies provides the land, farming infrastructure and agricultural team. We follow
+              natural farming practices focused on soil health, biodiversity and responsible
+              cultivation, while keeping you connected to how your family&rsquo;s food is grown.
             </p>
 
             <div className="p-4 rounded-xl bg-[#172F1F]/70 border border-[#234531] text-xs space-y-2">
               <div className="flex items-center gap-2 text-[#A1D1AF] font-semibold">
                 <ShieldCheck className="w-4 h-4" />
-                <span>Our Managed Farming Commitment</span>
+                <span>Our Natural Farming Commitment</span>
               </div>
               <p className="text-zinc-300 leading-normal">
-                PureVegies develops and manages the agricultural land specifically for your family.
-                Customers do not need to buy or provide land. We practice responsible farming, verified
-                soil testing, and full harvest traceability.
+                PureVegies develops and manages agricultural land specifically for this service.
+                Customers do not need to purchase, lease or manage land. We cultivate using natural
+                farming practices focused on living soil and transparent tracking.
               </p>
             </div>
           </div>

@@ -133,13 +133,15 @@ export default function PlansPage() {
             <div className="space-y-6">
               <div>
                 <span className="text-xs font-bold uppercase tracking-wider text-[#628A6F]">
-                  Family Farming Allocation
+                  Natural farming for your family’s everyday food needs
                 </span>
                 <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                   My Family&rsquo;s Farm
                 </h3>
-                <p className="text-xs text-zinc-600 mt-2">
-                  PureVegies provides the land and manages the farming. You choose your family&rsquo;s preferred produce and receive farm-grown vegetables according to your subscription.
+                <p className="text-xs text-zinc-600 mt-2 leading-relaxed">
+                  PureVegies provides the land and manages the farming. Choose from available vegetables and
+                  seasonal crops grown using our natural farming approach. We harvest, pack and deliver
+                  according to your subscription plan.
                 </p>
               </div>
 
@@ -148,7 +150,7 @@ export default function PlansPage() {
                   <span className="font-serif text-4xl font-bold text-[#102115]">₹10,000</span>
                   <span className="text-sm font-medium text-zinc-500">/ month</span>
                 </div>
-                <p className="text-[11px] text-zinc-500 mt-0.5">Managed family farm plan • PureVegies farmland</p>
+                <p className="text-[11px] text-zinc-500 mt-0.5">Managed farming service • PureVegies farmland</p>
               </div>
 
               <div className="space-y-3 pt-2">
@@ -157,14 +159,15 @@ export default function PlansPage() {
                 </p>
                 <ul className="space-y-2.5 text-xs text-zinc-600">
                   {[
-                    'PureVegies-managed farmland',
-                    'Family-oriented crop planning',
-                    'Seasonal vegetable selection',
-                    'Regular produce delivery',
-                    'Farm updates',
-                    'Photos/videos',
-                    'Quality checking',
-                    'WhatsApp support',
+                    'PureVegies-managed farmland.',
+                    'Family-focused crop planning.',
+                    'Available seasonal vegetables.',
+                    'Natural farming practices.',
+                    'Farm photos and videos.',
+                    'Crop progress updates.',
+                    'Harvest and delivery updates.',
+                    'Quality checks.',
+                    'Home delivery according to plan.',
                   ].map((feat, i) => (
                     <li key={i} className="flex items-start gap-2.5">
                       <CheckCircle2 className="w-4 h-4 text-[#2D5A3C] shrink-0 mt-0.5" />
@@ -178,10 +181,10 @@ export default function PlansPage() {
             <div className="mt-8 pt-6 border-t border-zinc-100">
               <button
                 type="button"
-                onClick={() => openPlanModal('family', "Start My Family's Farm Plan (₹10,000/mo)")}
+                onClick={() => openPlanModal('family', "Start My Family's Farm Plan")}
                 className="w-full py-3.5 px-6 rounded-full bg-[#172F1F] hover:bg-[#20412B] text-white font-semibold text-xs uppercase tracking-wider transition shadow-sm text-center"
               >
-                Start My Farm Plan
+                Start My Family&rsquo;s Farm Plan
               </button>
             </div>
           </div>
@@ -195,16 +198,17 @@ export default function PlansPage() {
             <div className="space-y-6">
               <div>
                 <span className="text-xs font-bold uppercase tracking-wider text-[#B2763D]">
-                  Dedicated Farming Area
+                  A dedicated farming experience shaped around your family’s preferences
                 </span>
                 <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                   My Dedicated Farm
                 </h3>
-                <p className="text-xs text-zinc-600 mt-2">
-                  A dedicated farming area within our managed farm network, planned around your family&rsquo;s preferences.
+                <p className="text-xs text-zinc-600 mt-2 leading-relaxed">
+                  We provide and manage the farmland while planning cultivation around your preferred
+                  vegetables and seasonal requirements.
                 </p>
                 <p className="text-[11px] text-emerald-800 font-medium mt-1 bg-emerald-50 px-2 py-0.5 rounded">
-                  You don&rsquo;t need to own or provide land. PureVegies provides and manages the farming space.
+                  Managed farming service • No land ownership or management required
                 </p>
               </div>
 
@@ -214,7 +218,7 @@ export default function PlansPage() {
                   <span className="text-sm font-medium text-zinc-500">/ month</span>
                 </div>
                 <p className="text-[11px] text-[#2D5A3C] font-semibold mt-0.5">
-                  Dedicated farming area within our network
+                  Dedicated farming area within our managed farm
                 </p>
               </div>
 
@@ -224,14 +228,15 @@ export default function PlansPage() {
                 </p>
                 <ul className="space-y-2.5 text-xs text-zinc-600">
                   {[
-                    'Dedicated farming area within PureVegies farm',
-                    'Custom crop planning',
-                    'Customer-selected crops',
-                    'Farm updates',
-                    'Photos/videos',
-                    'Harvest tracking',
-                    'Priority delivery',
-                    'Farm visit option',
+                    'Dedicated farming area within our managed farm.',
+                    'Customised crop planning.',
+                    'Vegetable selection based on availability and suitability.',
+                    'Natural farming approach.',
+                    'Regular farm updates.',
+                    'Photos and videos.',
+                    'Harvest tracking.',
+                    'Priority delivery according to plan.',
+                    'Farm visit option, subject to availability.',
                   ].map((feat, i) => (
                     <li key={i} className="flex items-start gap-2.5">
                       <CheckCircle2 className="w-4 h-4 text-[#2D5A3C] shrink-0 mt-0.5" />
@@ -246,7 +251,7 @@ export default function PlansPage() {
               <button
                 type="button"
                 onClick={() =>
-                  openPlanModal('dedicated', 'Create My Dedicated Farm Plan (₹20,000/mo)')
+                  openPlanModal('dedicated', 'Create My Dedicated Farm Plan')
                 }
                 className="w-full py-3.5 px-6 rounded-full bg-[#172F1F] hover:bg-[#20412B] text-white font-semibold text-xs uppercase tracking-wider transition shadow-md text-center"
               >
@@ -260,10 +265,10 @@ export default function PlansPage() {
             <div className="space-y-6 relative z-10">
               <div className="flex items-center justify-between">
                 <span className="text-xs font-bold uppercase tracking-wider text-[#C48248]">
-                  HNI / Premium Segment
+                  A premium, privately managed natural farming experience
                 </span>
                 <span className="text-[10px] uppercase font-mono px-2.5 py-0.5 rounded-full bg-[#C48248]/20 text-[#edd2bd]">
-                  Bespoke Estate
+                  Bespoke
                 </span>
               </div>
 
@@ -271,11 +276,12 @@ export default function PlansPage() {
                 <h3 className="font-serif text-2xl sm:text-3xl font-bold text-white mt-1">
                   My Private Farm
                 </h3>
-                <p className="text-xs text-zinc-300 mt-2">
-                  A premium privately managed farming experience using PureVegies-managed farmland and infrastructure.
+                <p className="text-xs text-zinc-300 mt-2 leading-relaxed">
+                  Enjoy a highly personalised farming service on PureVegies-managed farmland. Our team coordinates
+                  the cultivation, farm monitoring, harvesting and delivery around your family&rsquo;s requirements.
                 </p>
                 <p className="text-[11px] text-[#A1D1AF] font-medium mt-1 bg-[#1A3824] px-2 py-0.5 rounded">
-                  PureVegies manages the land, farming team and complete agricultural operation. No land ownership required.
+                  Managed farming service • Customers do not purchase agricultural land
                 </p>
               </div>
 
@@ -296,20 +302,20 @@ export default function PlansPage() {
                 <p className="text-xs font-bold uppercase tracking-wider text-zinc-300">
                   Private Estate Privileges:
                 </p>
-                <ul className="space-y-2.5 text-xs text-zinc-300">
+                <ul className="space-y-2 text-xs text-zinc-300">
                   {[
-                    'Premium dedicated farm area within PureVegies estate',
-                    'Custom crop planning',
-                    'Complete farm management',
-                    'Premium produce',
-                    'Farm monitoring',
-                    'Detailed farming reports',
-                    'Harvest planning',
-                    'Premium packaging',
-                    'Home delivery',
-                    'Dedicated farm manager',
-                    'Farm visits',
-                    'Custom requirements',
+                    'Premium dedicated farming area.',
+                    'Custom crop planning.',
+                    'Complete farm management.',
+                    'Natural farming practices.',
+                    'Detailed cultivation reports.',
+                    'Farm monitoring.',
+                    'Harvest planning.',
+                    'Premium packaging.',
+                    'Home delivery according to the agreed service plan.',
+                    'Dedicated farm manager.',
+                    'Farm visits, subject to availability.',
+                    'Custom requirements based on feasibility.',
                   ].map((feat, i) => (
                     <li key={i} className="flex items-start gap-2.5">
                       <CheckCircle2 className="w-4 h-4 text-[#A1D1AF] shrink-0 mt-0.5" />
@@ -324,11 +330,11 @@ export default function PlansPage() {
               <button
                 type="button"
                 onClick={() =>
-                  openPlanModal('private', 'Talk to a Farm Advisor (My Private Farm)')
+                  openPlanModal('private', 'Discuss My Private Farm')
                 }
-                className="w-full py-3.5 px-6 rounded-full bg-[#FAF8F5] hover:bg-white text-[#102115] font-semibold text-xs uppercase tracking-wider transition shadow-md text-center"
+                className="w-full py-3.5 px-6 rounded-full bg-[#FAF8F5] hover:bg-white text-[#102115] font-semibold text-xs uppercase tracking-wider transition shadow-sm text-center"
               >
-                Talk to a Farm Advisor
+                Discuss My Private Farm
               </button>
             </div>
           </div>

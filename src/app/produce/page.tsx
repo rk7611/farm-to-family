@@ -117,6 +117,19 @@ export default function ProducePage() {
             Build Your Seasonal Basket
           </Link>
         </div>
+
+        {/* Operational & Yield Disclosure */}
+        <div className="p-5 rounded-2xl bg-[#F0ECE1] border border-[#D8D1C5] text-xs text-zinc-600 space-y-1.5 leading-relaxed">
+          <p className="font-semibold text-[#102115]">
+            Important Note on Crop Selection & Natural Yields:
+          </p>
+          <p>
+            Crop selection depends on season, climate, growing conditions, natural yield, and your selected plan.
+            We do not promise that every selected crop can always be grown or delivered simultaneously. PureVegies
+            provides and manages the farmland; customers do not own or manage land. Deliveries feature peak-condition
+            harvests aligned with natural cycles.
+          </p>
+        </div>
       </main>
 
       <Footer />

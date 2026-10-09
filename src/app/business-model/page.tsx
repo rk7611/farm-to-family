@@ -28,10 +28,13 @@ import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 
 export const metadata: Metadata = {
-  title: 'How PureVegies Managed Farming Works | Farming Without Owning Land',
+  title: 'Natural Farming for Families | PureVegies Managed Farming',
   description:
-    'PureVegies provides the farmland, farming infrastructure and complete farm management. Choose what you want grown for your family and receive farm-grown produce without owning or managing a farm.',
+    'PureVegies provides the farmland and manages cultivation using natural farming practices. Choose your preferred crops and receive farm-grown produce without owning or managing a farm.',
   keywords: [
+    'natural farming for families',
+    'natural farming vegetables',
+    'natural farming subscription',
     'managed farming',
     'farming without owning land',
     'family farming service',
@@ -39,8 +42,7 @@ export const metadata: Metadata = {
     'farm-to-family service',
     'vegetable farming subscription',
     'private farm management',
-    'personal farm management',
-    'farm-grown vegetables subscription',
+    'purevegies natural farming',
   ],
 };
 
@@ -49,66 +51,66 @@ export default function BusinessModelPage() {
     {
       step: '01',
       title: 'WE PROVIDE THE LAND',
-      subtitle: 'No land purchase or lease required',
-      desc: 'PureVegies develops and manages agricultural land specifically for this service. Customers do not need to purchase, lease, or provide agricultural land.',
+      subtitle: 'PureVegies manages farmland & infrastructure',
+      desc: 'PureVegies provides and manages the farmland and farming infrastructure. Customers do not need to purchase, lease, or manage agricultural land.',
       icon: '🏞️',
-      tag: 'PureVegies Infrastructure',
+      tag: 'PureVegies Farmland',
     },
     {
       step: '02',
-      title: 'YOU CHOOSE A PLAN',
-      subtitle: 'Select service tier for your household',
-      desc: 'Customers select the service level that fits their family’s scale: My Family’s Farm (₹10,000/mo), My Dedicated Farm (₹20,000/mo), or My Private Farm (₹7,00,000/yr).',
+      title: 'YOU SELECT YOUR PLAN',
+      subtitle: 'Choose for your family scale & budget',
+      desc: 'Choose a plan according to your family’s requirements and budget: My Family’s Farm (₹10,000/mo), My Dedicated Farm (₹20,000/mo), or My Private Farm (₹7,00,000/yr).',
       icon: '📋',
-      tag: 'Customer Selection',
+      tag: 'Customer Plan Selection',
     },
     {
       step: '03',
-      title: 'YOU SELECT WHAT YOU WANT GROWN',
-      subtitle: 'Tailored to what your family cooks',
-      desc: 'Customers choose from available vegetables and seasonal crops: Tomato, Carrot, Cabbage, Cauliflower, Capsicum, Bottle Gourd, Green Chilli, Green Peas, Brinjal, Cucumber, French Beans, and seasonal greens.',
+      title: 'YOU CHOOSE YOUR CROPS',
+      subtitle: 'Tailored to kitchen preferences & season',
+      desc: 'Select preferred vegetables from the crops suitable for the season, location and selected plan: tomatoes, carrots, beans, greens, gourds, cucumbers and more.',
       icon: '🥕',
-      tag: 'Crop Matrix',
+      tag: 'Seasonal Crop Selection',
     },
     {
       step: '04',
-      title: 'WE ALLOCATE FARM SPACE',
-      subtitle: 'Managed allocation within our farm network',
-      desc: 'Based on your plan and crop requirements, PureVegies allocates appropriate farming space within our managed farms. Your subscription gives you access to produce grown within our managed farming network.',
+      title: 'WE ALLOCATE FARMING SPACE',
+      subtitle: 'Managed allocation within our farms',
+      desc: 'We allocate appropriate farming space within our managed farms according to the service plan. Your subscription provides access to produce grown within our managed farming network.',
       icon: '📍',
-      tag: 'Farm Allocation',
+      tag: 'Farming Space Allocation',
     },
     {
       step: '05',
-      title: 'WE FARM',
-      subtitle: 'End-to-end agronomy & daily care',
-      desc: 'Our agricultural team manages land preparation, seed selection, sowing, irrigation, crop care, farm monitoring, responsible farming practices, and transparent cultivation.',
+      title: 'WE FOLLOW NATURAL FARMING PRACTICES',
+      subtitle: 'Soil care, biodiversity & crop monitoring',
+      desc: 'Our team manages soil preparation, crop cultivation, irrigation, crop monitoring and suitable natural farming practices with living soil inputs.',
       icon: '🌱',
-      tag: 'Expert Agronomy',
+      tag: 'Natural Farming Management',
     },
     {
       step: '06',
-      title: 'YOU TRACK THE FARM',
-      subtitle: 'Live transparency & updates',
-      desc: 'Customers receive farm photos, videos, crop updates, expected harvest dates, and farm progress reports via their private portal. Premium tiers include live camera access where available.',
+      title: 'YOU FOLLOW YOUR FARM’S PROGRESS',
+      subtitle: 'Transparent updates, photos & videos',
+      desc: 'Receive updates, photographs, videos and expected harvest information directly through your customer dashboard as crops mature.',
       icon: '📱',
       tag: 'Field Transparency',
     },
     {
       step: '07',
-      title: 'WE HARVEST',
-      subtitle: 'Field harvest, quality check & eco-packing',
-      desc: 'When produce reaches peak nutritional ripeness, our team performs: Pre-dawn Harvest → Laboratory Quality Check → Sorting → Insulated Eco-Packing.',
+      title: 'WE HARVEST AND PACK',
+      subtitle: 'Quality checked, sorted & packed',
+      desc: 'Produce is harvested when ready, checked for quality and packed in breathable, eco-friendly insulated crates for transit.',
       icon: '🧺',
-      tag: 'Quality Controlled',
+      tag: 'Harvest & Quality Check',
     },
     {
       step: '08',
-      title: 'WE DELIVER',
-      subtitle: 'Straight from soil to doorstep',
-      desc: 'Produce is delivered directly to your registered family address according to your plan and delivery schedule, maintaining freshness and unbroken cold-chain hygiene.',
+      title: 'WE DELIVER TO YOUR HOME',
+      subtitle: 'Regular doorstep deliveries',
+      desc: 'Produce is delivered according to the agreed plan, harvest availability and delivery schedule directly to your family’s doorstep.',
       icon: '🚚',
-      tag: 'Doorstep Delivery',
+      tag: 'Home Delivery',
     },
   ];
 
@@ -116,11 +118,11 @@ export default function BusinessModelPage() {
     { feature: 'Land Requirement', traditional: 'Buy or lease expensive farmland (₹50L - ₹2Cr+)', purevegies: 'PureVegies provides and controls the farmland' },
     { feature: 'Farmer & Labour Management', traditional: 'Hire, supervise, pay and manage daily workers', purevegies: 'PureVegies manages full agronomy & farm teams' },
     { feature: 'Infrastructure & Borewells', traditional: 'Install fencing, drip irrigation, electricity, water tanks', purevegies: 'PureVegies develops and maintains all infrastructure' },
-    { feature: 'Crop & Agronomy Planning', traditional: 'Risk failure through trial & error agricultural science', purevegies: 'PureVegies agronomists plan & manage crop matrix' },
+    { feature: 'Cultivation Philosophy', traditional: 'Often heavy synthetic fertilizers or trial-and-error', purevegies: 'PureVegies follows natural farming practices' },
     { feature: 'Irrigation & Daily Supervision', traditional: 'Must visit or pay caretakers 365 days a year', purevegies: 'PureVegies manages automated precision drip irrigation' },
     { feature: 'Farm Monitoring', traditional: 'Drive hours to inspect or rely on secondhand reports', purevegies: 'PureVegies provides photos, videos & live portal updates' },
     { feature: 'Harvesting Management', traditional: 'Arrange manual labor and deal with harvest spoilage', purevegies: 'PureVegies harvests at peak ripeness' },
-    { feature: 'Quality & Soil Testing', traditional: 'Send samples to private labs at personal cost', purevegies: 'PureVegies tests soil, water, and produce batches' },
+    { feature: 'Quality & Soil Testing', traditional: 'Send samples to private labs at personal cost', purevegies: 'PureVegies monitors living soil vitality & produce batches' },
     { feature: 'Packaging & Logistics', traditional: 'Arrange private transport to bring food to the city', purevegies: 'PureVegies packs in insulated crates & delivers home' },
     { feature: 'Your Actual Involvement', traditional: 'Heavy financial burden & full-time second job', purevegies: 'Simply choose your plan and what your family eats' },
   ];
@@ -132,54 +134,34 @@ export default function BusinessModelPage() {
       <main className="flex-1">
         {/* =========================================================================
             HERO: Core Concept
+            Headline: "Your Family's Farm. Without the Land, Labour or Daily Management."
            ========================================================================= */}
         <section className="bg-[#102115] text-white py-20 px-4 sm:px-6 lg:px-8 border-b border-[#234531]">
           <div className="max-w-5xl mx-auto text-center space-y-6">
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-[#1F3D2A] text-[#9EC9AB] text-xs font-mono font-bold uppercase tracking-wider">
               <ShieldCheck className="w-4 h-4 text-[#9EC9AB]" />
-              <span>THE PUREVEGIES MANAGED FARMING MODEL</span>
+              <span>THE PUREVEGIES MANAGED NATURAL FARMING MODEL</span>
             </div>
 
             <h1 className="font-serif text-4xl sm:text-6xl font-bold text-white tracking-tight leading-tight">
-              Our Business Model
+              Your Family&rsquo;s Farm.
+              <br />
+              <span className="text-[#9EC9AB] italic font-normal">
+                Without the Land, Labour or Daily Management.
+              </span>
             </h1>
 
-            <p className="font-serif text-2xl sm:text-3xl text-[#9EC9AB] italic font-normal">
-              &ldquo;Your Farm. Without Owning Land.&rdquo;
-            </p>
-
             <p className="text-base sm:text-xl text-zinc-300 max-w-3xl mx-auto leading-relaxed font-light">
-              PureVegies provides the land, farmers, infrastructure and complete farm management.
-              You simply choose what you want us to grow for your family.
+              PureVegies provides the land, farming infrastructure and agricultural team. We follow
+              natural farming practices focused on soil health, biodiversity and responsible cultivation,
+              while keeping you connected to how your family&rsquo;s food is grown.
             </p>
 
-            {/* Quick 5-Second Takeaway Box */}
-            <div className="mt-8 p-6 bg-[#172F1F]/90 border border-[#2D5A3C] rounded-3xl max-w-3xl mx-auto text-left shadow-xl">
-              <span className="text-[11px] font-bold uppercase tracking-widest text-[#9EC9AB] block mb-2">
-                The 5-Second Summary
-              </span>
-              <div className="grid grid-cols-1 sm:grid-cols-4 gap-4 text-center">
-                <div className="p-3 bg-[#102115] rounded-xl border border-[#234531]">
-                  <span className="text-xl">🏞️</span>
-                  <p className="text-xs font-bold text-white mt-1">1. We Provide Land</p>
-                  <p className="text-[11px] text-zinc-400">No purchase needed</p>
-                </div>
-                <div className="p-3 bg-[#102115] rounded-xl border border-[#234531]">
-                  <span className="text-xl">🥕</span>
-                  <p className="text-xs font-bold text-white mt-1">2. You Choose Crops</p>
-                  <p className="text-[11px] text-zinc-400">Tell us what to grow</p>
-                </div>
-                <div className="p-3 bg-[#102115] rounded-xl border border-[#234531]">
-                  <span className="text-xl">🌱</span>
-                  <p className="text-xs font-bold text-white mt-1">3. We Do The Farming</p>
-                  <p className="text-[11px] text-zinc-400">Full expert management</p>
-                </div>
-                <div className="p-3 bg-[#102115] rounded-xl border border-[#234531]">
-                  <span className="text-xl">🧺</span>
-                  <p className="text-xs font-bold text-white mt-1">4. You Receive Harvest</p>
-                  <p className="text-[11px] text-zinc-400">Weekly doorstep box</p>
-                </div>
-              </div>
+            {/* Prominent Statement Banner */}
+            <div className="mt-8 p-6 bg-[#172F1F]/90 border border-[#2D5A3C] rounded-3xl max-w-4xl mx-auto text-center shadow-xl">
+              <p className="font-mono text-xs sm:text-sm md:text-base font-bold text-[#A1D1AF] tracking-widest uppercase">
+                YOU CHOOSE THE CROPS. WE PROVIDE THE LAND. WE MANAGE THE FARM. YOU RECEIVE THE PRODUCE.
+              </p>
             </div>
           </div>
         </section>

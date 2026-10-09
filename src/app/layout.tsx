@@ -15,21 +15,26 @@ const serif = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Farm-to-Family | Premium Managed Farming for Families",
+  title: "PureVegies | Your Family's Farm. Our Natural Farming. Fresh Food at Your Door.",
   description:
-    "You choose what your family eats. We take care of how it is grown. Traceable, managed farming delivered to your doorstep.",
+    "PureVegies provides the farmland and manages cultivation using natural farming practices. Choose your preferred crops and receive naturally grown vegetables delivered to your home without owning or managing a farm.",
   keywords: [
-    "managed farming",
-    "private farm",
-    "fresh vegetables subscription",
-    "traceable farming",
-    "farm to family",
-    "family farming service",
+    "Natural farming vegetables",
+    "Natural farming subscription",
+    "Managed farming for families",
+    "Family vegetable farming service",
+    "Natural farming produce delivery",
+    "Farm-to-family vegetables",
+    "Farming without owning land",
+    "Private managed farm",
+    "Natural farming services in India",
+    "PureVegies natural farming",
   ],
-  authors: [{ name: "Farm-to-Family" }],
+  authors: [{ name: "PureVegies" }],
   openGraph: {
-    title: "Farm-to-Family | Your Family's Private Farm",
-    description: "Premium managed farming for families who want to know where their food comes from.",
+    title: "PureVegies | Naturally Grown. Thoughtfully Delivered.",
+    description:
+      "Your Family's Farm. Our Natural Farming. Fresh Food at Your Door. Managed farming without owning land.",
     type: "website",
   },
   robots: {

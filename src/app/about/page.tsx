@@ -22,9 +22,9 @@ export default function AboutPage() {
             Restoring Trust Between the Soil and the Dining Table
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
-            Farm-to-Family was founded on a simple conviction: modern urban families deserve to know
-            who grows their vegetables, without having to abandon their careers and buy agricultural
-            land.
+            PureVegies was founded on a simple conviction: modern urban families deserve to know
+            how their vegetables are grown using natural farming practices, without having to buy or
+            manage agricultural land.
           </p>
         </div>
 
@@ -35,16 +35,16 @@ export default function AboutPage() {
               The Core Promise
             </span>
             <h2 className="font-serif text-3xl sm:text-4xl font-bold text-[#102115] leading-snug">
-              &ldquo;You choose what your family eats. We take care of how it is grown.&rdquo;
+              &ldquo;You choose what your family eats. We provide the land and practice natural farming.&rdquo;
             </h2>
             <p className="text-sm text-zinc-600 leading-relaxed">
-              We operate at the intersection of private managed farming, premium food quality, and
-              modern technology. We are not a digital middleman aggregating market surplus. We
-              manage the soil, seeds, water, and agronomy end-to-end.
+              We operate at the intersection of managed farming, natural agricultural practices, and
+              thoughtful home delivery. PureVegies owns, controls, and manages the agricultural land and
+              infrastructure so families never have to purchase or manage a farm.
             </p>
             <p className="text-sm text-zinc-600 leading-relaxed">
-              By pairing experienced agriculturalists with verified regenerative practices, we
-              transform agriculture into an intimate, transparent family service.
+              By pairing experienced cultivators with natural farming practices focused on living soil and
+              biodiversity, we transform agriculture into an intimate, transparent family service.
             </p>
           </div>
 
@@ -136,7 +136,7 @@ export default function AboutPage() {
             </h3>
             <p className="text-xs sm:text-sm text-zinc-300 leading-relaxed">
               Traditional farmers face unstable mandi prices and middlemen exploitation. At
-              Farm-to-Family, every on-field cultivator receives predictable monthly salaries,
+              PureVegies, every on-field cultivator receives predictable monthly salaries,
               medical insurance, and pride in farming honest, unadulterated food for appreciative
               families.
             </p>

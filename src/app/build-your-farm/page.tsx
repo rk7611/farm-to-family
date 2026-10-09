@@ -22,8 +22,8 @@ export default function BuildYourFarmPage() {
             Build Your Family&rsquo;s Farm Plan
           </h1>
           <p className="text-base sm:text-lg text-zinc-600 leading-relaxed">
-            Configure your household scale, select your preferred vegetables, and calculate the exact
-            PureVegies farming allocation and subscription plan. PureVegies provides the land and farmers — no land purchase required.
+            Configure your household scale, select your preferred vegetables, and calculate your family&rsquo;s natural
+            farming plan. PureVegies provides the land and manages cultivation using natural farming practices — no land purchase required.
           </p>
         </div>
 
