@@ -1,0 +1,93 @@
+
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradForest" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2215" />
+      <stop offset="45%" stop-color="#183623" />
+      <stop offset="100%" stop-color="#0A180E" />
+    </linearGradient>
+    <linearGradient id="gradGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C48248" />
+      <stop offset="100%" stop-color="#E5AD7A" />
+    </linearGradient>
+    <linearGradient id="gradSunrise" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D4F38" />
+      <stop offset="50%" stop-color="#1B3824" />
+      <stop offset="100%" stop-color="#3D2614" />
+    </linearGradient>
+    <linearGradient id="gradCream" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F5" />
+      <stop offset="100%" stop-color="#EFEAE1" />
+    </linearGradient>
+    <linearGradient id="gradCharcoal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141C16" />
+      <stop offset="100%" stop-color="#0B100C" />
+    </linearGradient>
+    <linearGradient id="gradRetirement" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A3324" />
+      <stop offset="60%" stop-color="#2A4D36" />
+      <stop offset="100%" stop-color="#4A341C" />
+    </linearGradient>
+  </defs>
+
+    <rect width="1080" height="1350" fill="url(#gradForest)" />
+    <!-- Farm Horizon Art Top -->
+    <g transform="translate(80, 100)">
+      <rect width="920" height="380" rx="24" fill="#163822" stroke="#2D5A3C" stroke-width="2" />
+      <circle cx="460" cy="190" r="160" fill="#204A2E" opacity="0.6" />
+      <text x="460" y="200" fill="#A1D1AF" font-family="Georgia, serif" font-style="italic" font-size="32" text-anchor="middle">
+        “We manage the land. You enjoy the harvest.”
+      </text>
+    </g>
+
+    <!-- Bottom Cream Editorial Card -->
+    <g transform="translate(80, 520)">
+      <rect width="920" height="660" rx="28" fill="url(#gradCream)" stroke="#D8D1C5" stroke-width="1.5" />
+      
+      <!-- Card Badge -->
+      <g transform="translate(40, 50)">
+        <rect width="240" height="40" rx="20" fill="#172F1F" />
+        <text x="120" y="25" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1.5">
+          BRAND STORY &amp; ENGAGEMENT
+        </text>
+      </g>
+      <text x="880" y="75" fill="#628A6F" font-family="monospace" font-size="16" font-weight="700" text-anchor="end">
+        POST #198
+      </text>
+
+      <!-- Headline -->
+      <g transform="translate(40, 170)">
+        <text fill="#102115" font-family="Georgia, serif" font-size="56" font-weight="bold">
+          <tspan x="0" y="0">How managed farming</tspan><tspan x="0" y="68">creates permanent,</tspan><tspan x="0" y="136">dignified green jobs</tspan><tspan x="0" y="204">in rural farming belts</tspan>
+        </text>
+      </g>
+
+      <!-- Subtitle -->
+      <g transform="translate(40, 462)">
+        <text fill="#4A584E" font-family="system-ui, sans-serif" font-size="24" font-weight="400">
+          <tspan x="0" y="0">Naturally Grown. Thoughtfully</tspan><tspan x="0" y="38">Delivered. No Land Required.</tspan>
+        </text>
+      </g>
+
+      <!-- Bottom Card CTA Pill -->
+      <g transform="translate(40, 560)">
+        <rect width="360" height="52" rx="26" fill="#172F1F" />
+        <text x="180" y="32" fill="#FFFFFF" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+          👉 Build My Farm Plan
+        </text>
+      </g>
+    </g>
+    
+  <g transform="translate(80, 1160)">
+    <line x1="0" y1="0" x2="920" y2="0" stroke="#2D5A3C" stroke-width="1.5" opacity="0.6" />
+    <text x="0" y="52" fill="#FFFFFF" font-family="Georgia, serif" font-size="30" font-weight="bold" letter-spacing="3">
+      PUREVEGIES
+    </text>
+    <text x="0" y="84" fill="#8EB79C" font-family="system-ui, sans-serif" font-size="15" letter-spacing="1">
+      Naturally Grown • Thoughtfully Delivered • No Land Required
+    </text>
+    <text x="920" y="68" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="end">
+      www.purevegies.in
+    </text>
+  </g>
+</svg>

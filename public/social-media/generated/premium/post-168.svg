@@ -1,0 +1,79 @@
+
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradForest" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2215" />
+      <stop offset="45%" stop-color="#183623" />
+      <stop offset="100%" stop-color="#0A180E" />
+    </linearGradient>
+    <linearGradient id="gradGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C48248" />
+      <stop offset="100%" stop-color="#E5AD7A" />
+    </linearGradient>
+    <linearGradient id="gradSunrise" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D4F38" />
+      <stop offset="50%" stop-color="#1B3824" />
+      <stop offset="100%" stop-color="#3D2614" />
+    </linearGradient>
+    <linearGradient id="gradCream" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F5" />
+      <stop offset="100%" stop-color="#EFEAE1" />
+    </linearGradient>
+    <linearGradient id="gradCharcoal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141C16" />
+      <stop offset="100%" stop-color="#0B100C" />
+    </linearGradient>
+    <linearGradient id="gradRetirement" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A3324" />
+      <stop offset="60%" stop-color="#2A4D36" />
+      <stop offset="100%" stop-color="#4A341C" />
+    </linearGradient>
+  </defs>
+
+    <rect width="1080" height="1350" fill="url(#gradCharcoal)" />
+    <!-- Minimalist Gold Framing -->
+    <rect x="50" y="50" width="980" height="1250" rx="16" fill="none" stroke="#C48248" stroke-width="1.5" opacity="0.6" />
+    <rect x="65" y="65" width="950" height="1220" rx="12" fill="none" stroke="#C48248" stroke-width="0.75" opacity="0.3" />
+
+    <g transform="translate(80, 120)">
+      <text x="0" y="24" fill="#C48248" font-family="system-ui, sans-serif" font-size="14" font-weight="700" letter-spacing="4">
+        MY PRIVATE FARM • BESPOKE ESTATE
+      </text>
+    </g>
+    <text x="1000" y="144" fill="#C48248" font-family="monospace" font-size="18" font-weight="600" text-anchor="end">
+      POST #168
+    </text>
+
+    <!-- Centered Refined Serif Headline -->
+    <g transform="translate(540, 480)">
+      <text fill="#FFFFFF" font-family="Georgia, serif" font-size="62" font-weight="normal" text-anchor="middle">
+        <tspan x="0" y="0">Zero land acquisition,</tspan><tspan x="0" y="78">zero agricultural</tspan><tspan x="0" y="156">permits</tspan>
+      </text>
+    </g>
+
+    <!-- Supporting Line -->
+    <g transform="translate(540, 754)">
+      <text fill="#D8D1C5" font-family="Georgia, serif" font-style="italic" font-size="26" text-anchor="middle">
+        <tspan x="0" y="0">Dedicated private agro-estate &amp;</tspan><tspan x="0" y="40">executive agronomist.</tspan>
+      </text>
+    </g>
+
+    <!-- Gold Accent Line -->
+    <line x1="440" y1="900" x2="640" y2="900" stroke="#C48248" stroke-width="2" />
+    <text x="540" y="940" fill="#E5AD7A" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="middle" letter-spacing="2">
+      FOOD SOVEREIGNTY FOR THE DISCERNING FEW
+    </text>
+    
+  <g transform="translate(80, 1160)">
+    <line x1="0" y1="0" x2="920" y2="0" stroke="#2D5A3C" stroke-width="1.5" opacity="0.6" />
+    <text x="0" y="52" fill="#FFFFFF" font-family="Georgia, serif" font-size="30" font-weight="bold" letter-spacing="3">
+      PUREVEGIES
+    </text>
+    <text x="0" y="84" fill="#8EB79C" font-family="system-ui, sans-serif" font-size="15" letter-spacing="1">
+      Naturally Grown • Thoughtfully Delivered • No Land Required
+    </text>
+    <text x="920" y="68" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="end">
+      www.purevegies.in
+    </text>
+  </g>
+</svg>

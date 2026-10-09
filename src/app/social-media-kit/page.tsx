@@ -27,11 +27,12 @@ import {
   ChevronRight,
   Info,
   Clock,
-  Send,
-  HeartHandshake,
+  Lock,
+  Unlock,
 } from 'lucide-react';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import { useAdminAuth } from '@/lib/adminAuth';
 import { SOCIAL_POSTS_200, SocialPostItem } from '@/lib/socialPosts200';
 import { MEDIA_KIT_AUDIT, MediaKitAuditItem } from '@/lib/mediaKitAudit';
 import {
@@ -45,6 +46,9 @@ import {
 type ActiveTab = 'posts200' | 'audit100' | 'campaigns20' | 'folders10' | 'toolkit';
 
 export default function SocialMediaKitPage() {
+  const { isAuthenticated, isLoading, login } = useAdminAuth();
+  const [adminKeyInput, setAdminKeyInput] = useState('');
+  const [authError, setAuthError] = useState(false);
   const [activeTab, setActiveTab] = useState<ActiveTab>('posts200');
 
   // Posts 200 state
@@ -191,11 +195,118 @@ export default function SocialMediaKitPage() {
     { id: 'brand story & engagement', label: '7. Brand & Education', count: 15 },
   ];
 
+  if (isLoading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-[#FAF8F5]">
+        <div className="flex flex-col items-center gap-3">
+          <div className="w-8 h-8 border-3 border-[#172F1F] border-t-transparent rounded-full animate-spin" />
+          <span className="text-xs font-mono text-zinc-500">Checking Administrator Privileges...</span>
+        </div>
+      </div>
+    );
+  }
+
+  if (!isAuthenticated) {
+    return (
+      <div className="min-h-screen flex flex-col bg-[#102115] text-[#FAF8F5]">
+        <Navbar />
+        <div className="flex-1 flex items-center justify-center p-4">
+          <div className="bg-[#172F1F] border border-[#2D5A3C] rounded-3xl max-w-md w-full p-8 shadow-2xl space-y-6 text-center">
+            <div className="w-16 h-16 rounded-full bg-[#20412B] border border-[#A1D1AF]/30 flex items-center justify-center mx-auto text-[#A1D1AF]">
+              <Lock className="w-8 h-8" />
+            </div>
+            <div className="space-y-2">
+              <span className="text-[10px] font-mono font-bold tracking-widest uppercase text-[#C48248] block">
+                ADMIN-ONLY AREA
+              </span>
+              <h1 className="font-serif text-2xl font-bold text-white">
+                Social Media Kit Restricted
+              </h1>
+              <p className="text-xs text-zinc-300 leading-relaxed">
+                This media library is restricted to verified administrators. Please enter your administrator passphrase to access the library.
+              </p>
+            </div>
+
+            <form
+              onSubmit={(e) => {
+                e.preventDefault();
+                const ok = login(adminKeyInput.trim());
+                if (!ok) setAuthError(true);
+                else setAuthError(false);
+              }}
+              className="space-y-4 text-left"
+            >
+              <div>
+                <label className="text-xs font-semibold text-zinc-300 block mb-1.5">
+                  Admin Passphrase:
+                </label>
+                <input
+                  type="password"
+                  value={adminKeyInput}
+                  onChange={(e) => {
+                    setAdminKeyInput(e.target.value);
+                    if (authError) setAuthError(false);
+                  }}
+                  placeholder="Enter admin passphrase..."
+                  className="w-full px-4 py-2.5 rounded-xl bg-[#0D1C12] border border-[#2D5A3C] text-sm text-white focus:outline-none focus:ring-2 focus:ring-[#A1D1AF]"
+                />
+              </div>
+
+              {authError && (
+                <div className="p-3 rounded-xl bg-rose-950/70 border border-rose-800 text-rose-300 text-xs">
+                  Invalid administrator credentials.
+                </div>
+              )}
+
+              <button
+                type="submit"
+                className="w-full py-3 bg-[#A1D1AF] hover:bg-[#8EC9AB] text-[#102115] font-bold text-xs uppercase tracking-wider rounded-xl transition shadow-md flex items-center justify-center gap-2"
+              >
+                <Unlock className="w-4 h-4" />
+                <span>Verify Admin Access</span>
+              </button>
+            </form>
+
+            <div className="pt-4 border-t border-[#234531] text-[11px] text-zinc-400">
+              <Link href="/admin" className="underline hover:text-white">
+                Return to Admin Console
+              </Link>
+            </div>
+          </div>
+        </div>
+        <Footer />
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen flex flex-col bg-[#FAF8F5]">
       <Navbar />
 
       <main className="flex-1 py-12 px-4 sm:px-6 lg:px-8 max-w-7xl mx-auto w-full space-y-10">
+        {/* Admin Direct Link Banner */}
+        <div className="bg-[#102115] text-white p-4 rounded-2xl border border-[#2D5A3C] flex flex-col sm:flex-row sm:items-center justify-between gap-3 shadow-md">
+          <div className="flex items-center gap-3">
+            <div className="w-9 h-9 rounded-full bg-[#20412B] flex items-center justify-center text-[#A1D1AF]">
+              <Sparkles className="w-5 h-5" />
+            </div>
+            <div>
+              <span className="font-bold text-sm text-white block">
+                Social Media Content Studio (With Actual Generated Images &amp; ZIPs)
+              </span>
+              <span className="text-xs text-zinc-300">
+                Generate, approve, and download high-resolution 1080×1350 assets for all 200 posts.
+              </span>
+            </div>
+          </div>
+          <Link
+            href="/admin/social-media"
+            className="inline-flex items-center gap-1.5 px-4 py-2 rounded-full bg-[#A1D1AF] hover:bg-[#8EC9AB] text-[#102115] font-bold text-xs transition self-start sm:self-auto"
+          >
+            <span>Launch Studio</span>
+            <ArrowRight className="w-3.5 h-3.5" />
+          </Link>
+        </div>
         {/* Header Hero Banner */}
         <div className="text-center max-w-4xl mx-auto space-y-4">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-[#172F1F] text-[#A1D1AF] text-xs font-bold uppercase tracking-wider">

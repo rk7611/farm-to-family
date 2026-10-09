@@ -5,6 +5,7 @@ import Link from 'next/link';
 import {
   Users,
   Sprout,
+  Sparkles,
   Layers,
   Truck,
   DollarSign,
@@ -303,6 +304,14 @@ export default function AdminDashboardPage() {
               {tab.label}
             </button>
           ))}
+
+          <Link
+            href="/admin/social-media"
+            className="px-4 py-2 text-xs font-bold rounded-full transition whitespace-nowrap bg-[#E2ECE5] hover:bg-[#D1E2D6] text-[#172F1F] border border-[#2D5A3C]/30 flex items-center gap-1.5 shadow-xs"
+          >
+            <Sparkles className="w-3.5 h-3.5 text-[#2D5A3C]" />
+            <span>Social Media Studio (200 Posts)</span>
+          </Link>
         </div>
 
         {/* TAB 1: OVERVIEW */}

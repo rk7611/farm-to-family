@@ -34,7 +34,6 @@ export default function Navbar() {
     { label: 'Farm Transparency', href: '/transparency' },
     { label: 'About', href: '/about' },
     { label: 'FAQs', href: '/faqs' },
-    { label: 'Media Kit (100 Posts)', href: '/social-media-kit' },
   ];
 
   return (

@@ -1,0 +1,84 @@
+
+<svg width="1080" height="1350" viewBox="0 0 1080 1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradForest" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F2215" />
+      <stop offset="45%" stop-color="#183623" />
+      <stop offset="100%" stop-color="#0A180E" />
+    </linearGradient>
+    <linearGradient id="gradGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C48248" />
+      <stop offset="100%" stop-color="#E5AD7A" />
+    </linearGradient>
+    <linearGradient id="gradSunrise" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2D4F38" />
+      <stop offset="50%" stop-color="#1B3824" />
+      <stop offset="100%" stop-color="#3D2614" />
+    </linearGradient>
+    <linearGradient id="gradCream" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F5" />
+      <stop offset="100%" stop-color="#EFEAE1" />
+    </linearGradient>
+    <linearGradient id="gradCharcoal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141C16" />
+      <stop offset="100%" stop-color="#0B100C" />
+    </linearGradient>
+    <linearGradient id="gradRetirement" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A3324" />
+      <stop offset="60%" stop-color="#2A4D36" />
+      <stop offset="100%" stop-color="#4A341C" />
+    </linearGradient>
+  </defs>
+
+    <rect width="1080" height="1350" fill="url(#gradForest)" />
+    <!-- Organic Orbs & Patterns -->
+    <circle cx="540" cy="400" r="340" fill="#20412B" opacity="0.3" />
+    <circle cx="950" cy="1150" r="420" fill="#183623" opacity="0.35" />
+    <rect x="40" y="40" width="1000" height="1270" rx="28" fill="none" stroke="#2D5A3C" stroke-width="2" opacity="0.5" />
+
+    <!-- Top Badge -->
+    <g transform="translate(80, 100)">
+      <rect width="280" height="48" rx="24" fill="#20412B" />
+      <text x="140" y="30" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="15" font-weight="700" text-anchor="middle" letter-spacing="2">
+        MANAGED FAMILY FARMING
+      </text>
+    </g>
+    <text x="1000" y="132" fill="#628A6F" font-family="monospace" font-size="18" font-weight="700" text-anchor="end">
+      POST #037
+    </text>
+
+    <!-- Main Headline -->
+    <g transform="translate(80, 440)">
+      <text fill="#FFFFFF" font-family="Georgia, serif" font-size="64" font-weight="bold">
+        <tspan x="0" y="0">My Private Farm Plan:</tspan><tspan x="0" y="76">₹7,00,000/year for</tspan><tspan x="0" y="152">bespoke private</tspan><tspan x="0" y="228">estates.</tspan>
+      </text>
+    </g>
+
+    <!-- Supporting Line -->
+    <g transform="translate(80, 764)">
+      <text fill="#D8D1C5" font-family="system-ui, sans-serif" font-size="28" font-weight="400">
+        <tspan x="0" y="0">We provide the farmland. You choose</tspan><tspan x="0" y="42">what we grow.</tspan>
+      </text>
+    </g>
+
+    <!-- Value Pill -->
+    <g transform="translate(80, 920)">
+      <rect width="520" height="64" rx="32" fill="#163321" stroke="#2D5A3C" stroke-width="1.5" />
+      <text x="260" y="40" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="20" font-weight="600" text-anchor="middle">
+        🌱 Naturally Grown • Fresh Doorstep Delivery
+      </text>
+    </g>
+    
+  <g transform="translate(80, 1160)">
+    <line x1="0" y1="0" x2="920" y2="0" stroke="#2D5A3C" stroke-width="1.5" opacity="0.6" />
+    <text x="0" y="52" fill="#FFFFFF" font-family="Georgia, serif" font-size="30" font-weight="bold" letter-spacing="3">
+      PUREVEGIES
+    </text>
+    <text x="0" y="84" fill="#8EB79C" font-family="system-ui, sans-serif" font-size="15" letter-spacing="1">
+      Naturally Grown • Thoughtfully Delivered • No Land Required
+    </text>
+    <text x="920" y="68" fill="#A1D1AF" font-family="system-ui, sans-serif" font-size="18" font-weight="600" text-anchor="end">
+      www.purevegies.in
+    </text>
+  </g>
+</svg>
