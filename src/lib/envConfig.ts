@@ -52,6 +52,6 @@ export function getAppConfig(): EnvConfig {
     isStaging: isStagingEnvironment(),
     isIndexingEnabled: isSearchIndexingAllowed(),
     googleAnalyticsId: getGoogleAnalyticsId(),
-    whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '+91 98450 12345',
+    whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '+91 7877832221',
   };
 }

@@ -32,7 +32,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Your Family's Farm.",
     "updatedCopy": "Managed farming for families who want to know where their food comes from.",
     "updatedStat": "No Land Required (PureVegies Manages Farmland) \u2022 No Labor Management \u2022 Pure Harvest",
-    "updatedCaption": "\ud83c\udf31 Your Family's Farm. We Grow It. You Enjoy It.\n\nManaged farming for families who want to know where their food comes from.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PureVegies #NaturalFarming #ManagedFarming #CleanLiving #LivingSoil #ChemicalFreeSoil #FamilyHealth",
+    "updatedCaption": "\ud83c\udf31 Your Family's Farm. We Grow It. You Enjoy It.\n\nManaged farming for families who want to know where their food comes from.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PureVegies #NaturalFarming #ManagedFarming #CleanLiving #LivingSoil #ChemicalFreeSoil #FamilyHealth",
     "updatedHashtags": "#PureVegies #NaturalFarming #ManagedFarming #CleanLiving #LivingSoil #ChemicalFreeSoil #FamilyHealth",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -50,7 +50,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "You Choose What You Eat.",
     "updatedCopy": "Select your seasonal crops. Our expert agronomists nurture them in living soil.",
     "updatedStat": "Dedicated Plots \u2022 Daily Agronomy Care \u2022 Doorstep Delivery",
-    "updatedCaption": "\ud83c\udf31 You Choose What You Eat. We Take Care of How It Grows.\n\nSelect your seasonal crops. Our expert agronomists nurture them in living soil.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#TraceableFarming #FarmToFork #CleanVegetables #MindfulEating",
+    "updatedCaption": "\ud83c\udf31 You Choose What You Eat. We Take Care of How It Grows.\n\nSelect your seasonal crops. Our expert agronomists nurture them in living soil.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#TraceableFarming #FarmToFork #CleanVegetables #MindfulEating",
     "updatedHashtags": "#TraceableFarming #FarmToFork #CleanVegetables #MindfulEating",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -68,7 +68,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Healthy Food Shouldn\u2019t Require",
     "updatedCopy": "You don\u2019t have time to buy land, manage borewells, or oversee labor. We handle it all.",
     "updatedStat": "Zero Farming Hassle \u2022 100% Peace of Mind",
-    "updatedCaption": "\ud83c\udf31 Healthy Food Shouldn\u2019t Require You To Become A Farmer.\n\nYou don\u2019t have time to buy land, manage borewells, or oversee labor. We handle it all.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ModernFarming #AgricultureAsAService #HealthyFamily #UrbanLiving",
+    "updatedCaption": "\ud83c\udf31 Healthy Food Shouldn\u2019t Require You To Become A Farmer.\n\nYou don\u2019t have time to buy land, manage borewells, or oversee labor. We handle it all.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ModernFarming #AgricultureAsAService #HealthyFamily #UrbanLiving",
     "updatedHashtags": "#ModernFarming #AgricultureAsAService #HealthyFamily #UrbanLiving",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -86,7 +86,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The Output Is Vegetables.",
     "updatedCopy": "We don\u2019t rely on marketing buzzwords. We publish real soil tests and open our farm gates.",
     "updatedStat": "NABL Lab Assays \u2022 Water TDS < 210 \u2022 Open Gate Policy",
-    "updatedCaption": "\ud83c\udf31 The Output Is Vegetables. The Real Product Is Trust.\n\nWe don\u2019t rely on marketing buzzwords. We publish real soil tests and open our farm gates.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#TransparencyInFood #RealFood #NoFakeClaims #TrustedSource",
+    "updatedCaption": "\ud83c\udf31 The Output Is Vegetables. The Real Product Is Trust.\n\nWe don\u2019t rely on marketing buzzwords. We publish real soil tests and open our farm gates.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#TransparencyInFood #RealFood #NoFakeClaims #TrustedSource",
     "updatedHashtags": "#TransparencyInFood #RealFood #NoFakeClaims #TrustedSource",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -104,7 +104,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "From Pre-Dawn Harvest",
     "updatedCopy": "Picked between 5:30 AM and 8:30 AM before sunlight causes moisture loss.",
     "updatedStat": "Delivered Within 12 Hours \u2022 Pre-Chilled Cold Chain",
-    "updatedCaption": "\ud83c\udf31 From Pre-Dawn Harvest Direct To Your Kitchen Table.\n\nPicked between 5:30 AM and 8:30 AM before sunlight causes moisture loss.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FreshHarvest #ColdChainLogistics #DawnToDoor #FarmFresh",
+    "updatedCaption": "\ud83c\udf31 From Pre-Dawn Harvest Direct To Your Kitchen Table.\n\nPicked between 5:30 AM and 8:30 AM before sunlight causes moisture loss.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FreshHarvest #ColdChainLogistics #DawnToDoor #FarmFresh",
     "updatedHashtags": "#FreshHarvest #ColdChainLogistics #DawnToDoor #FarmFresh",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -122,7 +122,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Know Exactly Who Planted",
     "updatedCopy": "Trace every carrot and tomato to the exact plot and resident agronomist who grew it.",
     "updatedStat": "Plot ID Mapped \u2022 Verified Agronomist Care \u2022 100% Traceable",
-    "updatedCaption": "\ud83c\udf31 Know Exactly Who Planted Your Child\u2019s Next Meal.\n\nTrace every carrot and tomato to the exact plot and resident agronomist who grew it.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ChildNutrition #TraceableProduce #ParentingTips #FamilyWellness",
+    "updatedCaption": "\ud83c\udf31 Know Exactly Who Planted Your Child\u2019s Next Meal.\n\nTrace every carrot and tomato to the exact plot and resident agronomist who grew it.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ChildNutrition #TraceableProduce #ParentingTips #FamilyWellness",
     "updatedHashtags": "#ChildNutrition #TraceableProduce #ParentingTips #FamilyWellness",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -140,7 +140,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "A Private Farm For Your Family.",
     "updatedCopy": "The convenience of an agricultural estate without capital expenditure or land risk.",
     "updatedStat": "Flexible Household Tiers \u2022 Dedicated Management",
-    "updatedCaption": "\ud83c\udf31 A Private Farm For Your Family. Starting at \u20b910,000 / Month.\n\nThe convenience of an agricultural estate without capital expenditure or land risk.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PrivateFarm #ManagedEstate #SmartLiving #FamilyFirst",
+    "updatedCaption": "\ud83c\udf31 A Private Farm For Your Family. Starting at \u20b910,000 / Month.\n\nThe convenience of an agricultural estate without capital expenditure or land risk.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PrivateFarm #ManagedEstate #SmartLiving #FamilyFirst",
     "updatedHashtags": "#PrivateFarm #ManagedEstate #SmartLiving #FamilyFirst",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -158,7 +158,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Say Goodbye To Mysterious",
     "updatedCopy": "Stop wondering what chemicals or waxes were applied post-harvest. Know your source.",
     "updatedStat": "Zero Synthetic Systemic Sprays \u2022 Living Soil Feeding",
-    "updatedCaption": "\ud83c\udf31 Say Goodbye To Mysterious Market Vegetables.\n\nStop wondering what chemicals or waxes were applied post-harvest. Know your source.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CleanEats #Unwaxed #EatClean #FoodTruth",
+    "updatedCaption": "\ud83c\udf31 Say Goodbye To Mysterious Market Vegetables.\n\nStop wondering what chemicals or waxes were applied post-harvest. Know your source.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CleanEats #Unwaxed #EatClean #FoodTruth",
     "updatedHashtags": "#CleanEats #Unwaxed #EatClean #FoodTruth",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -176,7 +176,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Living Soil Means",
     "updatedCopy": "Enriched with aged vermicompost, biochar, and beneficial mycorrhizal fungi.",
     "updatedStat": "Soil Quality Index > 90/100 \u2022 Microbial Abundance",
-    "updatedCaption": "\ud83c\udf31 Living Soil Means Living Nutrition.\n\nEnriched with aged vermicompost, biochar, and beneficial mycorrhizal fungi.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#RegenerativeAg #SoilHealth #Microbiome #NutrientDense",
+    "updatedCaption": "\ud83c\udf31 Living Soil Means Living Nutrition.\n\nEnriched with aged vermicompost, biochar, and beneficial mycorrhizal fungi.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#RegenerativeAg #SoilHealth #Microbiome #NutrientDense",
     "updatedHashtags": "#RegenerativeAg #SoilHealth #Microbiome #NutrientDense",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -194,7 +194,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Reconnect Your Family",
     "updatedCopy": "Book a weekend farm retreat. Walk your allocated farm space and let your children harvest carrots.",
     "updatedStat": "Open Gate Every Weekend \u2022 Guided Agronomist Walks",
-    "updatedCaption": "\ud83c\udf31 Reconnect Your Family With The Soil.\n\nBook a weekend farm retreat. Walk your allocated farm space and let your children harvest carrots.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FarmTour #WeekendActivity #NatureWithKids #BangaloreEvents",
+    "updatedCaption": "\ud83c\udf31 Reconnect Your Family With The Soil.\n\nBook a weekend farm retreat. Walk your allocated farm space and let your children harvest carrots.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FarmTour #WeekendActivity #NatureWithKids #BangaloreEvents",
     "updatedHashtags": "#FarmTour #WeekendActivity #NatureWithKids #BangaloreEvents",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -212,7 +212,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "My Family's Farm Plan",
     "updatedCopy": "Everyday fresh produce for households of 2\u20134 members. Guided seasonal basket.",
     "updatedStat": "25\u201330 kg Monthly Produce \u2022 Weekly Doorstep Delivery",
-    "updatedCaption": "\ud83c\udf31 My Family's Farm Plan \u20b910,000 / Month\n\nEveryday fresh produce for households of 2\u20134 members. Guided seasonal basket.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FamilyFarm #EverydayProduce #SubscriptionService #CleanFoodIndia",
+    "updatedCaption": "\ud83c\udf31 My Family's Farm Plan \u20b910,000 / Month\n\nEveryday fresh produce for households of 2\u20134 members. Guided seasonal basket.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FamilyFarm #EverydayProduce #SubscriptionService #CleanFoodIndia",
     "updatedHashtags": "#FamilyFarm #EverydayProduce #SubscriptionService #CleanFoodIndia",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -230,7 +230,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "My Dedicated Farm Plan",
     "updatedCopy": "Your own numbered plot with custom crop planning and dedicated concierge support.",
     "updatedStat": "Dedicated Numbered Plot \u2022 Customer-Selected Crops \u2022 Priority Delivery",
-    "updatedCaption": "\ud83c\udf31 My Dedicated Farm Plan \u20b920,000 / Month \u2022 Most Popular\n\nYour own numbered plot with custom crop planning and dedicated concierge support.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#DedicatedPlot #CustomFarming #MostPopular #PureVegies #NaturalFarming",
+    "updatedCaption": "\ud83c\udf31 My Dedicated Farm Plan \u20b920,000 / Month \u2022 Most Popular\n\nYour own numbered plot with custom crop planning and dedicated concierge support.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#DedicatedPlot #CustomFarming #MostPopular #PureVegies #NaturalFarming",
     "updatedHashtags": "#DedicatedPlot #CustomFarming #MostPopular #PureVegies #NaturalFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -248,7 +248,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "My Private Farm Plan",
     "updatedCopy": "Up to 1/2 acre private managed estate with 24/7 live farm camera and personal manager.",
     "updatedStat": "Live PTZ Camera Feed \u2022 Custom Chef Planning \u2022 Handcrafted Wooden Crates",
-    "updatedCaption": "\ud83c\udf31 My Private Farm Plan \u20b97,00,000 / Year \u2022 Bespoke HNI\n\nUp to 1/2 acre private managed estate with 24/7 live farm camera and personal manager.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PrivateEstate #HNILuxury #BespokeLiving #UltraHNWI #FarmEstate",
+    "updatedCaption": "\ud83c\udf31 My Private Farm Plan \u20b97,00,000 / Year \u2022 Bespoke HNI\n\nUp to 1/2 acre private managed estate with 24/7 live farm camera and personal manager.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PrivateEstate #HNILuxury #BespokeLiving #UltraHNWI #FarmEstate",
     "updatedHashtags": "#PrivateEstate #HNILuxury #BespokeLiving #UltraHNWI #FarmEstate",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -266,7 +266,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "What Does \u20b910,000 / Month",
     "updatedCopy": "A continuous weekly harvest box of verified clean vegetables without market runs.",
     "updatedStat": "Weekly Deliveries \u2022 Bio-Dynamic Quality Pass \u2022 Zero Grocery Stress",
-    "updatedCaption": "\ud83c\udf31 What Does \u20b910,000 / Month Give Your Household?\n\nA continuous weekly harvest box of verified clean vegetables without market runs.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ValueForHealth #SubscriptionFarming #HealthyFamilyLiving",
+    "updatedCaption": "\ud83c\udf31 What Does \u20b910,000 / Month Give Your Household?\n\nA continuous weekly harvest box of verified clean vegetables without market runs.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ValueForHealth #SubscriptionFarming #HealthyFamilyLiving",
     "updatedHashtags": "#ValueForHealth #SubscriptionFarming #HealthyFamilyLiving",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -284,7 +284,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "How Your Numbered Plot",
     "updatedCopy": "Beds labeled with your household name, irrigated via precision sub-surface drip.",
     "updatedStat": "Plot B-14 Allocation \u2022 Tailored Soil Bed \u2022 Trellised Climbers",
-    "updatedCaption": "\ud83c\udf31 How Your Numbered Plot Actually Operates.\n\nBeds labeled with your household name, irrigated via precision sub-surface drip.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PrivatePlots #SmartAgriculture #ModernFarming",
+    "updatedCaption": "\ud83c\udf31 How Your Numbered Plot Actually Operates.\n\nBeds labeled with your household name, irrigated via precision sub-surface drip.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PrivatePlots #SmartAgriculture #ModernFarming",
     "updatedHashtags": "#PrivatePlots #SmartAgriculture #ModernFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -302,7 +302,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Inside The \u20b97 Lakh Annual",
     "updatedCopy": "Tailored for discerning families with private chefs and custom culinary requirements.",
     "updatedStat": "Heirloom Varieties \u2022 Private Picnics \u2022 24/7 Optical Streaming",
-    "updatedCaption": "\ud83c\udf31 Inside The \u20b97 Lakh Annual Private Farm Experience.\n\nTailored for discerning families with private chefs and custom culinary requirements.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#LuxuryFarming #PrivateRetreat #EstateAgriculture",
+    "updatedCaption": "\ud83c\udf31 Inside The \u20b97 Lakh Annual Private Farm Experience.\n\nTailored for discerning families with private chefs and custom culinary requirements.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#LuxuryFarming #PrivateRetreat #EstateAgriculture",
     "updatedHashtags": "#LuxuryFarming #PrivateRetreat #EstateAgriculture",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -320,7 +320,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Which Farming Plan Fits",
     "updatedCopy": "1\u20132 members: Family Plan \u2022 3\u20136 members: Dedicated Plot \u2022 7+ members: Private Estate.",
     "updatedStat": "Balanced Harvest Yield \u2022 Zero Kitchen Waste",
-    "updatedCaption": "\ud83c\udf31 Which Farming Plan Fits Your Family Size?\n\n1\u20132 members: Family Plan \u2022 3\u20136 members: Dedicated Plot \u2022 7+ members: Private Estate.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FamilySize #CropCalculator #SmartKitchen",
+    "updatedCaption": "\ud83c\udf31 Which Farming Plan Fits Your Family Size?\n\n1\u20132 members: Family Plan \u2022 3\u20136 members: Dedicated Plot \u2022 7+ members: Private Estate.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FamilySize #CropCalculator #SmartKitchen",
     "updatedHashtags": "#FamilySize #CropCalculator #SmartKitchen",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -338,7 +338,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Customer-Selected Crops",
     "updatedCopy": "Choose only the vegetables your kids eat, or let our soil scientists rotate seasonal staples.",
     "updatedStat": "Heirloom Tomatoes \u2022 Sweet Nantes Carrots \u2022 Crisp Cucumbers",
-    "updatedCaption": "\ud83c\udf31 Customer-Selected Crops vs. Agronomist Baskets.\n\nChoose only the vegetables your kids eat, or let our soil scientists rotate seasonal staples.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CustomCrops #KitchenStaples #HealthyKidsFood",
+    "updatedCaption": "\ud83c\udf31 Customer-Selected Crops vs. Agronomist Baskets.\n\nChoose only the vegetables your kids eat, or let our soil scientists rotate seasonal staples.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CustomCrops #KitchenStaples #HealthyKidsFood",
     "updatedHashtags": "#CustomCrops #KitchenStaples #HealthyKidsFood",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -356,7 +356,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Temperature-Controlled Crates",
     "updatedCopy": "Pre-cooled to 12\u00b0C to prevent moisture sweating and maintain crisp cellular crunch.",
     "updatedStat": "EV Delivery Fleet \u2022 Insulated Packs \u2022 Direct Handoff",
-    "updatedCaption": "\ud83c\udf31 Temperature-Controlled Crates Direct To Your Door.\n\nPre-cooled to 12\u00b0C to prevent moisture sweating and maintain crisp cellular crunch.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ColdChain #FreshnessLock #DoorstepDelivery",
+    "updatedCaption": "\ud83c\udf31 Temperature-Controlled Crates Direct To Your Door.\n\nPre-cooled to 12\u00b0C to prevent moisture sweating and maintain crisp cellular crunch.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ColdChain #FreshnessLock #DoorstepDelivery",
     "updatedHashtags": "#ColdChain #FreshnessLock #DoorstepDelivery",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -374,7 +374,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "3 Clear Plans.",
     "updatedCopy": "No land purchase capital. No labor negotiations. Complete farming peace of mind.",
     "updatedStat": "Fixed Monthly Price \u2022 Dedicated Stewardship",
-    "updatedCaption": "\ud83c\udf31 3 Clear Plans. 1 Uncompromising Commitment.\n\nNo land purchase capital. No labor negotiations. Complete farming peace of mind.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FarmPlans #CleanFoodMovement #FamilyFirst",
+    "updatedCaption": "\ud83c\udf31 3 Clear Plans. 1 Uncompromising Commitment.\n\nNo land purchase capital. No labor negotiations. Complete farming peace of mind.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FarmPlans #CleanFoodMovement #FamilyFirst",
     "updatedHashtags": "#FarmPlans #CleanFoodMovement #FamilyFirst",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -392,7 +392,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "You Want Clean Food.",
     "updatedCopy": "Balcony pots yield two tomatoes a week. You need 30 kg a month for real family meals.",
     "updatedStat": "Real Scale Agriculture \u2022 Zero Effort Required",
-    "updatedCaption": "\ud83c\udf31 You Want Clean Food. You Don\u2019t Have Time To Farm.\n\nBalcony pots yield two tomatoes a week. You need 30 kg a month for real family meals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#UrbanFarmingAlternative #CityLife #BangaloreLife #PuneLiving",
+    "updatedCaption": "\ud83c\udf31 You Want Clean Food. You Don\u2019t Have Time To Farm.\n\nBalcony pots yield two tomatoes a week. You need 30 kg a month for real family meals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#UrbanFarmingAlternative #CityLife #BangaloreLife #PuneLiving",
     "updatedHashtags": "#UrbanFarmingAlternative #CityLife #BangaloreLife #PuneLiving",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -410,7 +410,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The 6 Headaches Of Farmland",
     "updatedCopy": "Land title disputes, labor retention, borewell failure, pest outbreaks, harvesting, and logistics.",
     "updatedStat": "All 6 Managed by Experts \u2022 Zero Hassle for You",
-    "updatedCaption": "\ud83c\udf31 The 6 Headaches Of Farmland That We Solve For You.\n\nLand title disputes, labor retention, borewell failure, pest outbreaks, harvesting, and logistics.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FarmlandTruth #StressFreeLiving #SmartOwnership",
+    "updatedCaption": "\ud83c\udf31 The 6 Headaches Of Farmland That We Solve For You.\n\nLand title disputes, labor retention, borewell failure, pest outbreaks, harvesting, and logistics.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FarmlandTruth #StressFreeLiving #SmartOwnership",
     "updatedHashtags": "#FarmlandTruth #StressFreeLiving #SmartOwnership",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -428,7 +428,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Market Produce Travels Weeks.",
     "updatedCopy": "By the time mandi vegetables hit retail shelves, 40% of vitamin C has degraded.",
     "updatedStat": "Harvested at 6 AM \u2022 At Your Door by Lunch",
-    "updatedCaption": "\ud83c\udf31 Market Produce Travels Weeks. Our Produce Travels Hours.\n\nBy the time mandi vegetables hit retail shelves, 40% of vitamin C has degraded.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NutrientRetention #FreshVsStored #TrueFreshness",
+    "updatedCaption": "\ud83c\udf31 Market Produce Travels Weeks. Our Produce Travels Hours.\n\nBy the time mandi vegetables hit retail shelves, 40% of vitamin C has degraded.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NutrientRetention #FreshVsStored #TrueFreshness",
     "updatedHashtags": "#NutrientRetention #FreshVsStored #TrueFreshness",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -446,7 +446,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "What\u2019s Really On Those",
     "updatedCopy": "Post-harvest fungicides and petroleum-based waxes keep store vegetables looking fresh for months.",
     "updatedStat": "Zero Wax \u2022 Zero Storage Chemical \u2022 Just Real Soil",
-    "updatedCaption": "\ud83c\udf31 What\u2019s Really On Those Glossy Supermarket Peppers?\n\nPost-harvest fungicides and petroleum-based waxes keep store vegetables looking fresh for months.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#WaxFree #CleanProduce #ChemicalFreeLife #FoodAwakening",
+    "updatedCaption": "\ud83c\udf31 What\u2019s Really On Those Glossy Supermarket Peppers?\n\nPost-harvest fungicides and petroleum-based waxes keep store vegetables looking fresh for months.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#WaxFree #CleanProduce #ChemicalFreeLife #FoodAwakening",
     "updatedHashtags": "#WaxFree #CleanProduce #ChemicalFreeLife #FoodAwakening",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -464,7 +464,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Why Terrace Gardens Fall Short",
     "updatedCopy": "A family needs 1,500+ sq.ft of deep living soil beds to sustain daily meals.",
     "updatedStat": "1,500 to 20,000 sq.ft Allocated \u2022 Professional Agronomy",
-    "updatedCaption": "\ud83c\udf31 Why Terrace Gardens Fall Short For Real Family Nutrition.\n\nA family needs 1,500+ sq.ft of deep living soil beds to sustain daily meals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#TerraceGarden #RealScale #UrbanWellness",
+    "updatedCaption": "\ud83c\udf31 Why Terrace Gardens Fall Short For Real Family Nutrition.\n\nA family needs 1,500+ sq.ft of deep living soil beds to sustain daily meals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#TerraceGarden #RealScale #UrbanWellness",
     "updatedHashtags": "#TerraceGarden #RealScale #UrbanWellness",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -482,7 +482,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The Daily Stress Of Sourcing",
     "updatedCopy": "Stop reading confusing grocery labels. Walk through your own plot whenever you want.",
     "updatedStat": "Weekly Deliveries On Autopilot \u2022 Verified Purity",
-    "updatedCaption": "\ud83c\udf31 The Daily Stress Of Sourcing Safe Vegetables Ends Today.\n\nStop reading confusing grocery labels. Walk through your own plot whenever you want.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PeaceOfMind #MomsOfBangalore #FamilyNutrition",
+    "updatedCaption": "\ud83c\udf31 The Daily Stress Of Sourcing Safe Vegetables Ends Today.\n\nStop reading confusing grocery labels. Walk through your own plot whenever you want.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PeaceOfMind #MomsOfBangalore #FamilyNutrition",
     "updatedHashtags": "#PeaceOfMind #MomsOfBangalore #FamilyNutrition",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -500,7 +500,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Don\u2019t Buy 5 Rural Acres.",
     "updatedCopy": "Save millions in capital and legal headaches while enjoying the exact same harvest output.",
     "updatedStat": "High Flexibility \u2022 Zero Land Taxes or Maintenance",
-    "updatedCaption": "\ud83c\udf31 Don\u2019t Buy 5 Rural Acres. Subscribe To A Managed Plot.\n\nSave millions in capital and legal headaches while enjoying the exact same harvest output.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#SmartInvesting #AgriTech #ManagedAssets",
+    "updatedCaption": "\ud83c\udf31 Don\u2019t Buy 5 Rural Acres. Subscribe To A Managed Plot.\n\nSave millions in capital and legal headaches while enjoying the exact same harvest output.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#SmartInvesting #AgriTech #ManagedAssets",
     "updatedHashtags": "#SmartInvesting #AgriTech #ManagedAssets",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -518,7 +518,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Zero Labor Management.",
     "updatedCopy": "Our experienced cultivators earn fair salaries and take pride in growing your food.",
     "updatedStat": "Experienced Agriculturalists \u2022 Fair Living Wages",
-    "updatedCaption": "\ud83c\udf31 Zero Labor Management. 100% Crop Enjoyment.\n\nOur experienced cultivators earn fair salaries and take pride in growing your food.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#EthicalFarming #FairWages #SustainableAgriculture",
+    "updatedCaption": "\ud83c\udf31 Zero Labor Management. 100% Crop Enjoyment.\n\nOur experienced cultivators earn fair salaries and take pride in growing your food.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#EthicalFarming #FairWages #SustainableAgriculture",
     "updatedHashtags": "#EthicalFarming #FairWages #SustainableAgriculture",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -536,7 +536,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Why Artificial Ripeners",
     "updatedCopy": "Ethylene gas forces color change without developing sugars. Our vegetables ripen on the vine.",
     "updatedStat": "Sun-Ripened On Vine \u2022 Full Sugar Brix Profile",
-    "updatedCaption": "\ud83c\udf31 Why Artificial Ripeners Ruin True Flavor.\n\nEthylene gas forces color change without developing sugars. Our vegetables ripen on the vine.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#VineRipened #NaturalFlavor #TasteTheDifference",
+    "updatedCaption": "\ud83c\udf31 Why Artificial Ripeners Ruin True Flavor.\n\nEthylene gas forces color change without developing sugars. Our vegetables ripen on the vine.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#VineRipened #NaturalFlavor #TasteTheDifference",
     "updatedHashtags": "#VineRipened #NaturalFlavor #TasteTheDifference",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -554,7 +554,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Reclaim Your Weekend Peace.",
     "updatedCopy": "Spend Saturdays enjoying farm visits with your family, not fixing broken irrigation pumps.",
     "updatedStat": "Pure Enjoyment \u2022 Professional Execution",
-    "updatedCaption": "\ud83c\udf31 Reclaim Your Weekend Peace. Let Us Farm For You.\n\nSpend Saturdays enjoying farm visits with your family, not fixing broken irrigation pumps.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#WeekendVibes #SlowLiving #FamilyRetreat",
+    "updatedCaption": "\ud83c\udf31 Reclaim Your Weekend Peace. Let Us Farm For You.\n\nSpend Saturdays enjoying farm visits with your family, not fixing broken irrigation pumps.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#WeekendVibes #SlowLiving #FamilyRetreat",
     "updatedHashtags": "#WeekendVibes #SlowLiving #FamilyRetreat",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -572,7 +572,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 1: Choose Your Plan",
     "updatedCopy": "Select from Family, Dedicated Plot, or Private Estate tiers with zero long-term land lock-in.",
     "updatedStat": "Simple Monthly Subscription \u2022 Immediate Allocation",
-    "updatedCaption": "\ud83c\udf31 Step 1: Choose Your Plan Tailored To Household Scale.\n\nSelect from Family, Dedicated Plot, or Private Estate tiers with zero long-term land lock-in.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#StepByStep #HowItWorks #PureVegies #NaturalFarmingJourney",
+    "updatedCaption": "\ud83c\udf31 Step 1: Choose Your Plan Tailored To Household Scale.\n\nSelect from Family, Dedicated Plot, or Private Estate tiers with zero long-term land lock-in.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#StepByStep #HowItWorks #PureVegies #NaturalFarmingJourney",
     "updatedHashtags": "#StepByStep #HowItWorks #PureVegies #NaturalFarmingJourney",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -590,7 +590,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 2: Select Your Crops",
     "updatedCopy": "Handpick heirloom tomatoes, carrots, gourds, and culinary aromatics.",
     "updatedStat": "Over 12 Seasonal Crops Available \u2022 Balanced Agronomy",
-    "updatedCaption": "\ud83c\udf31 Step 2: Select Your Crops What Your Kitchen Cook Loves.\n\nHandpick heirloom tomatoes, carrots, gourds, and culinary aromatics.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CropSelection #MyKitchen #CustomVegetables",
+    "updatedCaption": "\ud83c\udf31 Step 2: Select Your Crops What Your Kitchen Cook Loves.\n\nHandpick heirloom tomatoes, carrots, gourds, and culinary aromatics.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CropSelection #MyKitchen #CustomVegetables",
     "updatedHashtags": "#CropSelection #MyKitchen #CustomVegetables",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -608,7 +608,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 3: Farm Space Allocated",
     "updatedCopy": "Your dedicated numbered plot is prepared with tested soil and deep-aquifer drip lines.",
     "updatedStat": "Anekal, Baramati & Sohna Estates \u2022 GPS Tagged",
-    "updatedCaption": "\ud83c\udf31 Step 3: Farm Space Allocated A Physical Plot With Your Name.\n\nYour dedicated numbered plot is prepared with tested soil and deep-aquifer drip lines.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PlotAllocated #RealSoil #EstatePlots",
+    "updatedCaption": "\ud83c\udf31 Step 3: Farm Space Allocated A Physical Plot With Your Name.\n\nYour dedicated numbered plot is prepared with tested soil and deep-aquifer drip lines.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PlotAllocated #RealSoil #EstatePlots",
     "updatedHashtags": "#PlotAllocated #RealSoil #EstatePlots",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -626,7 +626,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 4: Professional Cultivation",
     "updatedCopy": "Daily bio-inoculation, weed control, and neem leaf foliar shielding.",
     "updatedStat": "Dr. Murthy & Team \u2022 Bio-Dynamic Stewardship",
-    "updatedCaption": "\ud83c\udf31 Step 4: Professional Cultivation Resident Agronomists On Duty.\n\nDaily bio-inoculation, weed control, and neem leaf foliar shielding.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#AgronomyExcellence #ExpertFarmers #FieldCare",
+    "updatedCaption": "\ud83c\udf31 Step 4: Professional Cultivation Resident Agronomists On Duty.\n\nDaily bio-inoculation, weed control, and neem leaf foliar shielding.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#AgronomyExcellence #ExpertFarmers #FieldCare",
     "updatedHashtags": "#AgronomyExcellence #ExpertFarmers #FieldCare",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -644,7 +644,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 5: Track On Your Phone",
     "updatedCopy": "Follow growth percentages, days to harvest, and field photos on your dashboard.",
     "updatedStat": "Real-Time Progress Bars \u2022 Photo Updates \u2022 Telemetry",
-    "updatedCaption": "\ud83c\udf31 Step 5: Track On Your Phone From Seedbed To Fruit Setting.\n\nFollow growth percentages, days to harvest, and field photos on your dashboard.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#AgriTech #TrackYourFood #DigitalFarming",
+    "updatedCaption": "\ud83c\udf31 Step 5: Track On Your Phone From Seedbed To Fruit Setting.\n\nFollow growth percentages, days to harvest, and field photos on your dashboard.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#AgriTech #TrackYourFood #DigitalFarming",
     "updatedHashtags": "#AgriTech #TrackYourFood #DigitalFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -662,7 +662,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Step 6: Pre-Dawn Harvest & Delivery",
     "updatedCopy": "Quality checked, packed into breathable eco-crates, and dispatched via chilled EV routes.",
     "updatedStat": "Doorstep Delivery \u2022 Grade A+ Quality Classification",
-    "updatedCaption": "\ud83c\udf31 Step 6: Pre-Dawn Harvest & Delivery Direct To Your Kitchen Counter.\n\nQuality checked, packed into breathable eco-crates, and dispatched via chilled EV routes.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HarvestDay #MorningDelivery #KitchenFresh",
+    "updatedCaption": "\ud83c\udf31 Step 6: Pre-Dawn Harvest & Delivery Direct To Your Kitchen Counter.\n\nQuality checked, packed into breathable eco-crates, and dispatched via chilled EV routes.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HarvestDay #MorningDelivery #KitchenFresh",
     "updatedHashtags": "#HarvestDay #MorningDelivery #KitchenFresh",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -680,7 +680,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "How We Prepare Living Soil",
     "updatedCopy": "Aged vermicompost, cow dung slurry, and biochar restore ancient fungal networks.",
     "updatedStat": "Living Natural Carbon 1.42% \u2022 Aerated Ridge Beds",
-    "updatedCaption": "\ud83c\udf31 How We Prepare Living Soil Before A Single Seed Is Sown.\n\nAged vermicompost, cow dung slurry, and biochar restore ancient fungal networks.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#SoilPreparation #Biochar #LivingEarth",
+    "updatedCaption": "\ud83c\udf31 How We Prepare Living Soil Before A Single Seed Is Sown.\n\nAged vermicompost, cow dung slurry, and biochar restore ancient fungal networks.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#SoilPreparation #Biochar #LivingEarth",
     "updatedHashtags": "#SoilPreparation #Biochar #LivingEarth",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -698,7 +698,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The 5:30 AM Harvest Protocol",
     "updatedCopy": "Harvesting before the morning sun preserves high cellular water turgor and natural sweetness.",
     "updatedStat": "16\u00b0C Morning Ambient \u2022 Sanitized Shears Only",
-    "updatedCaption": "\ud83c\udf31 The 5:30 AM Harvest Protocol Why Timing Is Everything.\n\nHarvesting before the morning sun preserves high cellular water turgor and natural sweetness.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#DawnHarvest #CircadianAgriculture #PeakFlavor",
+    "updatedCaption": "\ud83c\udf31 The 5:30 AM Harvest Protocol Why Timing Is Everything.\n\nHarvesting before the morning sun preserves high cellular water turgor and natural sweetness.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#DawnHarvest #CircadianAgriculture #PeakFlavor",
     "updatedHashtags": "#DawnHarvest #CircadianAgriculture #PeakFlavor",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -716,7 +716,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Say No To Suffocating Plastic.",
     "updatedCopy": "Single-use plastic causes condensation and rot. Our breathable packs keep vegetables alive.",
     "updatedStat": "100% Breathable Linen & Timber \u2022 Reusable Crates",
-    "updatedCaption": "\ud83c\udf31 Say No To Suffocating Plastic. Our Eco-Chilled Linen Packs.\n\nSingle-use plastic causes condensation and rot. Our breathable packs keep vegetables alive.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PlasticFree #EcoPackaging #ZeroWasteKitchen",
+    "updatedCaption": "\ud83c\udf31 Say No To Suffocating Plastic. Our Eco-Chilled Linen Packs.\n\nSingle-use plastic causes condensation and rot. Our breathable packs keep vegetables alive.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PlasticFree #EcoPackaging #ZeroWasteKitchen",
     "updatedHashtags": "#PlasticFree #EcoPackaging #ZeroWasteKitchen",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -734,7 +734,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "From Soil To Salad Bowl",
     "updatedCopy": "No wholesale distributors. No auction yards. Pure, uninterrupted farm-to-family connection.",
     "updatedStat": "12 Hours Flat \u2022 Direct Custody Handover",
-    "updatedCaption": "\ud83c\udf31 From Soil To Salad Bowl In Under 12 Hours.\n\nNo wholesale distributors. No auction yards. Pure, uninterrupted farm-to-family connection.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HyperLocal #DirectToConsumer #SpeedToPlate",
+    "updatedCaption": "\ud83c\udf31 From Soil To Salad Bowl In Under 12 Hours.\n\nNo wholesale distributors. No auction yards. Pure, uninterrupted farm-to-family connection.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HyperLocal #DirectToConsumer #SpeedToPlate",
     "updatedHashtags": "#HyperLocal #DirectToConsumer #SpeedToPlate",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -752,7 +752,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "We Don\u2019t Make Fake Claims.",
     "updatedCopy": "No untested \"100% naturally grown\" stickers. Real multi-residue gas chromatography screening.",
     "updatedStat": "Synthetic Pesticides: Not Detected (<0.01 mg/kg)",
-    "updatedCaption": "\ud83c\udf31 We Don\u2019t Make Fake Claims. We Publish Real Lab Tests.\n\nNo untested \"100% naturally grown\" stickers. Real multi-residue gas chromatography screening.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#LabTested #FoodSafety #VerifiedProduce #ScientificFarming",
+    "updatedCaption": "\ud83c\udf31 We Don\u2019t Make Fake Claims. We Publish Real Lab Tests.\n\nNo untested \"100% naturally grown\" stickers. Real multi-residue gas chromatography screening.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#LabTested #FoodSafety #VerifiedProduce #ScientificFarming",
     "updatedHashtags": "#LabTested #FoodSafety #VerifiedProduce #ScientificFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -770,7 +770,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "What Does Traceable Farming",
     "updatedCopy": "A QR code on your crate links to the specific plot, soil assay, and harvest time.",
     "updatedStat": "Plot ID \u2022 Agronomist Sign-Off \u2022 Time Stamp",
-    "updatedCaption": "\ud83c\udf31 What Does Traceable Farming Actually Look Like?\n\nA QR code on your crate links to the specific plot, soil assay, and harvest time.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#Traceability #FoodAudit #TransparentLiving",
+    "updatedCaption": "\ud83c\udf31 What Does Traceable Farming Actually Look Like?\n\nA QR code on your crate links to the specific plot, soil assay, and harvest time.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#Traceability #FoodAudit #TransparentLiving",
     "updatedHashtags": "#Traceability #FoodAudit #TransparentLiving",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -788,7 +788,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Aquifer Purity Matters.",
     "updatedCopy": "Vegetables are 90% water. If irrigation water carries industrial runoff, so do your greens.",
     "updatedStat": "Deep Borewell Aquifers \u2022 Double Filtered Potable Water",
-    "updatedCaption": "\ud83c\udf31 Aquifer Purity Matters. Water TDS Kept Under 210 mg/L.\n\nVegetables are 90% water. If irrigation water carries industrial runoff, so do your greens.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PureWater #IrrigationPurity #CleanSource",
+    "updatedCaption": "\ud83c\udf31 Aquifer Purity Matters. Water TDS Kept Under 210 mg/L.\n\nVegetables are 90% water. If irrigation water carries industrial runoff, so do your greens.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PureWater #IrrigationPurity #CleanSource",
     "updatedHashtags": "#PureWater #IrrigationPurity #CleanSource",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -806,7 +806,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Feeding The Living Soil,",
     "updatedCopy": "Commercial synthetic urea burns soil microbes. We nourish earth with fermented botanicals.",
     "updatedStat": "Trichoderma Inoculants \u2022 Jeevamrutha Micro-Spray",
-    "updatedCaption": "\ud83c\udf31 Feeding The Living Soil, Not Chemical Salts.\n\nCommercial synthetic urea burns soil microbes. We nourish earth with fermented botanicals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#OrganicMicrobiome #LivingSoil #SoilCare",
+    "updatedCaption": "\ud83c\udf31 Feeding The Living Soil, Not Chemical Salts.\n\nCommercial synthetic urea burns soil microbes. We nourish earth with fermented botanicals.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#OrganicMicrobiome #LivingSoil #SoilCare",
     "updatedHashtags": "#OrganicMicrobiome #LivingSoil #SoilCare",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -824,7 +824,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Zero Synthetic Systemic Chemicals.",
     "updatedCopy": "Systemic chemicals enter plant tissue and cannot be washed off. We forbid them completely.",
     "updatedStat": "Zero Neonicotinoids \u2022 Zero Synthetic Hormones",
-    "updatedCaption": "\ud83c\udf31 Zero Synthetic Systemic Chemicals. Enforced Across Every Acre.\n\nSystemic chemicals enter plant tissue and cannot be washed off. We forbid them completely.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NoChemicals #SafeFood #PureSoil",
+    "updatedCaption": "\ud83c\udf31 Zero Synthetic Systemic Chemicals. Enforced Across Every Acre.\n\nSystemic chemicals enter plant tissue and cannot be washed off. We forbid them completely.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NoChemicals #SafeFood #PureSoil",
     "updatedHashtags": "#NoChemicals #SafeFood #PureSoil",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -842,7 +842,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Marigolds & Ladybugs:",
     "updatedCopy": "Trap crops attract pests naturally while beneficial predatory insects keep leaves clean.",
     "updatedStat": "Natural Bio-Predation \u2022 Zero Chemical Poison",
-    "updatedCaption": "\ud83c\udf31 Marigolds & Ladybugs: Our Biological Defense System.\n\nTrap crops attract pests naturally while beneficial predatory insects keep leaves clean.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#Biocontrol #Ladybugs #NatureWorks",
+    "updatedCaption": "\ud83c\udf31 Marigolds & Ladybugs: Our Biological Defense System.\n\nTrap crops attract pests naturally while beneficial predatory insects keep leaves clean.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#Biocontrol #Ladybugs #NatureWorks",
     "updatedHashtags": "#Biocontrol #Ladybugs #NatureWorks",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -860,7 +860,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Every Harvest Box Has",
     "updatedCopy": "Inspected for brix sweetness, skin integrity, and clean root wash before boxing.",
     "updatedStat": "4-Point Quality Inspection Pass Required",
-    "updatedCaption": "\ud83c\udf31 Every Harvest Box Has An Inspector Signature.\n\nInspected for brix sweetness, skin integrity, and clean root wash before boxing.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#QualityControl #GradeA #ProduceQuality",
+    "updatedCaption": "\ud83c\udf31 Every Harvest Box Has An Inspector Signature.\n\nInspected for brix sweetness, skin integrity, and clean root wash before boxing.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#QualityControl #GradeA #ProduceQuality",
     "updatedHashtags": "#QualityControl #GradeA #ProduceQuality",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -878,7 +878,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Tested At NABL-Accredited",
     "updatedCopy": "Periodic multi-residue test certificates accessible on your customer dashboard anytime.",
     "updatedStat": "Heavy Metals Below Detection Limits",
-    "updatedCaption": "\ud83c\udf31 Tested At NABL-Accredited Third-Party Laboratories.\n\nPeriodic multi-residue test certificates accessible on your customer dashboard anytime.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NABLAccredited #VerifiedSafe #FoodTesting",
+    "updatedCaption": "\ud83c\udf31 Tested At NABL-Accredited Third-Party Laboratories.\n\nPeriodic multi-residue test certificates accessible on your customer dashboard anytime.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NABLAccredited #VerifiedSafe #FoodTesting",
     "updatedHashtags": "#NABLAccredited #VerifiedSafe #FoodTesting",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -896,7 +896,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Why We Refuse Generic",
     "updatedCopy": "Trust is built through open gates, continuous testing, and direct family relationships.",
     "updatedStat": "Open Transparency > Marketing Stickers",
-    "updatedCaption": "\ud83c\udf31 Why We Refuse Generic Marketing Certifications.\n\nTrust is built through open gates, continuous testing, and direct family relationships.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#RealTrust #AuthenticBrand #NoGreenwashing",
+    "updatedCaption": "\ud83c\udf31 Why We Refuse Generic Marketing Certifications.\n\nTrust is built through open gates, continuous testing, and direct family relationships.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#RealTrust #AuthenticBrand #NoGreenwashing",
     "updatedHashtags": "#RealTrust #AuthenticBrand #NoGreenwashing",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -914,7 +914,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The Verifiable Journey Of",
     "updatedCopy": "Sown Aug 15 \u2022 Trellised Sep 10 \u2022 Harvested Oct 09 \u2022 Delivered to Whitefield by 11 AM.",
     "updatedStat": "Complete Lifecycle Log In Your Portal",
-    "updatedCaption": "\ud83c\udf31 The Verifiable Journey Of A Single Heirloom Tomato.\n\nSown Aug 15 \u2022 Trellised Sep 10 \u2022 Harvested Oct 09 \u2022 Delivered to Whitefield by 11 AM.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#TomatoJourney #LifecycleTracking #FarmToPlate",
+    "updatedCaption": "\ud83c\udf31 The Verifiable Journey Of A Single Heirloom Tomato.\n\nSown Aug 15 \u2022 Trellised Sep 10 \u2022 Harvested Oct 09 \u2022 Delivered to Whitefield by 11 AM.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#TomatoJourney #LifecycleTracking #FarmToPlate",
     "updatedHashtags": "#TomatoJourney #LifecycleTracking #FarmToPlate",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -932,7 +932,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Heirloom San Marzano Tomatoes",
     "updatedCopy": "Grown on vertical jute trellises with zero synthetic sprays. Real tomato aroma you can smell.",
     "updatedStat": "Indeterminate Vine Growth \u2022 Rich Brix Sweetness",
-    "updatedCaption": "\ud83c\udf31 Heirloom San Marzano Tomatoes Sun-Ripened Sweetness & Umami.\n\nGrown on vertical jute trellises with zero synthetic sprays. Real tomato aroma you can smell.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HeirloomTomatoes #SanMarzano #RealFlavor #CookingInspiration",
+    "updatedCaption": "\ud83c\udf31 Heirloom San Marzano Tomatoes Sun-Ripened Sweetness & Umami.\n\nGrown on vertical jute trellises with zero synthetic sprays. Real tomato aroma you can smell.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HeirloomTomatoes #SanMarzano #RealFlavor #CookingInspiration",
     "updatedHashtags": "#HeirloomTomatoes #SanMarzano #RealFlavor #CookingInspiration",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -950,7 +950,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Early Nantes Sweet Carrots",
     "updatedCopy": "Crisp, sweet, and bursting with beta-carotene. Washed in clean well-head water.",
     "updatedStat": "Zero Chemical Wax \u2022 Naturally Tender Root Crunch",
-    "updatedCaption": "\ud83c\udf31 Early Nantes Sweet Carrots Grown In Aerated Sand Beds.\n\nCrisp, sweet, and bursting with beta-carotene. Washed in clean well-head water.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NantesCarrots #RootVegetables #KidsSnacks #CleanEats",
+    "updatedCaption": "\ud83c\udf31 Early Nantes Sweet Carrots Grown In Aerated Sand Beds.\n\nCrisp, sweet, and bursting with beta-carotene. Washed in clean well-head water.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NantesCarrots #RootVegetables #KidsSnacks #CleanEats",
     "updatedHashtags": "#NantesCarrots #RootVegetables #KidsSnacks #CleanEats",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -968,7 +968,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "English Seedless Cucumbers",
     "updatedCopy": "Trellised high above the ground so fruits never touch soil grit. Refreshing and ultra-hydrating.",
     "updatedStat": "Thin Skin \u2022 Crisp Seedless Core \u2022 Pure Crunch",
-    "updatedCaption": "\ud83c\udf31 English Seedless Cucumbers Zero Bitterness Guaranteed.\n\nTrellised high above the ground so fruits never touch soil grit. Refreshing and ultra-hydrating.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#EnglishCucumber #SaladGoals #Hydration #Crunchy",
+    "updatedCaption": "\ud83c\udf31 English Seedless Cucumbers Zero Bitterness Guaranteed.\n\nTrellised high above the ground so fruits never touch soil grit. Refreshing and ultra-hydrating.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#EnglishCucumber #SaladGoals #Hydration #Crunchy",
     "updatedHashtags": "#EnglishCucumber #SaladGoals #Hydration #Crunchy",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -986,7 +986,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "California Wonder Bell Peppers",
     "updatedCopy": "Cultivated under 40% shade nets to protect tender skins from scorching sun.",
     "updatedStat": "High Vitamin C \u2022 Crisp Thick Walls \u2022 Vibrant Green",
-    "updatedCaption": "\ud83c\udf31 California Wonder Bell Peppers Thick Walls & Juicy Snap.\n\nCultivated under 40% shade nets to protect tender skins from scorching sun.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#BellPeppers #Capsicum #SaladVeggies #StirFry",
+    "updatedCaption": "\ud83c\udf31 California Wonder Bell Peppers Thick Walls & Juicy Snap.\n\nCultivated under 40% shade nets to protect tender skins from scorching sun.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#BellPeppers #Capsicum #SaladVeggies #StirFry",
     "updatedHashtags": "#BellPeppers #Capsicum #SaladVeggies #StirFry",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1004,7 +1004,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Tender Bottle Gourd (Lauki)",
     "updatedCopy": "Light green, slender, seedless center. Harvested early when skin yields to a gentle thumbnail.",
     "updatedStat": "Alkalizing & Digestible \u2022 Harvested Pre-Dawn",
-    "updatedCaption": "\ud83c\udf31 Tender Bottle Gourd (Lauki) Morning Juice Perfection.\n\nLight green, slender, seedless center. Harvested early when skin yields to a gentle thumbnail.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#BottleGourd #LaukiJuice #AyurvedicLiving #GutHealth",
+    "updatedCaption": "\ud83c\udf31 Tender Bottle Gourd (Lauki) Morning Juice Perfection.\n\nLight green, slender, seedless center. Harvested early when skin yields to a gentle thumbnail.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#BottleGourd #LaukiJuice #AyurvedicLiving #GutHealth",
     "updatedHashtags": "#BottleGourd #LaukiJuice #AyurvedicLiving #GutHealth",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1022,7 +1022,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Sun-Ripened Green Chillies",
     "updatedCopy": "Never chemically forced. Naturally sun-warmed chillies with balanced capsaicin and zing.",
     "updatedStat": "Clean Pods \u2022 Zero Residue \u2022 Aromatic Punch",
-    "updatedCaption": "\ud83c\udf31 Sun-Ripened Green Chillies Crisp Kick & Clean Aroma.\n\nNever chemically forced. Naturally sun-warmed chillies with balanced capsaicin and zing.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#GreenChilli #IndianCooking #FreshFlavors #Spicy",
+    "updatedCaption": "\ud83c\udf31 Sun-Ripened Green Chillies Crisp Kick & Clean Aroma.\n\nNever chemically forced. Naturally sun-warmed chillies with balanced capsaicin and zing.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#GreenChilli #IndianCooking #FreshFlavors #Spicy",
     "updatedHashtags": "#GreenChilli #IndianCooking #FreshFlavors #Spicy",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1040,7 +1040,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Sweet Frost Green Peas",
     "updatedCopy": "Picked in peak winter chill when natural plant sugars are at their highest concentration.",
     "updatedStat": "Tender Sweet Peas \u2022 Direct From Pod To Pot",
-    "updatedCaption": "\ud83c\udf31 Sweet Frost Green Peas Plump Pods Of Morning Sweetness.\n\nPicked in peak winter chill when natural plant sugars are at their highest concentration.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#GreenPeas #Matar #WinterHarvest #SweetPeas",
+    "updatedCaption": "\ud83c\udf31 Sweet Frost Green Peas Plump Pods Of Morning Sweetness.\n\nPicked in peak winter chill when natural plant sugars are at their highest concentration.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#GreenPeas #Matar #WinterHarvest #SweetPeas",
     "updatedHashtags": "#GreenPeas #Matar #WinterHarvest #SweetPeas",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1058,7 +1058,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Slender French Green Beans",
     "updatedCopy": "Climbing legume vines that naturally fix atmospheric nitrogen into your family plot soil.",
     "updatedStat": "Stringless Variety \u2022 Harvested Every 4 Days",
-    "updatedCaption": "\ud83c\udf31 Slender French Green Beans Stringless & Tender Snaps.\n\nClimbing legume vines that naturally fix atmospheric nitrogen into your family plot soil.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FrenchBeans #Legumes #PlantProtein #FarmFresh",
+    "updatedCaption": "\ud83c\udf31 Slender French Green Beans Stringless & Tender Snaps.\n\nClimbing legume vines that naturally fix atmospheric nitrogen into your family plot soil.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FrenchBeans #Legumes #PlantProtein #FarmFresh",
     "updatedHashtags": "#FrenchBeans #Legumes #PlantProtein #FarmFresh",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1076,7 +1076,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Snowball White Cauliflower",
     "updatedCopy": "Leaves tucked by hand over heads to protect porcelain florets from sun discoloration.",
     "updatedStat": "Dense Tight Florets \u2022 Zero Synthetic Pesticides",
-    "updatedCaption": "\ud83c\udf31 Snowball White Cauliflower Naturally Blanched Porcelain Heads.\n\nLeaves tucked by hand over heads to protect porcelain florets from sun discoloration.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#Cauliflower #Gobi #Cruciferous #CleanEating",
+    "updatedCaption": "\ud83c\udf31 Snowball White Cauliflower Naturally Blanched Porcelain Heads.\n\nLeaves tucked by hand over heads to protect porcelain florets from sun discoloration.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#Cauliflower #Gobi #Cruciferous #CleanEating",
     "updatedHashtags": "#Cauliflower #Gobi #Cruciferous #CleanEating",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1094,7 +1094,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Tender Baby Spinach & Herbs",
     "updatedCopy": "Soft tender leaves grown in compost mulch beds. High iron, zero synthetic foliar sprays.",
     "updatedStat": "Palak \u2022 Coriander \u2022 Mint \u2022 Basil",
-    "updatedCaption": "\ud83c\udf31 Tender Baby Spinach & Herbs Harvested With Morning Dew.\n\nSoft tender leaves grown in compost mulch beds. High iron, zero synthetic foliar sprays.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#Spinach #Palak #Herbs #GreenSmoothie",
+    "updatedCaption": "\ud83c\udf31 Tender Baby Spinach & Herbs Harvested With Morning Dew.\n\nSoft tender leaves grown in compost mulch beds. High iron, zero synthetic foliar sprays.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#Spinach #Palak #Herbs #GreenSmoothie",
     "updatedHashtags": "#Spinach #Palak #Herbs #GreenSmoothie",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1112,7 +1112,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Your Farm In Your Pocket.",
     "updatedCopy": "View your Plot ID, days to harvest, delivery routes, and soil health on any device.",
     "updatedStat": "Live Dashboard \u2022 Weekly Photos \u2022 Agronomist Notes",
-    "updatedCaption": "\ud83c\udf31 Your Farm In Your Pocket. The Customer Dashboard.\n\nView your Plot ID, days to harvest, delivery routes, and soil health on any device.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#AgriTech #SmartFarming #CustomerPortal #ModernFamily",
+    "updatedCaption": "\ud83c\udf31 Your Farm In Your Pocket. The Customer Dashboard.\n\nView your Plot ID, days to harvest, delivery routes, and soil health on any device.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#AgriTech #SmartFarming #CustomerPortal #ModernFamily",
     "updatedHashtags": "#AgriTech #SmartFarming #CustomerPortal #ModernFamily",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1130,7 +1130,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Live Farm Camera Feed.",
     "updatedCopy": "Private estate subscribers enjoy 24/7 high-definition streaming directly from the field.",
     "updatedStat": "PTZ Camera Controls \u2022 North & South Trellis Angles",
-    "updatedCaption": "\ud83c\udf31 Live Farm Camera Feed. Watch Your Crops Grow Anytime.\n\nPrivate estate subscribers enjoy 24/7 high-definition streaming directly from the field.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#LiveStream #FarmCam #TransparencyInAction #TechAg",
+    "updatedCaption": "\ud83c\udf31 Live Farm Camera Feed. Watch Your Crops Grow Anytime.\n\nPrivate estate subscribers enjoy 24/7 high-definition streaming directly from the field.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#LiveStream #FarmCam #TransparencyInAction #TechAg",
     "updatedHashtags": "#LiveStream #FarmCam #TransparencyInAction #TechAg",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1148,7 +1148,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Real-Time Soil Telemetry:",
     "updatedCopy": "Sub-surface soil sensors measure moisture at 38% field capacity for perfect root uptake.",
     "updatedStat": "Moisture 38.4% \u2022 Temp 24.8\u00b0C \u2022 Solar Lux 48,200",
-    "updatedCaption": "\ud83c\udf31 Real-Time Soil Telemetry: Moisture, Temp & Sunlight.\n\nSub-surface soil sensors measure moisture at 38% field capacity for perfect root uptake.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#IoTAgriculture #PrecisionFarming #SmartSensors",
+    "updatedCaption": "\ud83c\udf31 Real-Time Soil Telemetry: Moisture, Temp & Sunlight.\n\nSub-surface soil sensors measure moisture at 38% field capacity for perfect root uptake.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#IoTAgriculture #PrecisionFarming #SmartSensors",
     "updatedHashtags": "#IoTAgriculture #PrecisionFarming #SmartSensors",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1166,7 +1166,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Track Your Carrot\u2019s Growth",
     "updatedCopy": "Visual progress rings update as your root crops swell in raised sand-loam furrows.",
     "updatedStat": "Day 0 to Day 75 Tracked Live",
-    "updatedCaption": "\ud83c\udf31 Track Your Carrot\u2019s Growth From Germination To Harvest.\n\nVisual progress rings update as your root crops swell in raised sand-loam furrows.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CropLifecycle #FarmTracking #DigitalGardening",
+    "updatedCaption": "\ud83c\udf31 Track Your Carrot\u2019s Growth From Germination To Harvest.\n\nVisual progress rings update as your root crops swell in raised sand-loam furrows.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CropLifecycle #FarmTracking #DigitalGardening",
     "updatedHashtags": "#CropLifecycle #FarmTracking #DigitalGardening",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1184,7 +1184,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Agronomist Field Notes",
     "updatedCopy": "Dr. Murthy shares weekly shoot counts, pollination updates, and harvest forecasts.",
     "updatedStat": "Weekly Audio & Photo Journal Logs",
-    "updatedCaption": "\ud83c\udf31 Agronomist Field Notes Delivered To Your WhatsApp.\n\nDr. Murthy shares weekly shoot counts, pollination updates, and harvest forecasts.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FieldNotes #WhatsAppUpdates #FarmDiary",
+    "updatedCaption": "\ud83c\udf31 Agronomist Field Notes Delivered To Your WhatsApp.\n\nDr. Murthy shares weekly shoot counts, pollination updates, and harvest forecasts.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FieldNotes #WhatsAppUpdates #FarmDiary",
     "updatedHashtags": "#FieldNotes #WhatsAppUpdates #FarmDiary",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1202,7 +1202,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Cold-Chain EV Delivery.",
     "updatedCopy": "Electric vehicles running optimized morning routes deliver chilled produce with low carbon footprint.",
     "updatedStat": "Pre-Chilled 12\u00b0C \u2022 EV Fleet Logistics",
-    "updatedCaption": "\ud83c\udf31 Cold-Chain EV Delivery. Zero Urban Transit Emissions.\n\nElectric vehicles running optimized morning routes deliver chilled produce with low carbon footprint.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#EVLogistics #SustainableLogistics #GreenDelivery",
+    "updatedCaption": "\ud83c\udf31 Cold-Chain EV Delivery. Zero Urban Transit Emissions.\n\nElectric vehicles running optimized morning routes deliver chilled produce with low carbon footprint.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#EVLogistics #SustainableLogistics #GreenDelivery",
     "updatedHashtags": "#EVLogistics #SustainableLogistics #GreenDelivery",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1220,7 +1220,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Download Batch QC Pass",
     "updatedCopy": "Weight breakdown, quality grade (A+), and inspector certificate attached to each crate.",
     "updatedStat": "Complete Digital Invoicing & Lab Certificates",
-    "updatedCaption": "\ud83c\udf31 Download Batch QC Pass With Every Harvest Delivery.\n\nWeight breakdown, quality grade (A+), and inspector certificate attached to each crate.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#QualityCertificate #BatchPass #FoodSafetyFirst",
+    "updatedCaption": "\ud83c\udf31 Download Batch QC Pass With Every Harvest Delivery.\n\nWeight breakdown, quality grade (A+), and inspector certificate attached to each crate.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#QualityCertificate #BatchPass #FoodSafetyFirst",
     "updatedHashtags": "#QualityCertificate #BatchPass #FoodSafetyFirst",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1238,7 +1238,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "4 Camera Angles On Plot B-14.",
     "updatedCopy": "Switch cameras from your phone to check tomato clusters or drip line manifolds.",
     "updatedStat": "1080p Optical Stream \u2022 Day & Night Telemetry",
-    "updatedCaption": "\ud83c\udf31 4 Camera Angles On Plot B-14. Trellis, Drip Hub & Canopy.\n\nSwitch cameras from your phone to check tomato clusters or drip line manifolds.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#SecurityCam #FarmMonitoring #TechLuxury",
+    "updatedCaption": "\ud83c\udf31 4 Camera Angles On Plot B-14. Trellis, Drip Hub & Canopy.\n\nSwitch cameras from your phone to check tomato clusters or drip line manifolds.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#SecurityCam #FarmMonitoring #TechLuxury",
     "updatedHashtags": "#SecurityCam #FarmMonitoring #TechLuxury",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1256,7 +1256,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Interactive Farm Builder:",
     "updatedCopy": "Input your family size and favorite veggies. We calculate exact square footage and harvest kg.",
     "updatedStat": "Instant Dynamic Farm Requirement Calculation",
-    "updatedCaption": "\ud83c\udf31 Interactive Farm Builder: Design Your Plot In 60 Seconds.\n\nInput your family size and favorite veggies. We calculate exact square footage and harvest kg.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FarmBuilder #CustomPlot #InteractiveTool",
+    "updatedCaption": "\ud83c\udf31 Interactive Farm Builder: Design Your Plot In 60 Seconds.\n\nInput your family size and favorite veggies. We calculate exact square footage and harvest kg.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FarmBuilder #CustomPlot #InteractiveTool",
     "updatedHashtags": "#FarmBuilder #CustomPlot #InteractiveTool",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1274,7 +1274,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Old-School Soil Mastery,",
     "updatedCopy": "Pairing generation-old agricultural wisdom with Next.js dashboards and IoT sensors.",
     "updatedStat": "The Best of Both Worlds For Your Family",
-    "updatedCaption": "\ud83c\udf31 Old-School Soil Mastery, Modern Cloud Architecture.\n\nPairing generation-old agricultural wisdom with Next.js dashboards and IoT sensors.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ModernAgri #AgriTechPlatform #FutureOfFood",
+    "updatedCaption": "\ud83c\udf31 Old-School Soil Mastery, Modern Cloud Architecture.\n\nPairing generation-old agricultural wisdom with Next.js dashboards and IoT sensors.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ModernAgri #AgriTechPlatform #FutureOfFood",
     "updatedHashtags": "#ModernAgri #AgriTechPlatform #FutureOfFood",
     "visualTag": "INFOGRAPHIC"
   },
@@ -1292,7 +1292,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Anekal Valley Agro Estate",
     "updatedCopy": "24 acres of red sandy loam soil fed by deep aquifers and natural rainwater harvesting lakes.",
     "updatedStat": "Red Sandy Loam \u2022 Soil pH 6.8 \u2022 Water TDS 185",
-    "updatedCaption": "\ud83c\udf31 Anekal Valley Agro Estate South Bengaluru Foothills.\n\n24 acres of red sandy loam soil fed by deep aquifers and natural rainwater harvesting lakes.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#BangaloreFarms #Anekal #KarnatakaAgriculture #LocalProduce",
+    "updatedCaption": "\ud83c\udf31 Anekal Valley Agro Estate South Bengaluru Foothills.\n\n24 acres of red sandy loam soil fed by deep aquifers and natural rainwater harvesting lakes.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#BangaloreFarms #Anekal #KarnatakaAgriculture #LocalProduce",
     "updatedHashtags": "#BangaloreFarms #Anekal #KarnatakaAgriculture #LocalProduce",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1310,7 +1310,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Sahyadri Terraces Farm",
     "updatedCopy": "35 acres of nutrient-rich black silt loam along the mist-cooled leeward slopes of Maharashtra.",
     "updatedStat": "Black Silt Loam \u2022 Mountain Drip Canal \u2022 Soil pH 7.1",
-    "updatedCaption": "\ud83c\udf31 Sahyadri Terraces Farm Baramati Ridge, Western Ghats.\n\n35 acres of nutrient-rich black silt loam along the mist-cooled leeward slopes of Maharashtra.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PuneFarms #Sahyadri #WesternGhats #MaharashtraAgriculture",
+    "updatedCaption": "\ud83c\udf31 Sahyadri Terraces Farm Baramati Ridge, Western Ghats.\n\n35 acres of nutrient-rich black silt loam along the mist-cooled leeward slopes of Maharashtra.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PuneFarms #Sahyadri #WesternGhats #MaharashtraAgriculture",
     "updatedHashtags": "#PuneFarms #Sahyadri #WesternGhats #MaharashtraAgriculture",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1328,7 +1328,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Aravalli Greens Sanctuary",
     "updatedCopy": "18 acres of fertile alluvial loamy clay serving Delhi NCR households with verified pure greens.",
     "updatedStat": "Alluvial Loam \u2022 Aquifer RO Filtered \u2022 Soil pH 7.3",
-    "updatedCaption": "\ud83c\udf31 Aravalli Greens Sanctuary Sohna Rural Corridor, Gurugram.\n\n18 acres of fertile alluvial loamy clay serving Delhi NCR households with verified pure greens.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#DelhiNCR #Gurugram #Sohna #NCRFamilies",
+    "updatedCaption": "\ud83c\udf31 Aravalli Greens Sanctuary Sohna Rural Corridor, Gurugram.\n\n18 acres of fertile alluvial loamy clay serving Delhi NCR households with verified pure greens.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#DelhiNCR #Gurugram #Sohna #NCRFamilies",
     "updatedHashtags": "#DelhiNCR #Gurugram #Sohna #NCRFamilies",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1346,7 +1346,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Red Loam vs. Black Silt:",
     "updatedCopy": "Carrots thrive in aerated Anekal sand; tomatoes develop deep sweetness in mineral-rich Sahyadri loam.",
     "updatedStat": "Optimal Micro-Climates For Every Crop",
-    "updatedCaption": "\ud83c\udf31 Red Loam vs. Black Silt: Why Location Matters.\n\nCarrots thrive in aerated Anekal sand; tomatoes develop deep sweetness in mineral-rich Sahyadri loam.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#SoilTypes #MicroClimate #Terroir #FoodOrigin",
+    "updatedCaption": "\ud83c\udf31 Red Loam vs. Black Silt: Why Location Matters.\n\nCarrots thrive in aerated Anekal sand; tomatoes develop deep sweetness in mineral-rich Sahyadri loam.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#SoilTypes #MicroClimate #Terroir #FoodOrigin",
     "updatedHashtags": "#SoilTypes #MicroClimate #Terroir #FoodOrigin",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1364,7 +1364,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Protected Aquifer Wells:",
     "updatedCopy": "Located miles away from industrial drainage corridors. Tested quarterly by accredited labs.",
     "updatedStat": "Pristine Rural Green Belts \u2022 TDS < 200 mg/L",
-    "updatedCaption": "\ud83c\udf31 Protected Aquifer Wells: The Lifeblood Of Clean Food.\n\nLocated miles away from industrial drainage corridors. Tested quarterly by accredited labs.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CleanWater #Aquifers #SafeFarming",
+    "updatedCaption": "\ud83c\udf31 Protected Aquifer Wells: The Lifeblood Of Clean Food.\n\nLocated miles away from industrial drainage corridors. Tested quarterly by accredited labs.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CleanWater #Aquifers #SafeFarming",
     "updatedHashtags": "#CleanWater #Aquifers #SafeFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1382,7 +1382,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Dr. Srinivas Murthy",
     "updatedCopy": "28 years researching living soil fungal networks and non-synthetic root protection protocols.",
     "updatedStat": "Lead Agronomist \u2022 South Bengaluru Estate",
-    "updatedCaption": "\ud83c\udf31 Dr. Srinivas Murthy Ph.D. In Soil Microbiology.\n\n28 years researching living soil fungal networks and non-synthetic root protection protocols.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#ChiefAgronomist #SoilMicrobiologist #ScienceInAg",
+    "updatedCaption": "\ud83c\udf31 Dr. Srinivas Murthy Ph.D. In Soil Microbiology.\n\n28 years researching living soil fungal networks and non-synthetic root protection protocols.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#ChiefAgronomist #SoilMicrobiologist #ScienceInAg",
     "updatedHashtags": "#ChiefAgronomist #SoilMicrobiologist #ScienceInAg",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1400,7 +1400,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Kavita Deshmukh, M.Sc.",
     "updatedCopy": "19 years perfecting drip fertigation with fermented botanicals in the Western Ghats.",
     "updatedStat": "Lead Agronomist \u2022 Sahyadri Terraces, Pune",
-    "updatedCaption": "\ud83c\udf31 Kavita Deshmukh, M.Sc. Head of Regenerative Agronomy.\n\n19 years perfecting drip fertigation with fermented botanicals in the Western Ghats.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#WomenInAg #AgronomyExpert #RegenerativeFarming",
+    "updatedCaption": "\ud83c\udf31 Kavita Deshmukh, M.Sc. Head of Regenerative Agronomy.\n\n19 years perfecting drip fertigation with fermented botanicals in the Western Ghats.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#WomenInAg #AgronomyExpert #RegenerativeFarming",
     "updatedHashtags": "#WomenInAg #AgronomyExpert #RegenerativeFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1418,7 +1418,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Harinder Singh Brar",
     "updatedCopy": "Third-generation agriculturalist leading heirloom seeds and cold-chain harvesting in NCR.",
     "updatedStat": "Director of Cultivation \u2022 Aravalli Sanctuary",
-    "updatedCaption": "\ud83c\udf31 Harinder Singh Brar Master Estate Cultivator.\n\nThird-generation agriculturalist leading heirloom seeds and cold-chain harvesting in NCR.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#MasterFarmer #ThirdGenFarmer #FarmHeritage",
+    "updatedCaption": "\ud83c\udf31 Harinder Singh Brar Master Estate Cultivator.\n\nThird-generation agriculturalist leading heirloom seeds and cold-chain harvesting in NCR.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#MasterFarmer #ThirdGenFarmer #FarmHeritage",
     "updatedHashtags": "#MasterFarmer #ThirdGenFarmer #FarmHeritage",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1436,7 +1436,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Cultivators With Dignity",
     "updatedCopy": "Our farmers receive steady salaries, healthcare, and pride in farming unpoisoned food.",
     "updatedStat": "Zero Middleman Debt \u2022 Proud Farmer Community",
-    "updatedCaption": "\ud83c\udf31 Cultivators With Dignity & Guaranteed Monthly Wages.\n\nOur farmers receive steady salaries, healthcare, and pride in farming unpoisoned food.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FairTrade #FarmerWelfare #DignityInLabor",
+    "updatedCaption": "\ud83c\udf31 Cultivators With Dignity & Guaranteed Monthly Wages.\n\nOur farmers receive steady salaries, healthcare, and pride in farming unpoisoned food.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FairTrade #FarmerWelfare #DignityInLabor",
     "updatedHashtags": "#FairTrade #FarmerWelfare #DignityInLabor",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1454,7 +1454,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Ecologically Isolated Greenbelts",
     "updatedCopy": "Our farms sit in protected rural buffer zones with clean mountain breezes and clear skies.",
     "updatedStat": "45 to 90 Minutes From City Centers",
-    "updatedCaption": "\ud83c\udf31 Ecologically Isolated Greenbelts Protected From City Smog.\n\nOur farms sit in protected rural buffer zones with clean mountain breezes and clear skies.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#Greenbelt #RuralSanctuary #CleanAir",
+    "updatedCaption": "\ud83c\udf31 Ecologically Isolated Greenbelts Protected From City Smog.\n\nOur farms sit in protected rural buffer zones with clean mountain breezes and clear skies.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#Greenbelt #RuralSanctuary #CleanAir",
     "updatedHashtags": "#Greenbelt #RuralSanctuary #CleanAir",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1472,7 +1472,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Don\u2019t Just Trust Us.",
     "updatedCopy": "Every subscribed family has open invitations to walk their plot and meet the agronomists.",
     "updatedStat": "Saturday & Sunday 7 AM \u2013 4 PM \u2022 Slot Booking",
-    "updatedCaption": "\ud83c\udf31 Don\u2019t Just Trust Us. Visit Your Farm This Weekend.\n\nEvery subscribed family has open invitations to walk their plot and meet the agronomists.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#FarmVisit #WeekendGetaway #BangaloreWeekends #PuneOutings",
+    "updatedCaption": "\ud83c\udf31 Don\u2019t Just Trust Us. Visit Your Farm This Weekend.\n\nEvery subscribed family has open invitations to walk their plot and meet the agronomists.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#FarmVisit #WeekendGetaway #BangaloreWeekends #PuneOutings",
     "updatedHashtags": "#FarmVisit #WeekendGetaway #BangaloreWeekends #PuneOutings",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1490,7 +1490,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Show Your Children Where",
     "updatedCopy": "Let them pull a crunchy carrot straight from the soil and taste real morning sweetness.",
     "updatedStat": "Unforgettable Family Memories \u2022 Screen-Free Morning",
-    "updatedCaption": "\ud83c\udf31 Show Your Children Where Carrots Actually Grow.\n\nLet them pull a crunchy carrot straight from the soil and taste real morning sweetness.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NatureEducation #KidsInNature #HandsInSoil #ParentingGoals",
+    "updatedCaption": "\ud83c\udf31 Show Your Children Where Carrots Actually Grow.\n\nLet them pull a crunchy carrot straight from the soil and taste real morning sweetness.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NatureEducation #KidsInNature #HandsInSoil #ParentingGoals",
     "updatedHashtags": "#NatureEducation #KidsInNature #HandsInSoil #ParentingGoals",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1508,7 +1508,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Weekend Farm Mornings",
     "updatedCopy": "Breathe crisp morning air, sip fresh well-head herbal tea, and walk living green rows.",
     "updatedStat": "Tranquil Agro-Estates \u2022 60 Mins from Whitefield/Koregaon",
-    "updatedCaption": "\ud83c\udf31 Weekend Farm Mornings Away From Urban Smog & Screens.\n\nBreathe crisp morning air, sip fresh well-head herbal tea, and walk living green rows.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#WeekendDetox #SlowMorning #Countryside #SoulFood",
+    "updatedCaption": "\ud83c\udf31 Weekend Farm Mornings Away From Urban Smog & Screens.\n\nBreathe crisp morning air, sip fresh well-head herbal tea, and walk living green rows.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#WeekendDetox #SlowMorning #Countryside #SoulFood",
     "updatedHashtags": "#WeekendDetox #SlowMorning #Countryside #SoulFood",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1526,7 +1526,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Walk Your Numbered Plot",
     "updatedCopy": "Ask questions, touch the soil, inspect the drip tubing, and understand your family\u2019s crops.",
     "updatedStat": "Private 1-on-1 Agronomy Consultations",
-    "updatedCaption": "\ud83c\udf31 Walk Your Numbered Plot With Our Chief Agronomist.\n\nAsk questions, touch the soil, inspect the drip tubing, and understand your family\u2019s crops.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#GuidedTour #AgriTour #LearnFarming",
+    "updatedCaption": "\ud83c\udf31 Walk Your Numbered Plot With Our Chief Agronomist.\n\nAsk questions, touch the soil, inspect the drip tubing, and understand your family\u2019s crops.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#GuidedTour #AgriTour #LearnFarming",
     "updatedHashtags": "#GuidedTour #AgriTour #LearnFarming",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1544,7 +1544,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "The Pure Joy Of Harvesting",
     "updatedCopy": "Clip crisp cucumbers and sweet tomatoes yourself and bring them home for Sunday lunch.",
     "updatedStat": "Harvest Basket Provided \u2022 Farm Gate Fresh",
-    "updatedCaption": "\ud83c\udf31 The Pure Joy Of Harvesting Your Own Salad With Your Kids.\n\nClip crisp cucumbers and sweet tomatoes yourself and bring them home for Sunday lunch.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HarvestWithKids #FreshSalad #FarmToTable",
+    "updatedCaption": "\ud83c\udf31 The Pure Joy Of Harvesting Your Own Salad With Your Kids.\n\nClip crisp cucumbers and sweet tomatoes yourself and bring them home for Sunday lunch.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HarvestWithKids #FreshSalad #FarmToTable",
     "updatedHashtags": "#HarvestWithKids #FreshSalad #FarmToTable",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1562,7 +1562,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "No Closed Compounds.",
     "updatedCopy": "Inspect our bio-compost pits, our neem extracts, and our seed propagation trays.",
     "updatedStat": "100% Verifiable Reality \u2022 Nothing Hidden",
-    "updatedCaption": "\ud83c\udf31 No Closed Compounds. No Secret Pesticide Rooms.\n\nInspect our bio-compost pits, our neem extracts, and our seed propagation trays.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#OpenDoors #TransparentLife #Integrity",
+    "updatedCaption": "\ud83c\udf31 No Closed Compounds. No Secret Pesticide Rooms.\n\nInspect our bio-compost pits, our neem extracts, and our seed propagation trays.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#OpenDoors #TransparentLife #Integrity",
     "updatedHashtags": "#OpenDoors #TransparentLife #Integrity",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1580,7 +1580,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Join A Mindful Community",
     "updatedCopy": "Doctors, entrepreneurs, and parents who refuse to compromise on what their children eat.",
     "updatedStat": "Over 120 Pilot Families Already Enrolled",
-    "updatedCaption": "\ud83c\udf31 Join A Mindful Community Of Health-Conscious Families.\n\nDoctors, entrepreneurs, and parents who refuse to compromise on what their children eat.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CommunityWellness #ConsciousLiving #HealthTribe",
+    "updatedCaption": "\ud83c\udf31 Join A Mindful Community Of Health-Conscious Families.\n\nDoctors, entrepreneurs, and parents who refuse to compromise on what their children eat.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CommunityWellness #ConsciousLiving #HealthTribe",
     "updatedHashtags": "#CommunityWellness #ConsciousLiving #HealthTribe",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1598,7 +1598,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Fresh Country Air.",
     "updatedCopy": "Studies show exposure to diverse soil microbes boosts immunity and reduces anxiety.",
     "updatedStat": "Natural Soil Serotonin \u2022 Restorative Mornings",
-    "updatedCaption": "\ud83c\udf31 Fresh Country Air. Microbe-Rich Soil. Pure Living.\n\nStudies show exposure to diverse soil microbes boosts immunity and reduces anxiety.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#MicrobiomeHealth #Grounding #Earthing #NatureHeals",
+    "updatedCaption": "\ud83c\udf31 Fresh Country Air. Microbe-Rich Soil. Pure Living.\n\nStudies show exposure to diverse soil microbes boosts immunity and reduces anxiety.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#MicrobiomeHealth #Grounding #Earthing #NatureHeals",
     "updatedHashtags": "#MicrobiomeHealth #Grounding #Earthing #NatureHeals",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1616,7 +1616,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Saturday & Sunday Mornings",
     "updatedCopy": "Slots are limited each weekend to maintain peaceful, uncrowded farm estate grounds.",
     "updatedStat": "Complimentary For Subscribed Families",
-    "updatedCaption": "\ud83c\udf31 Saturday & Sunday Mornings Reserve Your Family Slot.\n\nSlots are limited each weekend to maintain peaceful, uncrowded farm estate grounds.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#BookYourSlot #FarmPicnic #WeekendRoutine",
+    "updatedCaption": "\ud83c\udf31 Saturday & Sunday Mornings Reserve Your Family Slot.\n\nSlots are limited each weekend to maintain peaceful, uncrowded farm estate grounds.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#BookYourSlot #FarmPicnic #WeekendRoutine",
     "updatedHashtags": "#BookYourSlot #FarmPicnic #WeekendRoutine",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1634,7 +1634,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Touch The Living Soil",
     "updatedCopy": "Because food is not just calories in a plastic packet. It is a sacred connection.",
     "updatedStat": "Reconnecting You With The Earth",
-    "updatedCaption": "\ud83c\udf31 Touch The Living Soil That Feeds Your Household.\n\nBecause food is not just calories in a plastic packet. It is a sacred connection.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#DeepRoots #SacredFood #SoilConnection",
+    "updatedCaption": "\ud83c\udf31 Touch The Living Soil That Feeds Your Household.\n\nBecause food is not just calories in a plastic packet. It is a sacred connection.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#DeepRoots #SacredFood #SoilConnection",
     "updatedHashtags": "#DeepRoots #SacredFood #SoilConnection",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1652,7 +1652,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "\"Our 7-Year-Old Daughter",
     "updatedCopy": "Store cucumbers were always bitter. The seedless cucumbers on Plot B-14 are crisp and sweet.",
     "updatedStat": "\u2014 Rahul & Priya Verma, Bengaluru (Whitefield)",
-    "updatedCaption": "\ud83c\udf31 \"Our 7-Year-Old Daughter Finally Loves Cucumbers.\"\n\nStore cucumbers were always bitter. The seedless cucumbers on Plot B-14 are crisp and sweet.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#CustomerReview #FamilyStory #BangaloreMoms #RealFeedback",
+    "updatedCaption": "\ud83c\udf31 \"Our 7-Year-Old Daughter Finally Loves Cucumbers.\"\n\nStore cucumbers were always bitter. The seedless cucumbers on Plot B-14 are crisp and sweet.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#CustomerReview #FamilyStory #BangaloreMoms #RealFeedback",
     "updatedHashtags": "#CustomerReview #FamilyStory #BangaloreMoms #RealFeedback",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1670,7 +1670,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "\"Half An Acre Managed",
     "updatedCopy": "Our private chef coordinates harvest cuts directly with Harinder. The live camera gives peace of mind.",
     "updatedStat": "\u2014 Vikram Singhania, Gurugram (Sector 42)",
-    "updatedCaption": "\ud83c\udf31 \"Half An Acre Managed Exclusively For Our Household.\"\n\nOur private chef coordinates harvest cuts directly with Harinder. The live camera gives peace of mind.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HNIClient #LuxuryLiving #GurugramLife #PrivateEstate",
+    "updatedCaption": "\ud83c\udf31 \"Half An Acre Managed Exclusively For Our Household.\"\n\nOur private chef coordinates harvest cuts directly with Harinder. The live camera gives peace of mind.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HNIClient #LuxuryLiving #GurugramLife #PrivateEstate",
     "updatedHashtags": "#HNIClient #LuxuryLiving #GurugramLife #PrivateEstate",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1688,7 +1688,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "\"Pure Food Without The",
     "updatedCopy": "The bi-weekly soil moisture notes and pre-chilled boxes show world-class professionalism.",
     "updatedStat": "\u2014 Meera Patel, Pune (Undri)",
-    "updatedCaption": "\ud83c\udf31 \"Pure Food Without The Sunday Mandi Hassle.\"\n\nThe bi-weekly soil moisture notes and pre-chilled boxes show world-class professionalism.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PuneFoodie #HappyCustomer #CleanNutrition",
+    "updatedCaption": "\ud83c\udf31 \"Pure Food Without The Sunday Mandi Hassle.\"\n\nThe bi-weekly soil moisture notes and pre-chilled boxes show world-class professionalism.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PuneFoodie #HappyCustomer #CleanNutrition",
     "updatedHashtags": "#PuneFoodie #HappyCustomer #CleanNutrition",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1706,7 +1706,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Real Food Has Real Aroma.",
     "updatedCopy": "When was the last time a tomato filled your kitchen with aroma as soon as you sliced it?",
     "updatedStat": "Real Phytonutrients \u2022 Natural Terroir Sweetness",
-    "updatedCaption": "\ud83c\udf31 Real Food Has Real Aroma. Taste What You\u2019ve Been Missing.\n\nWhen was the last time a tomato filled your kitchen with aroma as soon as you sliced it?\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#RealFoodTaste #SensoryCooking #ChefSecret",
+    "updatedCaption": "\ud83c\udf31 Real Food Has Real Aroma. Taste What You\u2019ve Been Missing.\n\nWhen was the last time a tomato filled your kitchen with aroma as soon as you sliced it?\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#RealFoodTaste #SensoryCooking #ChefSecret",
     "updatedHashtags": "#RealFoodTaste #SensoryCooking #ChefSecret",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1724,7 +1724,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Why True Gut Health",
     "updatedCopy": "Vegetables grown in sterilized chemical soil lack beneficial endophytes that nourish human gut flora.",
     "updatedStat": "Living Soil Biology = Resilient Human Microbiome",
-    "updatedCaption": "\ud83c\udf31 Why True Gut Health Begins In Living Farm Soil.\n\nVegetables grown in sterilized chemical soil lack beneficial endophytes that nourish human gut flora.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#GutHealth #MicrobiomeScience #FunctionalFood",
+    "updatedCaption": "\ud83c\udf31 Why True Gut Health Begins In Living Farm Soil.\n\nVegetables grown in sterilized chemical soil lack beneficial endophytes that nourish human gut flora.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#GutHealth #MicrobiomeScience #FunctionalFood",
     "updatedHashtags": "#GutHealth #MicrobiomeScience #FunctionalFood",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1742,7 +1742,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Cooking With Dawn-Picked Crops:",
     "updatedCopy": "Tender beans that cook in 4 minutes. Sweet carrots that don\u2019t need sugar in soup broth.",
     "updatedStat": "Peak Turgor Moisture \u2022 Culinary Grade A+",
-    "updatedCaption": "\ud83c\udf31 Cooking With Dawn-Picked Crops: A Home Chef\u2019s Dream.\n\nTender beans that cook in 4 minutes. Sweet carrots that don\u2019t need sugar in soup broth.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#HomeChef #CulinaryArt #FarmCooking #Foodie",
+    "updatedCaption": "\ud83c\udf31 Cooking With Dawn-Picked Crops: A Home Chef\u2019s Dream.\n\nTender beans that cook in 4 minutes. Sweet carrots that don\u2019t need sugar in soup broth.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#HomeChef #CulinaryArt #FarmCooking #Foodie",
     "updatedHashtags": "#HomeChef #CulinaryArt #FarmCooking #Foodie",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1760,7 +1760,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Vitamin C Drops By 50%",
     "updatedCopy": "Supermarket vegetables sit in warehouses for days. We deliver within hours of clipping.",
     "updatedStat": "Maximum Antioxidants \u2022 Zero Nutrient Degradation",
-    "updatedCaption": "\ud83c\udf31 Vitamin C Drops By 50% In Just 72 Hours After Harvest.\n\nSupermarket vegetables sit in warehouses for days. We deliver within hours of clipping.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#NutritionFacts #VitaminC #FoodScience #EatFresh",
+    "updatedCaption": "\ud83c\udf31 Vitamin C Drops By 50% In Just 72 Hours After Harvest.\n\nSupermarket vegetables sit in warehouses for days. We deliver within hours of clipping.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#NutritionFacts #VitaminC #FoodScience #EatFresh",
     "updatedHashtags": "#NutritionFacts #VitaminC #FoodScience #EatFresh",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1778,7 +1778,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Invest In Clean Food Today.",
     "updatedCopy": "Preventive wellness starts three times a day at your kitchen dining table.",
     "updatedStat": "Clean Food As Medicine \u2022 Lifelong Family Health",
-    "updatedCaption": "\ud83c\udf31 Invest In Clean Food Today. Save On Medical Bills Tomorrow.\n\nPreventive wellness starts three times a day at your kitchen dining table.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PreventiveHealth #FoodAsMedicine #Longevity",
+    "updatedCaption": "\ud83c\udf31 Invest In Clean Food Today. Save On Medical Bills Tomorrow.\n\nPreventive wellness starts three times a day at your kitchen dining table.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PreventiveHealth #FoodAsMedicine #Longevity",
     "updatedHashtags": "#PreventiveHealth #FoodAsMedicine #Longevity",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1796,7 +1796,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Your Dinner Table Deserves",
     "updatedCopy": "Join the families who decided that where food comes from matters more than convenience store discounts.",
     "updatedStat": "The Trusted Family Farming Service",
-    "updatedCaption": "\ud83c\udf31 Your Dinner Table Deserves Uncompromised Truth.\n\nJoin the families who decided that where food comes from matters more than convenience store discounts.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#DinnerTable #FamilyValues #UncompromisedTruth",
+    "updatedCaption": "\ud83c\udf31 Your Dinner Table Deserves Uncompromised Truth.\n\nJoin the families who decided that where food comes from matters more than convenience store discounts.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#DinnerTable #FamilyValues #UncompromisedTruth",
     "updatedHashtags": "#DinnerTable #FamilyValues #UncompromisedTruth",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   },
@@ -1814,7 +1814,7 @@ export const MEDIA_KIT_AUDIT: MediaKitAuditItem[] = [
     "updatedHeadline": "Build Your Family\u2019s Farm.",
     "updatedCopy": "No land purchase. No farming liability. Premium managed agriculture delivered to your door.",
     "updatedStat": "Plans Starting at \u20b910,000 / Month \u2022 Limited Plot Slots",
-    "updatedCaption": "\ud83c\udf31 Build Your Family\u2019s Farm. We Grow It. You Enjoy It.\n\nNo land purchase. No farming liability. Premium managed agriculture delivered to your door.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 98450 12345.\n\n#PureVegies #NaturalFarming #CleanLiving #TransformYourKitchen #JoinNow",
+    "updatedCaption": "\ud83c\udf31 Build Your Family\u2019s Farm. We Grow It. You Enjoy It.\n\nNo land purchase. No farming liability. Premium managed agriculture delivered to your door.\n\n\u2728 Why Indian families choose PureVegies:\n\u2022 PureVegies provides and manages the farmland\n\u2022 Natural farming with living soil & indigenous biodiversity\n\u2022 Zero land purchase, zero labor management required\n\u2022 Harvested at peak ripeness and delivered directly to your doorstep\n\n\ud83d\udc49 Reserve your family's managed farming plan at www.purevegies.in\nWhatsApp our agricultural advisory team at +91 7877832221.\n\n#PureVegies #NaturalFarming #CleanLiving #TransformYourKitchen #JoinNow",
     "updatedHashtags": "#PureVegies #NaturalFarming #CleanLiving #TransformYourKitchen #JoinNow",
     "visualTag": "CONCEPTUAL / STOCK / AI"
   }

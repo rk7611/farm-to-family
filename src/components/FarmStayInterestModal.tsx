@@ -259,7 +259,7 @@ export default function FarmStayInterestModal({
                       required
                       value={phone}
                       onChange={(e) => setPhone(e.target.value)}
-                      placeholder="e.g. +91 98450 12345"
+                      placeholder="e.g. +91 7877832221"
                       className="w-full px-3.5 py-2.5 rounded-xl border border-[#D8D1C5] text-xs focus:outline-hidden focus:border-[#172F1F]"
                     />
                   </div>

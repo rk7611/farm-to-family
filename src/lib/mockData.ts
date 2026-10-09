@@ -90,7 +90,7 @@ export const INITIAL_FARMS: Farm[] = [
       'https://images.unsplash.com/photo-1589923188900-85dae523342b?auto=format&fit=crop&w=1200&q=80',
     ],
     agronomistName: 'Dr. Srinivas Murthy',
-    agronomistContact: '+91 98450 44210',
+    agronomistContact: '+91 7877832221',
     establishedYear: 2021,
   },
   {
@@ -267,8 +267,8 @@ export const INITIAL_CUSTOMERS: Customer[] = [
     id: 'cust-rahul-01',
     fullName: 'Rahul Verma',
     email: 'rahul.verma@example.com',
-    phone: '+91 98450 11234',
-    whatsapp: '+91 98450 11234',
+    phone: '+91 7877832221',
+    whatsapp: '+91 7877832221',
     city: 'Bengaluru',
     address: 'Apartment 702, Prestige Elm Park, Whitefield, Bengaluru - 560066',
     familySize: 4,
@@ -431,7 +431,7 @@ export const INITIAL_LEADS: Lead[] = [
 ];
 
 export const SYSTEM_CONFIG: SystemConfig = {
-  whatsappNumber: '+91 98450 12345',
+  whatsappNumber: '+91 7877832221',
   supportPhone: '+91 (080) 4120-7788',
   supportEmail: 'care@farmtofamily.in',
   headquartersAddress: 'Farm-to-Family Agro Labs, 4th Floor, Estate Hub, 100 Ft Road, Indiranagar, Bengaluru 560038',

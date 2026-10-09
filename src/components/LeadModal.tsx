@@ -237,7 +237,7 @@ export default function LeadModal({
                     type="tel"
                     value={mobile}
                     onChange={(e) => setMobile(e.target.value)}
-                    placeholder="e.g. 98450 11234"
+                    placeholder="e.g. 7877832221"
                     className={`w-full px-3.5 py-2.5 rounded-xl border bg-white text-sm focus:outline-none focus:ring-2 focus:ring-[#2D5A3C] transition ${
                       errors.mobile ? 'border-red-500 bg-red-50/20' : 'border-[#D8D1C5]'
                     }`}

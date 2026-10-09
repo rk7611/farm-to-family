@@ -1561,7 +1561,7 @@ export default function AdminDashboardPage() {
                   required
                   value={newCustPhone}
                   onChange={(e) => setNewCustPhone(e.target.value)}
-                  placeholder="e.g. 98450 99881"
+                  placeholder="e.g. 7877832221"
                   className="w-full px-3.5 py-2 rounded-xl border border-[#D8D1C5] text-sm"
                 />
               </div>

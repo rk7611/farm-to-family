@@ -1284,7 +1284,7 @@ ${post.copy}
 
 👉 ${post.cta}
 
-Tap the link in bio or WhatsApp us directly at +91 98450 12345 to reserve your family's dedicated farm plot.
+Tap the link in bio or WhatsApp us directly at +91 7877832221 to reserve your family's dedicated farm plot.
 
 ${post.hashtags}`;
 
