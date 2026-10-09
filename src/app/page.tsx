@@ -934,15 +934,13 @@ export default function HomePage() {
                 <div className="space-y-6">
                   <div>
                     <span className="text-xs font-bold uppercase tracking-wider text-[#628A6F]">
-                      Natural farming for your family’s everyday food needs
+                      Natural farming for your family&rsquo;s everyday food needs.
                     </span>
                     <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                       My Family&rsquo;s Farm
                     </h3>
                     <p className="text-xs text-zinc-600 mt-2 leading-relaxed">
-                      PureVegies provides the land and manages the farming. Choose from available vegetables
-                      and seasonal crops grown using our natural farming approach. We harvest, pack and deliver
-                      according to your subscription plan.
+                      PureVegies provides the land and manages the farming according to natural farming practices, delivering seasonal vegetables to your home.
                     </p>
                   </div>
 
@@ -1002,7 +1000,7 @@ export default function HomePage() {
                 <div className="space-y-6">
                   <div>
                     <span className="text-xs font-bold uppercase tracking-wider text-[#B2763D]">
-                      A dedicated farming experience shaped around your family’s preferences
+                      A dedicated farm experience with greater choice and larger volume.
                     </span>
                     <h3 className="font-serif text-2xl sm:text-3xl font-bold text-[#102115] mt-1">
                       My Dedicated Farm
@@ -1072,7 +1070,7 @@ export default function HomePage() {
                 <div className="space-y-6 relative z-10">
                   <div className="flex items-center justify-between">
                     <span className="text-xs font-bold uppercase tracking-wider text-[#C48248]">
-                      A premium, privately managed natural farming experience
+                      An exclusive managed farming service for estates and large families.
                     </span>
                     <span className="text-[10px] uppercase font-mono px-2 py-0.5 rounded-full bg-[#C48248]/20 text-[#edd2bd] border border-[#C48248]/30">
                       Bespoke
@@ -1084,8 +1082,7 @@ export default function HomePage() {
                       My Private Farm
                     </h3>
                     <p className="text-xs text-zinc-300 mt-2 leading-relaxed">
-                      Enjoy a highly personalised farming service on PureVegies-managed farmland. Our team coordinates
-                      the cultivation, farm monitoring, harvesting and delivery around your family&rsquo;s requirements.
+                      PureVegies manages the land, farming operations, crop scheduling, harvesting and delivery for a private farming experience.
                     </p>
                     <p className="text-[11px] text-[#A1D1AF] font-medium mt-1 bg-[#1A3824] px-2 py-0.5 rounded">
                       Managed farming service • Customers do not purchase agricultural land
